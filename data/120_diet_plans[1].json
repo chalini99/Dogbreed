@@ -1,0 +1,4202 @@
+[
+  {
+    "name": "affenpinscher",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1/4 cup small kibble + 1 tsp salmon oil (split 3 meals)",
+        "tuesday": "30g lean protein (chicken/turkey) + soft vegetables",
+        "wednesday": "1/2 cup small kibble + 1 tsp curd",
+        "thursday": "30g white fish + sweet potato puree",
+        "friday": "1/4 cup small kibble + 1/2 boiled egg",
+        "saturday": "30g lean meat + 1 tbsp rice",
+        "sunday": "1/2 cup small kibble (split into 3 meals)"
+      },
+      "adult": {
+        "monday": "1/2 cup small breed kibble (split 2 meals) + dental chew",
+        "tuesday": "60g lean chicken + small portion of rice/oats",
+        "wednesday": "3/4 cup kibble + digestive enzyme supplement",
+        "thursday": "50g fish + pumpkin puree",
+        "friday": "1/2 cup kibble + small portion of boiled egg",
+        "saturday": "70g lean lamb/turkey + green beans",
+        "sunday": "3/4 cup kibble (monitor for obesity)"
+      },
+      "senior": {
+        "monday": "1/4 cup senior kibble (soaked) + joint supplement",
+        "tuesday": "40g soft-cooked lean meat + broth",
+        "wednesday": "1/2 cup senior kibble + mashed sweet potato",
+        "thursday": "40g white fish + curd",
+        "friday": "Senior kibble + steamed carrots",
+        "saturday": "Soft chicken and rice meal (small portion)",
+        "sunday": "1/4 cup senior kibble + 1/2 boiled egg"
+      },
+      "pregnant/nursing": {
+        "diet": "Calorie intake increased up to 3x during peak nursing. Feed small, nutrient-dense meals frequently (puppy formula) throughout the day to maintain energy and blood sugar."
+      }
+    }
+  },
+  {
+    "name": "afghan_hound",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1.5 cups large-breed puppy kibble (split 3 meals) + joint supplement",
+        "tuesday": "100g chicken + brown rice + peas",
+        "wednesday": "2 cups kibble + fish oil (Omega-3s for coat)",
+        "thursday": "120g lamb + sweet potato + curd",
+        "friday": "1.5 cups kibble + steamed veggies",
+        "saturday": "100g beef + oats + pumpkin",
+        "sunday": "2 cups kibble + bone broth"
+      },
+      "adult": {
+        "monday": "2 cups high-quality performance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "250g lean meat (venison/chicken) + rice + vegetables",
+        "wednesday": "2.5 cups kibble + fish oil",
+        "thursday": "200g white fish + sweet potato + spinach",
+        "friday": "2 cups kibble + cottage cheese",
+        "saturday": "300g lean beef + brown rice",
+        "sunday": "2.5 cups kibble (maintain very lean body condition)"
+      },
+      "senior": {
+        "monday": "1.5 cups senior kibble (low calorie) + joint supplement",
+        "tuesday": "150g lean chicken + blended vegetables",
+        "wednesday": "2 cups senior kibble + fish oil",
+        "thursday": "100g fish + soft grains",
+        "friday": "1.5 cups kibble + pumpkin puree",
+        "saturday": "150g lean meat + rice",
+        "sunday": "2 cups senior kibble (easily digestible formula)"
+      },
+      "pregnant/nursing": {
+        "diet": "Gradually transition to high-quality puppy food starting at 6 weeks gestation. Calorie needs increase sharply during nursing. Monitor iron levels due to high litter size potential."
+      }
+    }
+  },
+  {
+    "name": "african_hunting_dog",
+    "diet_plan": {
+      "puppy": {
+        "monday": "NOT APPLICABLE. Wild Canid. Diet consists of meat regurgitated by pack members.",
+        "tuesday": "NOT APPLICABLE. Wild Canid.",
+        "wednesday": "NOT APPLICABLE. Wild Canid.",
+        "thursday": "NOT APPLICABLE. Wild Canid.",
+        "friday": "NOT APPLICABLE. Wild Canid.",
+        "saturday": "NOT APPLICABLE. Wild Canid.",
+        "sunday": "NOT APPLICABLE. Wild Canid."
+      },
+      "adult": {
+        "monday": "NOT APPLICABLE. Wild Canid. Diet is whole prey and raw meat only. Unsuitable for domestic diets.",
+        "tuesday": "NOT APPLICABLE. Wild Canid.",
+        "wednesday": "NOT APPLICABLE. Wild Canid.",
+        "thursday": "NOT APPLICABLE. Wild Canid.",
+        "friday": "NOT APPLICABLE. Wild Canid.",
+        "saturday": "NOT APPLICABLE. Wild Canid.",
+        "sunday": "NOT APPLICABLE. Wild Canid."
+      },
+      "senior": {
+        "monday": "NOT APPLICABLE. Wild Canid. Diet is strictly meat and bone.",
+        "tuesday": "NOT APPLICABLE. Wild Canid.",
+        "wednesday": "NOT APPLICABLE. Wild Canid.",
+        "thursday": "NOT APPLICABLE. Wild Canid.",
+        "friday": "NOT APPLICABLE. Wild Canid.",
+        "saturday": "NOT APPLICABLE. Wild Canid.",
+        "sunday": "NOT APPLICABLE. Wild Canid."
+      },
+      "pregnant/nursing": {
+        "diet": "NOT APPLICABLE. Wild Canid. High-protein, high-fat whole prey diet to support nursing litter. Reproduction managed only in zoological settings."
+      }
+    }
+  },
+  {
+    "name": "airedale",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2 cups large-breed puppy kibble (split 3 meals)",
+        "tuesday": "150g lean beef + rice + green beans",
+        "wednesday": "2.5 cups kibble + yogurt",
+        "thursday": "1 boiled egg + 100g chicken + oats",
+        "friday": "2 cups kibble + fish oil",
+        "saturday": "150g lamb + sweet potato",
+        "sunday": "2.5 cups kibble (feed from floor, not elevated, when young)"
+      },
+      "adult": {
+        "monday": "3 cups active maintenance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "300g lean chicken + brown rice + vegetables",
+        "wednesday": "3.5 cups kibble (feed elevated) + salmon oil",
+        "thursday": "250g fish + pumpkin puree",
+        "friday": "3 cups kibble + cottage cheese",
+        "saturday": "350g beef/lamb + oats",
+        "sunday": "3.5 cups kibble (maintain lean body weight)"
+      },
+      "senior": {
+        "monday": "2 cups senior kibble + joint supplement",
+        "tuesday": "200g lean meat + steamed veggies",
+        "wednesday": "2.5 cups senior kibble + high-fiber grains",
+        "thursday": "150g fish + pumpkin",
+        "friday": "2 cups senior kibble + apple slices",
+        "saturday": "200g chicken + rice",
+        "sunday": "2.5 cups senior kibble"
+      },
+      "pregnant/nursing": {
+        "diet": "Transition to performance puppy food by week 6. Feed 3 smaller meals per day to manage digestion and minimize Bloat risk. Ensure consistent hydration."
+      }
+    }
+  },
+  {
+    "name": "american_staffordshire_terrier",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1.5 cups medium-breed puppy food (split 3 meals) + fish oil",
+        "tuesday": "100g lean beef + rice + peas",
+        "wednesday": "2 cups kibble + probiotic (curd/yogurt)",
+        "thursday": "1 boiled egg + 80g chicken + sweet potato",
+        "friday": "1.5 cups kibble + vitamin greens",
+        "saturday": "120g lamb + oats",
+        "sunday": "2 cups kibble (focus on muscle-building protein)"
+      },
+      "adult": {
+        "monday": "2 cups high-protein kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "250g lean chicken/turkey + rice + spinach",
+        "wednesday": "3 cups kibble + joint supplement",
+        "thursday": "200g fish + pumpkin puree",
+        "friday": "2 cups kibble + cottage cheese (allergy-safe protein)",
+        "saturday": "300g lean beef + brown rice",
+        "sunday": "3 cups kibble (avoid corn/wheat due to allergy risk)"
+      },
+      "senior": {
+        "monday": "1.5 cups senior kibble + joint supplement",
+        "tuesday": "150g lean chicken + steamed veggies",
+        "wednesday": "2 cups senior kibble + fish oil",
+        "thursday": "100g fish + soft grains",
+        "friday": "1.5 cups kibble + pumpkin puree",
+        "saturday": "150g lean meat + rice",
+        "sunday": "2 cups senior kibble (high protein to maintain muscle)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-protein puppy food transition. Calorie intake must increase substantially. Monitor calcium/phosphorus ratios carefully during nursing to prevent eclampsia."
+      }
+    }
+  },
+  {
+    "name": "appenzeller",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2 cups large-breed puppy food (split 3 meals) + turmeric for joint health",
+        "tuesday": "150g lean meat + brown rice + joint supplement",
+        "wednesday": "2.5 cups kibble + yogurt",
+        "thursday": "1 boiled egg + 100g chicken + oats",
+        "friday": "2 cups kibble + fish oil",
+        "saturday": "150g lamb + sweet potato",
+        "sunday": "2.5 cups kibble (maintain lean body weight)"
+      },
+      "adult": {
+        "monday": "3 cups performance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "300g lean beef/venison + rice + carrots",
+        "wednesday": "3.5 cups kibble + joint supplement",
+        "thursday": "250g fish + pumpkin puree",
+        "friday": "3 cups kibble + cottage cheese",
+        "saturday": "350g lean meat + complex carbohydrates (oats/barley)",
+        "sunday": "3.5 cups kibble (high caloric density required for intense activity)"
+      },
+      "senior": {
+        "monday": "2 cups senior kibble + Glucosamine/Chondroitin",
+        "tuesday": "200g lean chicken + steamed veggies",
+        "wednesday": "2.5 cups senior kibble + high-fiber grains",
+        "thursday": "150g fish + pumpkin",
+        "friday": "2 cups senior kibble + apple slices",
+        "saturday": "200g chicken + rice",
+        "sunday": "2.5 cups senior kibble (monitor kidney function)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-calorie puppy food starting at 5 weeks gestation. Feed in 3 small meals to prevent digestive issues. Ensure high protein for muscle maintenance."
+      }
+    }
+  },
+  {
+    "name": "australian_terrier",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1/2 cup small kibble (split 3 meals) + 1 tsp salmon oil",
+        "tuesday": "40g lean chicken + rice + peas",
+        "wednesday": "3/4 cup kibble + probiotic",
+        "thursday": "40g fish + sweet potato puree",
+        "friday": "1/2 cup kibble + 1/2 boiled egg",
+        "saturday": "50g lean lamb + oats",
+        "sunday": "3/4 cup kibble (strict portion control)"
+      },
+      "adult": {
+        "monday": "1 cup active small-breed kibble (split 2 meals) + dental chew",
+        "tuesday": "70g lean turkey + sweet potato + green beans",
+        "wednesday": "1.5 cups kibble + curd",
+        "thursday": "60g fish + rice",
+        "friday": "1 cup kibble + small apple slices",
+        "saturday": "80g lean beef + carrots",
+        "sunday": "1.5 cups kibble (prone to weight gain)"
+      },
+      "senior": {
+        "monday": "3/4 cup senior kibble (low calorie) + joint supplement",
+        "tuesday": "50g soft-cooked chicken + broth",
+        "wednesday": "1 cup senior kibble + mashed pumpkin",
+        "thursday": "40g white fish + oats",
+        "friday": "3/4 cup senior kibble + lean meat snack",
+        "saturday": "50g chicken + rice",
+        "sunday": "1 cup senior kibble (focus on dental health)"
+      },
+      "pregnant/nursing": {
+        "diet": "Small, highly caloric meals of puppy food, free-fed during peak nursing if possible. Must avoid skipping meals due to Hypoglycemia risk."
+      }
+    }
+  },
+  {
+    "name": "basenji",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1 cup medium-breed puppy food (split 3 meals) + fish oil",
+        "tuesday": "80g lean meat + rice + peas",
+        "wednesday": "1.5 cups kibble + pumpkin puree",
+        "thursday": "1/2 boiled egg + 60g chicken + sweet potato",
+        "friday": "1 cup kibble + joint supplement",
+        "saturday": "90g lamb + oats",
+        "sunday": "1.5 cups kibble (ensure high quality/palatability)"
+      },
+      "adult": {
+        "monday": "1.5 cups maintenance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "150g lean protein + brown rice + vegetables",
+        "wednesday": "2 cups kibble + fish oil",
+        "thursday": "120g fish + pumpkin puree",
+        "friday": "1.5 cups kibble + cottage cheese",
+        "saturday": "200g lean meat + sweet potato",
+        "sunday": "2 cups kibble (Low-protein diet if diagnosed with Fanconi Syndrome)"
+      },
+      "senior": {
+        "monday": "1 cup senior kibble + joint supplement",
+        "tuesday": "100g lean chicken + steamed greens",
+        "wednesday": "1.5 cups senior kibble + raw pumpkin (aids digestion)",
+        "thursday": "80g white fish + oats",
+        "friday": "1 cup senior kibble + vegetable mix",
+        "saturday": "100g lean meat + rice",
+        "sunday": "1.5 cups senior kibble (moderate protein/high fiber)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Monitor for changes in kidney/liver values during pregnancy. Feed 3 small meals daily."
+      }
+    }
+  },
+  {
+    "name": "basset",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1.5 cups medium-breed puppy food (split 3 meals) + joint supplement",
+        "tuesday": "100g lean meat + rice + peas",
+        "wednesday": "2 cups kibble + yogurt",
+        "thursday": "1 boiled egg + 80g chicken + sweet potato",
+        "friday": "1.5 cups kibble + bone broth",
+        "saturday": "120g lamb + oats",
+        "sunday": "2 cups kibble (strict portion control to prevent rapid growth)"
+      },
+      "adult": {
+        "monday": "1.5 cups maintenance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "150g lean protein + brown rice + vegetables",
+        "wednesday": "2 cups maintenance kibble (low-fat formula) + Glucosamine",
+        "thursday": "120g fish + pumpkin puree",
+        "friday": "1.5 cups kibble + cottage cheese",
+        "saturday": "200g lean meat + sweet potato",
+        "sunday": "2 cups kibble (avoid free-feeding due to obesity risk)"
+      },
+      "senior": {
+        "monday": "1 cup senior weight control kibble + joint supplement",
+        "tuesday": "100g lean chicken + steamed greens",
+        "wednesday": "1.5 cups senior kibble + pumpkin puree",
+        "thursday": "80g white fish + oats",
+        "friday": "1 cup senior kibble + gentle vegetables",
+        "saturday": "100g lean meat + rice",
+        "sunday": "1.5 cups senior kibble (protects joints from excess weight)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-calorie puppy food. Monitor for anemia during pregnancy. Feed 3 small meals daily."
+      }
+    }
+  },
+  {
+    "name": "beagle",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1 cup medium-breed puppy food (split 3 meals) + fish oil",
+        "tuesday": "80g lean meat + rice + peas",
+        "wednesday": "1.5 cups kibble + yogurt",
+        "thursday": "1/2 boiled egg + 60g chicken + sweet potato",
+        "friday": "1 cup kibble + bone broth",
+        "saturday": "90g lamb + oats",
+        "sunday": "1.5 cups kibble (extreme food motivation—strict portioning!)"
+      },
+      "adult": {
+        "monday": "1 cup active maintenance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "150g lean protein + brown rice + vegetables",
+        "wednesday": "1.5 cups kibble (low-fat formula) + pumpkin",
+        "thursday": "120g fish + green beans (low calorie snack)",
+        "friday": "1 cup kibble + cottage cheese",
+        "saturday": "200g lean meat + sweet potato",
+        "sunday": "1.5 cups kibble (measure every portion strictly)"
+      },
+      "senior": {
+        "monday": "1 cup senior low-fat kibble + joint supplement",
+        "tuesday": "100g lean chicken + steamed greens",
+        "wednesday": "1.5 cups senior kibble + high-fiber vegetables",
+        "thursday": "80g white fish + oats",
+        "friday": "1 cup senior kibble + apple slices",
+        "saturday": "100g lean meat + rice",
+        "sunday": "1.5 cups senior kibble (avoids excessive weight gain)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Ensure sufficient intake during the final weeks of pregnancy. Feed 3 small meals daily."
+      }
+    }
+  },
+  {
+    "name": "bedlington_terrier",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1/2 cup small-breed puppy food (split 3 meals) + liver health supplement",
+        "tuesday": "40g lean chicken + rice + peas",
+        "wednesday": "3/4 cup kibble + curd",
+        "thursday": "40g fish + sweet potato puree (monitor copper content)",
+        "friday": "1/2 cup kibble + 1/2 boiled egg",
+        "saturday": "50g lean lamb + oats",
+        "sunday": "3/4 cup kibble (strict portion control)"
+      },
+      "adult": {
+        "monday": "1 cup maintenance kibble (split 2 meals) + dental chew",
+        "tuesday": "70g lean turkey + sweet potato + green beans",
+        "wednesday": "1.5 cups kibble (low-copper formula if required) + joint support",
+        "thursday": "60g fish + rice",
+        "friday": "1 cup kibble + low-copper cottage cheese",
+        "saturday": "80g lean beef + carrots",
+        "sunday": "1.5 cups kibble (low-copper diet may be medically necessary)"
+      },
+      "senior": {
+        "monday": "3/4 cup senior kibble (low calorie) + joint supplement",
+        "tuesday": "50g soft-cooked chicken + broth",
+        "wednesday": "1 cup senior kibble + mashed pumpkin",
+        "thursday": "40g white fish + oats",
+        "friday": "3/4 cup senior kibble + lean meat snack",
+        "saturday": "50g chicken + rice",
+        "sunday": "1 cup senior kibble (low-copper diet)"
+      },
+      "pregnant/nursing": {
+        "diet": "Small, frequent meals of puppy food. Must consult vet regarding supplementation to avoid excessive copper levels during gestation."
+      }
+    }
+  },
+  {
+    "name": "bernese_mountain_dog",
+    "diet_plan": {
+      "puppy": {
+        "monday": "3 cups large-breed puppy formula (split 3 meals) + joint supplement",
+        "tuesday": "200g lean chicken + brown rice + turmeric",
+        "wednesday": "4 cups kibble + fish oil (controlled growth formula)",
+        "thursday": "1 boiled egg + 150g beef + oats",
+        "friday": "3 cups kibble + bone broth",
+        "saturday": "200g lamb + sweet potato",
+        "sunday": "4 cups kibble (strict growth monitoring is critical)"
+      },
+      "adult": {
+        "monday": "4 cups large-breed kibble (split 2 meals) + Glucosamine/Chondroitin",
+        "tuesday": "400g lean meat (venison/chicken) + low-glycemic veggies",
+        "wednesday": "5 cups kibble (feed **elevated**) + fish oil",
+        "thursday": "300g fish + pumpkin puree",
+        "friday": "4 cups kibble + cottage cheese (non-fat)",
+        "saturday": "450g lean beef + brown rice (enforce rest after meal)",
+        "sunday": "5 cups kibble (avoid exercise 1 hour before/after eating to minimize Bloat risk)"
+      },
+      "senior": {
+        "monday": "3 cups senior large-breed kibble (low-cal) + joint support",
+        "tuesday": "250g easily digestible chicken + steamed greens",
+        "wednesday": "4 cups senior kibble + pureed pumpkin",
+        "thursday": "200g white fish + soft rice",
+        "friday": "3 cups senior kibble + bone broth",
+        "saturday": "250g lean meat + sweet potato",
+        "sunday": "4 cups senior kibble (focus on easily digestible proteins)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3-4 small meals daily to manage Bloat risk. Ensure consistent intake of calories and nutrients during the high-demand nursing period."
+      }
+    }
+  },
+  {
+    "name": "black-and-tan_coonhound",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2 cups large-breed puppy food (split 3 meals) + joint supplement",
+        "tuesday": "150g lean meat + rice + peas",
+        "wednesday": "2.5 cups kibble + yogurt",
+        "thursday": "1 boiled egg + 100g chicken + sweet potato",
+        "friday": "2 cups kibble + fish oil",
+        "saturday": "150g lamb + oats",
+        "sunday": "2.5 cups kibble (maintain lean body weight)"
+      },
+      "adult": {
+        "monday": "3 cups active maintenance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "300g lean chicken/turkey + brown rice + vegetables",
+        "wednesday": "3.5 cups kibble + joint supplement",
+        "thursday": "250g fish + pumpkin puree",
+        "friday": "3 cups kibble + cottage cheese",
+        "saturday": "350g lean beef + sweet potato",
+        "sunday": "3.5 cups kibble (requires high caloric intake for activity)"
+      },
+      "senior": {
+        "monday": "2 cups senior kibble + joint supplement",
+        "tuesday": "200g lean chicken + steamed greens",
+        "wednesday": "2.5 cups senior kibble + high-fiber grains",
+        "thursday": "150g fish + pumpkin",
+        "friday": "2 cups senior kibble + apple slices",
+        "saturday": "200g chicken + rice",
+        "sunday": "2.5 cups senior kibble (monitor ear health)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-protein puppy food transition. Ensure sufficient water intake due to high exercise needs. Feed 3 small meals daily."
+      }
+    }
+  },
+  {
+    "name": "blenheim_spaniel",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1/2 cup small kibble (split 3 meals) + 1 tsp salmon oil",
+        "tuesday": "40g lean chicken + rice + peas",
+        "wednesday": "3/4 cup kibble + probiotic",
+        "thursday": "40g fish + sweet potato puree",
+        "friday": "1/2 cup kibble + 1/2 boiled egg",
+        "saturday": "50g lean lamb + oats",
+        "sunday": "3/4 cup kibble (avoid obesity at all costs)"
+      },
+      "adult": {
+        "monday": "1 cup small-breed kibble (split 2 meals) + dental chew",
+        "tuesday": "70g lean turkey + sweet potato + green beans",
+        "wednesday": "1.5 cups kibble (low sodium/fat formula) + joint support",
+        "thursday": "60g fish + rice",
+        "friday": "1 cup kibble + low-fat cottage cheese",
+        "saturday": "80g lean beef + carrots",
+        "sunday": "1.5 cups kibble (cardiac monitoring required)"
+      },
+      "senior": {
+        "monday": "3/4 cup senior kibble (low calorie, low sodium) + cardiac supplement",
+        "tuesday": "50g soft-cooked chicken + broth",
+        "wednesday": "1 cup senior kibble + mashed pumpkin",
+        "thursday": "40g white fish + oats",
+        "friday": "3/4 cup senior kibble + lean meat snack",
+        "saturday": "50g chicken + rice",
+        "sunday": "1 cup senior kibble (monitor weight closely for MVD)"
+      },
+      "pregnant/nursing": {
+        "diet": "Small, frequent meals of high-calorie puppy food. Monitor for signs of eclampsia and cardiac distress during nursing."
+      }
+    }
+  },
+  {
+    "name": "bloodhound",
+    "diet_plan": {
+      "puppy": {
+        "monday": "3.5 cups giant-breed puppy formula (split 3 meals) + joint supplement",
+        "tuesday": "250g lean beef + rice + turmeric",
+        "wednesday": "4.5 cups kibble + bone broth",
+        "thursday": "1 boiled egg + 200g chicken + sweet potato",
+        "friday": "3.5 cups kibble + fish oil (controlled growth is critical)",
+        "saturday": "300g lamb + oats",
+        "sunday": "4.5 cups kibble (slow growth formula for 24 months)"
+      },
+      "adult": {
+        "monday": "5 cups giant-breed kibble (split 2 meals) + Glucosamine/Chondroitin",
+        "tuesday": "400g lean meat (venison/chicken) + low-glycemic veggies",
+        "wednesday": "6 cups kibble (feed **elevated**) + fish oil",
+        "thursday": "300g fish + pumpkin puree",
+        "friday": "5 cups kibble + cottage cheese (non-fat)",
+        "saturday": "500g lean beef + brown rice (enforce rest after meal)",
+        "sunday": "6 cups kibble (extreme Bloat risk; feed slowly)"
+      },
+      "senior": {
+        "monday": "4 cups senior giant-breed kibble + joint support",
+        "tuesday": "300g easily digestible chicken + steamed greens",
+        "wednesday": "5 cups senior kibble + pureed pumpkin",
+        "thursday": "250g white fish + soft rice",
+        "friday": "4 cups senior kibble + bone broth",
+        "saturday": "300g lean meat + sweet potato",
+        "sunday": "5 cups senior kibble (low-protein formula may be advised)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-calorie puppy food starting late in pregnancy. Feed 3-4 small meals daily, elevated, and strictly enforce rest to manage extreme Bloat risk."
+      }
+    }
+  },
+  {
+    "name": "bluetick",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2 cups medium-to-large puppy food (split 3 meals) + fish oil",
+        "tuesday": "150g lean meat + rice + peas",
+        "wednesday": "2.5 cups kibble + yogurt",
+        "thursday": "1 boiled egg + 100g chicken + sweet potato",
+        "friday": "2 cups kibble + bone broth",
+        "saturday": "150g lamb + oats",
+        "sunday": "2.5 cups kibble (high energy requires consistent calories)"
+      },
+      "adult": {
+        "monday": "3 cups active performance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "300g lean chicken/turkey + brown rice + vegetables",
+        "wednesday": "3.5 cups kibble + joint supplement",
+        "thursday": "250g fish + pumpkin puree",
+        "friday": "3 cups kibble + cottage cheese",
+        "saturday": "350g lean beef + sweet potato",
+        "sunday": "3.5 cups kibble (high caloric intake for extreme activity)"
+      },
+      "senior": {
+        "monday": "2 cups senior kibble + joint supplement",
+        "tuesday": "200g lean chicken + steamed greens",
+        "wednesday": "2.5 cups senior kibble + high-fiber grains",
+        "thursday": "150g fish + pumpkin",
+        "friday": "2 cups senior kibble + apple slices",
+        "saturday": "200g chicken + rice",
+        "sunday": "2.5 cups senior kibble (monitor ears for yeast infections)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-protein puppy food. Ensure sufficient water intake and high caloric density due to high exercise needs. Feed 3 small meals daily."
+      }
+    }
+  },
+  {
+    "name": "border_collie",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1.5 cups medium-breed puppy food (split 3 meals) + fish oil",
+        "tuesday": "100g lean meat + brown rice + peas",
+        "wednesday": "2 cups kibble + probiotic",
+        "thursday": "1/2 boiled egg + 80g chicken + sweet potato",
+        "friday": "1.5 cups kibble + mental puzzle feeder",
+        "saturday": "120g lamb + oats (fuel for energy)",
+        "sunday": "2 cups kibble (highly active—requires high caloric density)"
+      },
+      "adult": {
+        "monday": "2 cups performance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "250g lean protein + brown rice + vegetables",
+        "wednesday": "2.5 cups kibble + joint supplement",
+        "thursday": "200g fish + pumpkin puree",
+        "friday": "2 cups kibble + cottage cheese (allergy-safe protein)",
+        "saturday": "300g lean meat + sweet potato (high energy output)",
+        "sunday": "2.5 cups kibble (maintain very lean, athletic weight)"
+      },
+      "senior": {
+        "monday": "1.5 cups senior kibble + joint supplement",
+        "tuesday": "150g lean chicken + steamed greens",
+        "wednesday": "2 cups senior kibble + food puzzle for mental stimulation",
+        "thursday": "100g fish + soft grains",
+        "friday": "1.5 cups kibble + pumpkin puree",
+        "saturday": "150g lean meat + rice",
+        "sunday": "2 cups senior kibble (focus on joint health and mental engagement)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-calorie puppy food. Ensure sufficient B vitamins for energy during nursing. Monitor body condition closely during high-demand periods."
+      }
+    }
+  },
+  {
+    "name": "border_terrier",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1/2 cup small-breed puppy food (split 3 meals) + 1 tsp salmon oil",
+        "tuesday": "40g lean chicken + rice + peas",
+        "wednesday": "3/4 cup kibble + probiotic",
+        "thursday": "40g fish + sweet potato puree",
+        "friday": "1/2 cup kibble + 1/2 boiled egg",
+        "saturday": "50g lean lamb + oats",
+        "sunday": "3/4 cup kibble (prone to weight gain—keep portions small)"
+      },
+      "adult": {
+        "monday": "1 cup maintenance kibble (split 2 meals) + dental chew",
+        "tuesday": "70g lean turkey + sweet potato + green beans",
+        "wednesday": "1.5 cups kibble + joint support",
+        "thursday": "60g fish + rice",
+        "friday": "1 cup kibble + cottage cheese",
+        "saturday": "80g lean beef + carrots",
+        "sunday": "1.5 cups kibble (strict portion control necessary)"
+      },
+      "senior": {
+        "monday": "3/4 cup senior low-calorie kibble + joint supplement",
+        "tuesday": "50g soft-cooked chicken + broth",
+        "wednesday": "1 cup senior kibble + mashed pumpkin",
+        "thursday": "40g white fish + oats",
+        "friday": "3/4 cup senior kibble + lean meat snack",
+        "saturday": "50g chicken + rice",
+        "sunday": "1 cup senior kibble (avoids overfeeding which stresses back)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-calorie small-kibble puppy food. Feed multiple small meals daily. Monitor weight closely as they gain weight easily."
+      }
+    }
+  },
+  {
+    "name": "borzoi",
+    "diet_plan": {
+      "puppy": {
+        "monday": "3 cups giant-breed puppy formula (split 3 meals) + joint supplement",
+        "tuesday": "200g lean beef + rice + turmeric",
+        "wednesday": "4 cups kibble + fish oil (controlled growth formula)",
+        "thursday": "1 boiled egg + 150g chicken + oats",
+        "friday": "3 cups kibble + bone broth",
+        "saturday": "200g lamb + sweet potato",
+        "sunday": "4 cups kibble (slow growth formula for 18-24 months)"
+      },
+      "adult": {
+        "monday": "4 cups giant-breed kibble (split 2 meals) + Glucosamine/Chondroitin",
+        "tuesday": "400g lean meat (venison/chicken) + low-glycemic veggies",
+        "wednesday": "5 cups kibble (feed **elevated**) + fish oil",
+        "thursday": "300g fish + pumpkin puree",
+        "friday": "4 cups kibble + cottage cheese (non-fat)",
+        "saturday": "450g lean beef + brown rice (enforce rest after meal)",
+        "sunday": "5 cups kibble (extreme Bloat risk; feed slowly and rest)"
+      },
+      "senior": {
+        "monday": "3 cups senior large-breed kibble + joint support",
+        "tuesday": "250g easily digestible chicken + steamed greens",
+        "wednesday": "4 cups senior kibble + pureed pumpkin",
+        "thursday": "200g white fish + soft rice",
+        "friday": "3 cups senior kibble + bone broth",
+        "saturday": "250g lean meat + sweet potato",
+        "sunday": "4 cups senior kibble (highly sensitive digestive systems)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3-4 small meals daily to mitigate Bloat risk. Ensure easy access to water."
+      }
+    }
+  },
+  {
+    "name": "boston_bull",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1/2 cup small kibble (split 3 meals) + 1 tsp salmon oil",
+        "tuesday": "40g lean chicken + rice + peas",
+        "wednesday": "3/4 cup kibble + probiotic",
+        "thursday": "40g fish + sweet potato puree",
+        "friday": "1/2 cup kibble + 1/2 boiled egg",
+        "saturday": "50g lean lamb + oats",
+        "sunday": "3/4 cup kibble (small, easy-to-chew kibble)"
+      },
+      "adult": {
+        "monday": "1 cup small-breed kibble (split 2 meals) + dental chew",
+        "tuesday": "70g lean turkey + sweet potato + green beans",
+        "wednesday": "1.5 cups kibble (easily digestible protein) + wrinkle clean",
+        "thursday": "60g fish + rice",
+        "friday": "1 cup kibble + low-fat cottage cheese",
+        "saturday": "80g lean beef + carrots",
+        "sunday": "1.5 cups kibble (avoid high-fat fillers to reduce flatulence)"
+      },
+      "senior": {
+        "monday": "3/4 cup senior kibble (low calorie) + joint supplement",
+        "tuesday": "50g soft-cooked chicken + broth",
+        "wednesday": "1 cup senior kibble (soaked) + mashed pumpkin",
+        "thursday": "40g white fish + oats",
+        "friday": "3/4 cup senior kibble + lean meat snack",
+        "saturday": "50g chicken + rice",
+        "sunday": "1 cup senior kibble (soft food preferred to prevent choking)"
+      },
+      "pregnant/nursing": {
+        "diet": "Small, frequent meals of high-calorie puppy food. Monitor breathing and temperature closely during feeding due to brachycephalic airway."
+      }
+    }
+  },
+  {
+    "name": "bouvier_des_flandres",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2 cups large-breed puppy food (split 3 meals) + joint supplement",
+        "tuesday": "150g lean beef + rice + green beans",
+        "wednesday": "2.5 cups kibble + yogurt",
+        "thursday": "1 boiled egg + 100g chicken + oats",
+        "friday": "2 cups kibble + fish oil",
+        "saturday": "150g lamb + sweet potato",
+        "sunday": "2.5 cups kibble (controlled growth, avoid excess calcium)"
+      },
+      "adult": {
+        "monday": "3 cups large-breed working dog kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "300g lean chicken/beef + brown rice + vegetables",
+        "wednesday": "3.5 cups kibble (feed elevated) + salmon oil",
+        "thursday": "250g fish + pumpkin puree",
+        "friday": "3 cups kibble + cottage cheese",
+        "saturday": "350g beef/lamb + oats",
+        "sunday": "3.5 cups kibble (monitor for Bloat)"
+      },
+      "senior": {
+        "monday": "2 cups senior large-breed kibble + joint support",
+        "tuesday": "200g lean meat + steamed veggies",
+        "wednesday": "2.5 cups senior kibble + high-fiber grains",
+        "thursday": "150g fish + pumpkin",
+        "friday": "2 cups senior kibble + apple slices",
+        "saturday": "200g chicken + rice",
+        "sunday": "2.5 cups senior kibble (high fiber for coat and digestion)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-protein puppy food. Feed 3-4 small meals daily to manage Bloat risk. High quality protein is required to maintain muscle and coat condition."
+      }
+    }
+  },
+  {
+    "name": "boxer",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2 cups large-breed puppy formula (split 3 meals) + Taurine supplement",
+        "tuesday": "150g lean meat + rice + turmeric",
+        "wednesday": "2.5 cups kibble + fish oil (for heart health)",
+        "thursday": "1 boiled egg + 100g chicken + sweet potato",
+        "friday": "2 cups kibble + L-Carnitine supplement",
+        "saturday": "150g lamb + oats",
+        "sunday": "2.5 cups kibble (controlled growth formula)"
+      },
+      "adult": {
+        "monday": "3 cups high-quality active kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "300g lean chicken/beef + low-glycemic veggies",
+        "wednesday": "3.5 cups kibble (feed **elevated**) + Taurine/L-Carnitine",
+        "thursday": "250g fish + pumpkin puree",
+        "friday": "3 cups kibble + cottage cheese",
+        "saturday": "350g lean meat + brown rice (enforce rest after meal)",
+        "sunday": "3.5 cups kibble (extreme Bloat risk; feed slowly and rest)"
+      },
+      "senior": {
+        "monday": "2 cups senior low-calorie kibble + cardiac supplements",
+        "tuesday": "200g easily digestible chicken + steamed greens",
+        "wednesday": "2.5 cups senior kibble + fish oil",
+        "thursday": "150g white fish + soft grains",
+        "friday": "2 cups senior kibble + pureed pumpkin",
+        "saturday": "200g lean meat + rice",
+        "sunday": "2.5 cups senior kibble (cardiac health is critical)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Monitor cardiac health closely during pregnancy and nursing. Feed 3-4 small meals daily to manage Bloat risk."
+      }
+    }
+  },
+  {
+    "name": "brabancon_griffon",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1/4 cup small kibble (split 3 meals) + 1 tsp salmon oil",
+        "tuesday": "30g lean chicken + rice + peas",
+        "wednesday": "1/2 cup kibble + 1 tsp curd",
+        "thursday": "30g white fish + sweet potato puree",
+        "friday": "1/4 cup kibble + 1/2 boiled egg",
+        "saturday": "30g lean meat + 1 tbsp rice",
+        "sunday": "1/2 cup kibble (small, easy-to-chew kibble)"
+      },
+      "adult": {
+        "monday": "3/4 cup small breed kibble (split 2 meals) + dental chew",
+        "tuesday": "60g lean chicken + small portion of rice/oats",
+        "wednesday": "1 cup kibble + probiotic",
+        "thursday": "50g fish + pumpkin puree",
+        "friday": "3/4 cup kibble + small portion of boiled egg",
+        "saturday": "70g lean lamb/turkey + green beans",
+        "sunday": "1 cup kibble (monitor weight closely)"
+      },
+      "senior": {
+        "monday": "1/2 cup senior kibble (soaked) + joint supplement",
+        "tuesday": "40g soft-cooked lean meat + broth",
+        "wednesday": "3/4 cup senior kibble + mashed sweet potato",
+        "thursday": "40g white fish + curd",
+        "friday": "1/2 cup senior kibble + steamed carrots",
+        "saturday": "Soft chicken and rice meal (small portion)",
+        "sunday": "3/4 cup senior kibble (soft food preferred for brachycephalic eating)"
+      },
+      "pregnant/nursing": {
+        "diet": "Small, frequent meals of high-calorie puppy food. Monitor breathing during feeding and ensure easy access to water."
+      }
+    }
+  },
+  {
+    "name": "briard",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2.5 cups large-breed puppy food (split 3 meals) + joint supplement",
+        "tuesday": "180g lean beef + rice + green beans",
+        "wednesday": "3 cups kibble + yogurt",
+        "thursday": "1 boiled egg + 130g chicken + oats",
+        "friday": "2.5 cups kibble + fish oil",
+        "saturday": "180g lamb + sweet potato",
+        "sunday": "3 cups kibble (controlled growth is essential)"
+      },
+      "adult": {
+        "monday": "3 cups large-breed kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "350g lean chicken/beef + brown rice + vegetables",
+        "wednesday": "4 cups kibble (feed elevated) + salmon oil",
+        "thursday": "300g fish + pumpkin puree",
+        "friday": "3 cups kibble + cottage cheese",
+        "saturday": "400g lean meat + oats (enforce rest after meal)",
+        "sunday": "4 cups kibble (Bloat risk; high grooming needs benefit from Omega-3s)"
+      },
+      "senior": {
+        "monday": "2.5 cups senior large-breed kibble + joint support",
+        "tuesday": "250g lean meat + steamed veggies",
+        "wednesday": "3 cups senior kibble + high-fiber grains",
+        "thursday": "200g fish + pumpkin",
+        "friday": "2.5 cups senior kibble + apple slices",
+        "saturday": "250g chicken + rice",
+        "sunday": "3 cups senior kibble (high fiber for digestion)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3-4 small meals daily to manage Bloat risk. Ensure diet supports skin and coat health."
+      }
+    }
+  },
+  {
+    "name": "brittany_spaniel",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1.5 cups medium-breed puppy food (split 3 meals) + fish oil",
+        "tuesday": "100g lean meat + brown rice + peas",
+        "wednesday": "2 cups kibble + probiotic",
+        "thursday": "1/2 boiled egg + 80g chicken + sweet potato",
+        "friday": "1.5 cups kibble + bone broth",
+        "saturday": "120g lamb + oats",
+        "sunday": "2 cups kibble (high energy requires sufficient calories)"
+      },
+      "adult": {
+        "monday": "2 cups high-performance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "250g lean protein + brown rice + vegetables",
+        "wednesday": "2.5 cups kibble + joint supplement",
+        "thursday": "200g fish + pumpkin puree",
+        "friday": "2 cups kibble + cottage cheese",
+        "saturday": "300g lean meat + sweet potato (fuel for extreme activity)",
+        "sunday": "2.5 cups kibble (maintain lean, athletic weight)"
+      },
+      "senior": {
+        "monday": "1.5 cups senior kibble + joint supplement",
+        "tuesday": "150g lean chicken + steamed greens",
+        "wednesday": "2 cups senior kibble + food puzzle",
+        "thursday": "100g fish + soft grains",
+        "friday": "1.5 cups kibble + pumpkin puree",
+        "saturday": "150g lean meat + rice",
+        "sunday": "2 cups senior kibble (maintain activity to prevent obesity)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-calorie puppy food. Ensure constant water access and sufficient intake due to high metabolism and activity level. Feed 3 small meals daily."
+      }
+    }
+  },
+  {
+    "name": "bull_mastiff",
+    "diet_plan": {
+      "puppy": {
+        "monday": "4 cups giant-breed puppy formula (split 3 meals) + joint supplement",
+        "tuesday": "250g lean beef + rice + turmeric",
+        "wednesday": "5 cups kibble + fish oil (controlled growth formula)",
+        "thursday": "1 boiled egg + 200g chicken + sweet potato",
+        "friday": "4 cups kibble + bone broth (very slow growth is critical)",
+        "saturday": "300g lamb + oats",
+        "sunday": "5 cups kibble (avoid excess protein/calcium)"
+      },
+      "adult": {
+        "monday": "6 cups giant-breed kibble (split 2 meals) + Glucosamine/Chondroitin",
+        "tuesday": "400g lean meat (venison/chicken) + low-glycemic veggies",
+        "wednesday": "7 cups kibble (feed **elevated**) + fish oil",
+        "thursday": "300g fish + pumpkin puree",
+        "friday": "6 cups kibble + cottage cheese (non-fat)",
+        "saturday": "500g lean beef + brown rice (enforce rest after meal)",
+        "sunday": "7 cups kibble (extreme Bloat risk; low exercise needs mean lower caloric need than some giants)"
+      },
+      "senior": {
+        "monday": "4 cups senior giant-breed kibble + joint support",
+        "tuesday": "300g easily digestible chicken + steamed greens",
+        "wednesday": "5 cups senior kibble + pureed pumpkin",
+        "thursday": "250g white fish + soft rice",
+        "friday": "4 cups senior kibble + bone broth",
+        "saturday": "300g lean meat + sweet potato",
+        "sunday": "5 cups senior kibble (focus on easily digestible proteins)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3-4 small meals daily, elevated, and strictly enforce rest to manage extreme Bloat risk."
+      }
+    }
+  },
+  {
+    "name": "cairn",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1/2 cup small kibble (split 3 meals) + 1 tsp salmon oil",
+        "tuesday": "40g lean chicken + rice + peas",
+        "wednesday": "3/4 cup kibble + probiotic",
+        "thursday": "40g fish + sweet potato puree",
+        "friday": "1/2 cup kibble + 1/2 boiled egg",
+        "saturday": "50g lean lamb + oats",
+        "sunday": "3/4 cup kibble (strict portion control)"
+      },
+      "adult": {
+        "monday": "1 cup maintenance kibble (split 2 meals) + dental chew",
+        "tuesday": "70g lean turkey + sweet potato + green beans",
+        "wednesday": "1.5 cups kibble + joint support",
+        "thursday": "60g fish + rice",
+        "friday": "1 cup kibble + cottage cheese",
+        "saturday": "80g lean beef + carrots",
+        "sunday": "1.5 cups kibble (easily gains weight)"
+      },
+      "senior": {
+        "monday": "3/4 cup senior low-calorie kibble + joint supplement",
+        "tuesday": "50g soft-cooked chicken + broth",
+        "wednesday": "1 cup senior kibble + mashed pumpkin",
+        "thursday": "40g white fish + oats",
+        "friday": "3/4 cup senior kibble + lean meat snack",
+        "saturday": "50g chicken + rice",
+        "sunday": "1 cup senior kibble (dental chews needed)"
+      },
+      "pregnant/nursing": {
+        "diet": "Small, frequent meals of high-calorie puppy food. Monitor for calcium deficiency."
+      }
+    }
+  },
+  {
+    "name": "cardigan",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1 cup small-to-medium puppy food (split 3 meals) + fish oil",
+        "tuesday": "80g lean meat + rice + peas",
+        "wednesday": "1.5 cups kibble + probiotic",
+        "thursday": "1/2 boiled egg + 60g chicken + sweet potato",
+        "friday": "1 cup kibble + joint supplement",
+        "saturday": "90g lamb + oats",
+        "sunday": "1.5 cups kibble (strict portion control to prevent back stress)"
+      },
+      "adult": {
+        "monday": "1.5 cups maintenance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "150g lean protein + brown rice + vegetables",
+        "wednesday": "2 cups kibble + joint supplement (Glucosamine)",
+        "thursday": "120g fish + pumpkin puree",
+        "friday": "1.5 cups kibble + cottage cheese",
+        "saturday": "200g lean meat + sweet potato",
+        "sunday": "2 cups kibble (must maintain lean weight for IVDD prevention)"
+      },
+      "senior": {
+        "monday": "1 cup senior weight management kibble + joint support",
+        "tuesday": "100g lean chicken + steamed greens",
+        "wednesday": "1.5 cups senior kibble + high-fiber grains",
+        "thursday": "80g white fish + oats",
+        "friday": "1 cup senior kibble + apple slices",
+        "saturday": "100g lean meat + rice",
+        "sunday": "1.5 cups senior kibble (low-impact feeding, bowls on floor)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Monitor for calcium deficiency during nursing. Feed 3 small meals daily."
+      }
+    }
+  },
+  {
+    "name": "chesapeake_bay_retriever",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2.5 cups large-breed puppy food (split 3 meals) + fish oil",
+        "tuesday": "180g lean meat + rice + turmeric",
+        "wednesday": "3 cups kibble + yogurt (controlled growth)",
+        "thursday": "1 boiled egg + 130g chicken + oats",
+        "friday": "2.5 cups kibble + joint supplement",
+        "saturday": "180g lamb + sweet potato",
+        "sunday": "3 cups kibble (high activity requires sufficient calories)"
+      },
+      "adult": {
+        "monday": "3 cups performance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "350g lean protein + low-glycemic veggies",
+        "wednesday": "4 cups kibble (feed **elevated**) + salmon oil",
+        "thursday": "300g fish + pumpkin puree",
+        "friday": "3 cups kibble + cottage cheese",
+        "saturday": "400g lean beef + brown rice (enforce rest after meal)",
+        "sunday": "4 cups kibble (high Bloat risk; needs fat/protein for extreme cold/water work)"
+      },
+      "senior": {
+        "monday": "2.5 cups senior large-breed kibble + joint support",
+        "tuesday": "250g easily digestible chicken + steamed greens",
+        "wednesday": "3 cups senior kibble + pureed pumpkin",
+        "thursday": "200g white fish + soft rice",
+        "friday": "2.5 cups senior kibble + bone broth",
+        "saturday": "250g lean meat + sweet potato",
+        "sunday": "3 cups senior kibble (avoid high-fat diets in older age)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3-4 small meals daily to mitigate Bloat risk. Ensure high fat/protein content for milk production."
+      }
+    }
+  },
+  {
+    "name": "chihuahua",
+    "diet_plan": {
+      "puppy": {
+        "monday": "Tiny portions of small kibble (split 4-5 meals) + 1/2 tsp curd",
+        "tuesday": "20g lean chicken + few grains of rice",
+        "wednesday": "Tiny kibble portions + pumpkin puree",
+        "thursday": "1/4 boiled egg + small chicken bits",
+        "friday": "Tiny kibble portions + fish oil",
+        "saturday": "25g lamb + mashed sweet potato",
+        "sunday": "Tiny kibble portions (critical to avoid skipping meals/Hypoglycemia)"
+      },
+      "adult": {
+        "monday": "1/4 cup small-breed kibble (split 2 meals) + dental chew",
+        "tuesday": "40g lean chicken + steamed carrots",
+        "wednesday": "1/2 cup kibble + probiotic",
+        "thursday": "30g fish + rice",
+        "friday": "1/4 cup kibble + small portion boiled egg",
+        "saturday": "50g lean beef + sweet potato",
+        "sunday": "1/2 cup kibble (sensitive digestive systems)"
+      },
+      "senior": {
+        "monday": "1/4 cup senior kibble (soft) + joint supplement",
+        "tuesday": "30g soft-cooked chicken + broth",
+        "wednesday": "1/2 cup senior kibble + mashed pumpkin",
+        "thursday": "20g white fish + oats",
+        "friday": "1/4 cup senior kibble + lean meat snack",
+        "saturday": "30g chicken + rice",
+        "sunday": "1/2 cup senior kibble (specialized dental care required)"
+      },
+      "pregnant/nursing": {
+        "diet": "Tiny, highly caloric meals of puppy food, free-fed during peak nursing to prevent energy crashes and Hypoglycemia. Monitor for eclampsia."
+      }
+    }
+  },
+  {
+    "name": "chow",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2 cups large-breed puppy food (split 3 meals) + joint supplement",
+        "tuesday": "150g lean meat + rice + turmeric",
+        "wednesday": "2.5 cups kibble + fish oil (controlled growth)",
+        "thursday": "1 boiled egg + 100g chicken + oats",
+        "friday": "2 cups kibble + bone broth",
+        "saturday": "150g lamb + sweet potato",
+        "sunday": "2.5 cups kibble (monitor for food allergies)"
+      },
+      "adult": {
+        "monday": "3 cups maintenance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "300g lean chicken/turkey + low-glycemic veggies",
+        "wednesday": "3.5 cups kibble (feed elevated) + salmon oil",
+        "thursday": "250g fish + pumpkin puree",
+        "friday": "3 cups kibble + cottage cheese (limited ingredient protein)",
+        "saturday": "350g lean beef + brown rice",
+        "sunday": "3.5 cups kibble (Bloat risk; lower exercise needs mean lower caloric requirement than active breeds)"
+      },
+      "senior": {
+        "monday": "2 cups senior kibble + joint supplement",
+        "tuesday": "200g lean chicken + steamed greens",
+        "wednesday": "2.5 cups senior kibble + pureed pumpkin",
+        "thursday": "150g fish + soft grains",
+        "friday": "2 cups senior kibble + apple slices",
+        "saturday": "200g chicken + rice",
+        "sunday": "2.5 cups senior kibble (monitor eye health)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3 small meals daily to minimize Bloat risk. Brachycephalic breeds need cool, calm feeding environments."
+      }
+    }
+  },
+  {
+    "name": "clumber",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2 cups large-breed puppy food (split 3 meals) + joint supplement",
+        "tuesday": "150g lean meat + rice + turmeric",
+        "wednesday": "2.5 cups kibble + yogurt (controlled growth)",
+        "thursday": "1 boiled egg + 100g chicken + oats",
+        "friday": "2 cups kibble + fish oil",
+        "saturday": "150g lamb + sweet potato",
+        "sunday": "2.5 cups kibble (controlled growth due to heavy build)"
+      },
+      "adult": {
+        "monday": "3 cups maintenance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "300g lean protein + brown rice + vegetables",
+        "wednesday": "3.5 cups kibble + joint support",
+        "thursday": "250g fish + pumpkin puree",
+        "friday": "3 cups kibble + cottage cheese",
+        "saturday": "350g lean meat + oats",
+        "sunday": "3.5 cups kibble (prone to obesity; strict portion control)"
+      },
+      "senior": {
+        "monday": "2 cups senior low-calorie kibble + joint supplement",
+        "tuesday": "200g lean chicken + steamed greens",
+        "wednesday": "2.5 cups senior kibble + high-fiber grains",
+        "thursday": "150g fish + pumpkin",
+        "friday": "2 cups senior kibble + apple slices",
+        "saturday": "200g chicken + rice",
+        "sunday": "2.5 cups senior kibble (food should encourage chewing for dental health)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Monitor for fluid retention late in pregnancy. Feed 3 small meals daily."
+      }
+    }
+  },
+  {
+    "name": "cocker_spaniel",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1 cup medium-breed puppy food (split 3 meals) + fish oil",
+        "tuesday": "80g lean meat + rice + peas",
+        "wednesday": "1.5 cups kibble + probiotic",
+        "thursday": "1/2 boiled egg + 60g chicken + sweet potato",
+        "friday": "1 cup kibble + bone broth",
+        "saturday": "90g lamb + oats",
+        "sunday": "1.5 cups kibble (prone to weight gain)"
+      },
+      "adult": {
+        "monday": "1.5 cups maintenance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "150g lean protein + brown rice + vegetables",
+        "wednesday": "2 cups kibble (low-fat formula) + probiotic",
+        "thursday": "120g fish + pumpkin puree (may aid yeast control)",
+        "friday": "1.5 cups kibble + cottage cheese",
+        "saturday": "200g lean meat + sweet potato",
+        "sunday": "2 cups kibble (avoid common allergens if ear issues persist)"
+      },
+      "senior": {
+        "monday": "1 cup senior low-fat kibble + joint supplement",
+        "tuesday": "100g lean chicken + steamed greens",
+        "wednesday": "1.5 cups senior kibble + high-fiber grains",
+        "thursday": "80g white fish + oats",
+        "friday": "1 cup senior kibble + apple slices",
+        "saturday": "100g lean meat + rice",
+        "sunday": "1.5 cups senior kibble (focus on easily digestible proteins)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-calorie puppy food. Ensure sufficient intake without causing excessive weight gain. Feed 3 small meals daily."
+      }
+    }
+  },
+  {
+    "name": "collie",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2 cups large-breed puppy food (split 3 meals) + joint supplement",
+        "tuesday": "150g lean meat + rice + turmeric",
+        "wednesday": "2.5 cups kibble + fish oil (controlled growth)",
+        "thursday": "1 boiled egg + 100g chicken + oats",
+        "friday": "2 cups kibble + bone broth",
+        "saturday": "150g lamb + sweet potato",
+        "sunday": "2.5 cups kibble (maintain lean body condition)"
+      },
+      "adult": {
+        "monday": "3 cups large-breed kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "300g lean chicken/beef + brown rice + vegetables",
+        "wednesday": "3.5 cups kibble (feed elevated) + salmon oil",
+        "thursday": "250g fish + pumpkin puree",
+        "friday": "3 cups kibble + cottage cheese",
+        "saturday": "350g lean meat + oats (Bloat risk)",
+        "sunday": "3.5 cups kibble (monitor for drug sensitivities (MDR1))"
+      },
+      "senior": {
+        "monday": "2 cups senior large-breed kibble + joint support",
+        "tuesday": "200g lean chicken + steamed greens",
+        "wednesday": "2.5 cups senior kibble + pureed pumpkin",
+        "thursday": "150g fish + soft grains",
+        "friday": "2 cups senior kibble + apple slices",
+        "saturday": "200g chicken + rice",
+        "sunday": "2.5 cups senior kibble (prone to weight gain in older age)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3 small meals daily to minimize Bloat risk. Ensure sufficient intake for large litter sizes."
+      }
+    }
+  },
+  {
+    "name": "curly-coated_retriever",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2 cups large-breed puppy food (split 3 meals) + joint supplement",
+        "tuesday": "150g lean meat + rice + turmeric",
+        "wednesday": "2.5 cups kibble + fish oil (controlled growth)",
+        "thursday": "1 boiled egg + 100g chicken + oats",
+        "friday": "2 cups kibble + bone broth",
+        "saturday": "150g lamb + sweet potato",
+        "sunday": "2.5 cups kibble (monitor growth rate)"
+      },
+      "adult": {
+        "monday": "3 cups performance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "300g lean protein + brown rice + vegetables",
+        "wednesday": "3.5 cups kibble + joint support",
+        "thursday": "250g fish + pumpkin puree",
+        "friday": "3 cups kibble + cottage cheese",
+        "saturday": "350g lean meat + oats (Bloat risk)",
+        "sunday": "3.5 cups kibble (high energy requires consistent calories)"
+      },
+      "senior": {
+        "monday": "2 cups senior low-fat kibble + joint supplement",
+        "tuesday": "200g lean chicken + steamed greens",
+        "wednesday": "2.5 cups senior kibble + high-fiber grains",
+        "thursday": "150g fish + pumpkin",
+        "friday": "2 cups senior kibble + apple slices",
+        "saturday": "200g chicken + rice",
+        "sunday": "2.5 cups senior kibble (low-fat protein focus)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Monitor for weight loss during nursing. Feed 3 small meals daily."
+      }
+    }
+  },
+  {
+    "name": "dandie_dinmont",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1/2 cup small-breed puppy food (split 3 meals) + 1 tsp salmon oil",
+        "tuesday": "40g lean chicken + rice + peas",
+        "wednesday": "3/4 cup kibble + probiotic",
+        "thursday": "40g fish + sweet potato puree",
+        "friday": "1/2 cup kibble + 1/2 boiled egg",
+        "saturday": "50g lean lamb + oats",
+        "sunday": "3/4 cup kibble (strict portion control)"
+      },
+      "adult": {
+        "monday": "1 cup maintenance kibble (split 2 meals) + dental chew",
+        "tuesday": "70g lean turkey + sweet potato + green beans",
+        "wednesday": "1.5 cups kibble + joint support",
+        "thursday": "60g fish + rice",
+        "friday": "1 cup kibble + cottage cheese",
+        "saturday": "80g lean beef + carrots",
+        "sunday": "1.5 cups kibble (avoid obesity to protect the long back/IVDD)"
+      },
+      "senior": {
+        "monday": "3/4 cup senior low-calorie kibble + joint supplement",
+        "tuesday": "50g soft-cooked chicken + broth",
+        "wednesday": "1 cup senior kibble + mashed pumpkin",
+        "thursday": "40g white fish + oats",
+        "friday": "3/4 cup senior kibble + lean meat snack",
+        "saturday": "50g chicken + rice",
+        "sunday": "1 cup senior kibble (dental chews needed)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-calorie puppy food. Small, frequent feedings. Monitor for calcium deficiency."
+      }
+    }
+  },
+  {
+    "name": "dhole",
+    "diet_plan": {
+      "puppy": {
+        "monday": "NOT APPLICABLE. Wild Canid. Pups consume regurgitated meat from pack.",
+        "tuesday": "NOT APPLICABLE. Wild Canid.",
+        "wednesday": "NOT APPLICABLE. Wild Canid.",
+        "thursday": "NOT APPLICABLE. Wild Canid.",
+        "friday": "NOT APPLICABLE. Wild Canid.",
+        "saturday": "NOT APPLICABLE. Wild Canid.",
+        "sunday": "NOT APPLICABLE. Wild Canid."
+      },
+      "adult": {
+        "monday": "NOT APPLICABLE. Wild Canid. Obligate carnivore; diet is meat and whole prey only. Domestic food is unsuitable.",
+        "tuesday": "NOT APPLICABLE. Wild Canid.",
+        "wednesday": "NOT APPLICABLE. Wild Canid.",
+        "thursday": "NOT APPLICABLE. Wild Canid.",
+        "friday": "NOT APPLICABLE. Wild Canid.",
+        "saturday": "NOT APPLICABLE. Wild Canid.",
+        "sunday": "NOT APPLICABLE. Wild Canid."
+      },
+      "senior": {
+        "monday": "NOT APPLICABLE. Wild Canid. Diet is strictly meat and bone.",
+        "tuesday": "NOT APPLICABLE. Wild Canid.",
+        "wednesday": "NOT APPLICABLE. Wild Canid.",
+        "thursday": "NOT APPLICABLE. Wild Canid.",
+        "friday": "NOT APPLICABLE. Wild Canid.",
+        "saturday": "NOT APPLICABLE. Wild Canid.",
+        "sunday": "NOT APPLICABLE. Wild Canid."
+      },
+      "pregnant/nursing": {
+        "diet": "NOT APPLICABLE. Wild Canid. High-protein, high-fat whole prey diet to support nursing litter. Reproduction managed only in zoological settings."
+      }
+    }
+  },
+  {
+    "name": "dingo",
+    "diet_plan": {
+      "puppy": {
+        "monday": "NOT APPLICABLE. Wild Canid. Pups consume regurgitated food from the pack.",
+        "tuesday": "NOT APPLICABLE. Wild Canid.",
+        "wednesday": "NOT APPLICABLE. Wild Canid.",
+        "thursday": "NOT APPLICABLE. Wild Canid.",
+        "friday": "NOT APPLICABLE. Wild Canid.",
+        "saturday": "NOT APPLICABLE. Wild Canid.",
+        "sunday": "NOT APPLICABLE. Wild Canid."
+      },
+      "adult": {
+        "monday": "NOT APPLICABLE. Wild Canid. Diet consists of native animals (macropods, small mammals). Domestic food is unsuitable.",
+        "tuesday": "NOT APPLICABLE. Wild Canid.",
+        "wednesday": "NOT APPLICABLE. Wild Canid.",
+        "thursday": "NOT APPLICABLE. Wild Canid.",
+        "friday": "NOT APPLICABLE. Wild Canid.",
+        "saturday": "NOT APPLICABLE. Wild Canid.",
+        "sunday": "NOT APPLICABLE. Wild Canid."
+      },
+      "senior": {
+        "monday": "NOT APPLICABLE. Wild Canid. Diet is strictly meat and bone.",
+        "tuesday": "NOT APPLICABLE. Wild Canid.",
+        "wednesday": "NOT APPLICABLE. Wild Canid.",
+        "thursday": "NOT APPLICABLE. Wild Canid.",
+        "friday": "NOT APPLICABLE. Wild Canid.",
+        "saturday": "NOT APPLICABLE. Wild Canid.",
+        "sunday": "NOT APPLICABLE. Wild Canid."
+      },
+      "pregnant/nursing": {
+        "diet": "NOT APPLICABLE. Wild Canid. Whole prey and raw meat diet. Reproduction managed only in zoological settings."
+      }
+    }
+  },
+  {
+    "name": "doberman",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2.5 cups large-breed puppy formula (split 3 meals) + Taurine supplement",
+        "tuesday": "180g lean meat + rice + turmeric",
+        "wednesday": "3 cups kibble + fish oil (for heart health)",
+        "thursday": "1 boiled egg + 130g chicken + L-Carnitine",
+        "friday": "2.5 cups kibble + joint supplement",
+        "saturday": "180g lamb + oats",
+        "sunday": "3 cups kibble (cardiac health monitoring is key)"
+      },
+      "adult": {
+        "monday": "3 cups large-breed active kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "350g lean chicken/beef + low-glycemic veggies",
+        "wednesday": "4 cups kibble (feed **elevated**) + Taurine/L-Carnitine",
+        "thursday": "300g fish + pumpkin puree",
+        "friday": "3 cups kibble + cottage cheese",
+        "saturday": "400g lean meat + brown rice (enforce rest after meal)",
+        "sunday": "4 cups kibble (extreme Bloat risk; feed slowly and rest)"
+      },
+      "senior": {
+        "monday": "2.5 cups senior kibble (cardiac formula if recommended) + joint support",
+        "tuesday": "250g easily digestible chicken + steamed greens",
+        "wednesday": "3 cups senior kibble + fish oil",
+        "thursday": "200g white fish + soft grains",
+        "friday": "2.5 cups senior kibble + pureed pumpkin",
+        "saturday": "250g lean meat + rice",
+        "sunday": "3 cups senior kibble (monitor heart health closely)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Maintain cardiac support supplements (Taurine, L-Carnitine) under vet guidance. Feed 3-4 small meals daily to manage Bloat risk."
+      }
+    }
+  },
+  {
+    "name": "english_foxhound",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2 cups large-breed puppy food (split 3 meals) + joint supplement",
+        "tuesday": "150g lean meat + rice + peas",
+        "wednesday": "2.5 cups kibble + yogurt",
+        "thursday": "1 boiled egg + 100g chicken + sweet potato",
+        "friday": "2 cups kibble + fish oil",
+        "saturday": "150g lamb + oats",
+        "sunday": "2.5 cups kibble (maintain lean body weight)"
+      },
+      "adult": {
+        "monday": "3 cups performance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "300g lean chicken/turkey + brown rice + vegetables",
+        "wednesday": "3.5 cups kibble + joint supplement",
+        "thursday": "250g fish + pumpkin puree",
+        "friday": "3 cups kibble + cottage cheese",
+        "saturday": "350g lean beef + sweet potato",
+        "sunday": "3.5 cups kibble (high caloric intake for extreme activity)"
+      },
+      "senior": {
+        "monday": "2 cups senior kibble + joint supplement",
+        "tuesday": "200g lean chicken + steamed greens",
+        "wednesday": "2.5 cups senior kibble + high-fiber grains",
+        "thursday": "150g fish + pumpkin",
+        "friday": "2 cups senior kibble + apple slices",
+        "saturday": "200g chicken + rice",
+        "sunday": "2.5 cups senior kibble (needs adequate fiber)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3 small meals daily to mitigate Bloat risk. Ensure high hydration."
+      }
+    }
+  },
+  {
+    "name": "english_setter",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2 cups large-breed puppy food (split 3 meals) + joint supplement",
+        "tuesday": "150g lean meat + rice + turmeric",
+        "wednesday": "2.5 cups kibble + fish oil (controlled growth)",
+        "thursday": "1 boiled egg + 100g chicken + oats",
+        "friday": "2 cups kibble + bone broth",
+        "saturday": "150g lamb + sweet potato",
+        "sunday": "2.5 cups kibble (easily digestible formula)"
+      },
+      "adult": {
+        "monday": "3 cups performance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "300g lean protein + brown rice + vegetables",
+        "wednesday": "3.5 cups kibble + joint support",
+        "thursday": "250g fish + pumpkin puree",
+        "friday": "3 cups kibble + cottage cheese",
+        "saturday": "350g lean meat + oats",
+        "sunday": "3.5 cups kibble (high energy requires consistent calories)"
+      },
+      "senior": {
+        "monday": "2 cups senior kibble + joint supplement",
+        "tuesday": "200g lean chicken + steamed greens",
+        "wednesday": "2.5 cups senior kibble + pureed pumpkin",
+        "thursday": "150g fish + soft grains",
+        "friday": "2 cups senior kibble + apple slices",
+        "saturday": "200g chicken + rice",
+        "sunday": "2.5 cups senior kibble (low-fat protein sources)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Monitor for weight loss during nursing. Feed 3 small meals daily."
+      }
+    }
+  },
+  {
+    "name": "english_springer",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1.5 cups medium-breed puppy food (split 3 meals) + fish oil",
+        "tuesday": "100g lean meat + brown rice + peas",
+        "wednesday": "2 cups kibble + probiotic",
+        "thursday": "1/2 boiled egg + 80g chicken + sweet potato",
+        "friday": "1.5 cups kibble + bone broth",
+        "saturday": "120g lamb + oats",
+        "sunday": "2 cups kibble (high activity requires calorie-dense diet)"
+      },
+      "adult": {
+        "monday": "2 cups active maintenance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "250g lean protein + brown rice + vegetables",
+        "wednesday": "2.5 cups kibble + joint supplement",
+        "thursday": "200g fish + pumpkin puree",
+        "friday": "2 cups kibble + cottage cheese",
+        "saturday": "300g lean meat + sweet potato (fuel for vigorous activity)",
+        "sunday": "2.5 cups kibble (prone to obesity if exercise is insufficient)"
+      },
+      "senior": {
+        "monday": "1.5 cups senior low-calorie kibble + joint supplement",
+        "tuesday": "150g lean chicken + steamed greens",
+        "wednesday": "2 cups senior kibble + food puzzle",
+        "thursday": "100g fish + soft grains",
+        "friday": "1.5 cups kibble + pumpkin puree",
+        "saturday": "150g lean meat + rice",
+        "sunday": "2 cups senior kibble (avoid high-fat diets)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3 small meals daily. Ensure sufficient intake without causing excessive weight gain."
+      }
+    }
+  },
+  {
+    "name": "entlebucher",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1.5 cups medium-breed puppy food (split 3 meals) + fish oil",
+        "tuesday": "100g lean meat + brown rice + peas",
+        "wednesday": "2 cups kibble + probiotic",
+        "thursday": "1/2 boiled egg + 80g chicken + sweet potato",
+        "friday": "1.5 cups kibble + bone broth",
+        "saturday": "120g lamb + oats",
+        "sunday": "2 cups kibble (needs lean protein for muscle and high energy)"
+      },
+      "adult": {
+        "monday": "2.5 cups high-performance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "300g lean protein + brown rice + vegetables",
+        "wednesday": "3 cups kibble + joint supplement",
+        "thursday": "250g fish + pumpkin puree",
+        "friday": "2.5 cups kibble + cottage cheese",
+        "saturday": "350g lean meat + sweet potato (fuel for intense activity)",
+        "sunday": "3 cups kibble (high caloric intake required)"
+      },
+      "senior": {
+        "monday": "2 cups senior kibble + joint support",
+        "tuesday": "200g lean chicken + steamed greens",
+        "wednesday": "2.5 cups senior kibble + high-fiber grains",
+        "thursday": "150g fish + pumpkin",
+        "friday": "2 cups senior kibble + apple slices",
+        "saturday": "200g chicken + rice",
+        "sunday": "2.5 cups senior kibble (high fiber for coat and digestion)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3 small meals daily. Ensure high caloric density due to intense activity level."
+      }
+    }
+  },
+  {
+    "name": "eskimo_dog",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2.5 cups large-breed puppy food (split 3 meals) + fish oil",
+        "tuesday": "180g lean meat + rice + turmeric",
+        "wednesday": "3 cups kibble + yogurt (controlled growth)",
+        "thursday": "1 boiled egg + 130g chicken + oats",
+        "friday": "2.5 cups kibble + bone broth",
+        "saturday": "180g lamb + sweet potato (high caloric need for cold tolerance)",
+        "sunday": "3 cups kibble (high fat/protein needed)"
+      },
+      "adult": {
+        "monday": "3 cups high-fat, high-protein kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "350g lean protein + low-glycemic veggies",
+        "wednesday": "4 cups kibble + salmon oil",
+        "thursday": "300g fish + pumpkin puree (historically fish-based diet)",
+        "friday": "3 cups kibble + cottage cheese",
+        "saturday": "400g lean beef + brown rice",
+        "sunday": "4 cups kibble (avoid excessive carbohydrates)"
+      },
+      "senior": {
+        "monday": "2.5 cups senior large-breed kibble + joint support",
+        "tuesday": "250g easily digestible chicken + steamed greens",
+        "wednesday": "3 cups senior kibble + pureed pumpkin",
+        "thursday": "200g white fish + soft rice",
+        "friday": "2.5 cups senior kibble + bone broth",
+        "saturday": "250g lean meat + sweet potato",
+        "sunday": "3 cups senior kibble (focus on coat and joint health)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Needs extremely high fat and protein content during nursing to support energy demands in cold weather. Feed 3 small meals daily."
+      }
+    }
+  },
+  {
+    "name": "flat-coated_retriever",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2 cups large-breed puppy food (split 3 meals) + joint supplement",
+        "tuesday": "150g lean meat + rice + antioxidants (berries)",
+        "wednesday": "2.5 cups kibble + yogurt (controlled growth)",
+        "thursday": "1 boiled egg + 100g chicken + oats",
+        "friday": "2 cups kibble + fish oil",
+        "saturday": "150g lamb + sweet potato",
+        "sunday": "2.5 cups kibble (diet rich in antioxidants for cancer prevention)"
+      },
+      "adult": {
+        "monday": "3 cups active maintenance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "300g lean protein + brown rice + vegetables",
+        "wednesday": "3.5 cups kibble + joint supplement",
+        "thursday": "250g fish + pumpkin puree",
+        "friday": "3 cups kibble + cottage cheese",
+        "saturday": "350g lean meat + oats (Bloat risk)",
+        "sunday": "3.5 cups kibble (high energy requires consistent calories)"
+      },
+      "senior": {
+        "monday": "2 cups senior low-fat kibble + joint support",
+        "tuesday": "200g lean chicken + steamed greens",
+        "wednesday": "2.5 cups senior kibble + high-antioxidant vegetables",
+        "thursday": "150g fish + pumpkin",
+        "friday": "2 cups senior kibble + apple slices",
+        "saturday": "200g chicken + rice",
+        "sunday": "2.5 cups senior kibble (low-fat protein focus)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3 small meals daily. Ensure sufficient caloric intake to support large litter sizes."
+      }
+    }
+  },
+  {
+    "name": "french_bulldog",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1/2 cup small kibble (split 3-4 meals) + 1 tsp salmon oil",
+        "tuesday": "40g lean chicken + rice + peas",
+        "wednesday": "3/4 cup kibble + probiotic",
+        "thursday": "40g fish + sweet potato puree",
+        "friday": "1/2 cup kibble + 1/2 boiled egg",
+        "saturday": "50g lean lamb + oats",
+        "sunday": "3/4 cup kibble (small, easy-to-chew kibble)"
+      },
+      "adult": {
+        "monday": "1 cup easily digestible kibble (split 2 meals) + dental chew",
+        "tuesday": "70g lean turkey + sweet potato + green beans",
+        "wednesday": "1.5 cups kibble (low-fat formula) + wrinkle clean",
+        "thursday": "60g fish + rice",
+        "friday": "1 cup kibble + low-fat cottage cheese",
+        "saturday": "80g lean beef + carrots",
+        "sunday": "1.5 cups kibble (avoid high-fat diets to reduce flatulence/obesity)"
+      },
+      "senior": {
+        "monday": "3/4 cup senior low-calorie kibble (soaked) + joint supplement",
+        "tuesday": "50g soft-cooked chicken + broth",
+        "wednesday": "1 cup senior kibble + mashed pumpkin",
+        "thursday": "40g white fish + oats",
+        "friday": "3/4 cup senior kibble + lean meat snack",
+        "saturday": "50g chicken + rice",
+        "sunday": "1 cup senior kibble (requires slow, soft feeding)"
+      },
+      "pregnant/nursing": {
+        "diet": "Small, frequent meals of high-calorie puppy food. Monitor breathing during feeding and ensure easy access to water."
+      }
+    }
+  },
+  {
+    "name": "german_shepherd",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2.5 cups large-breed puppy formula (split 3 meals) + joint supplement",
+        "tuesday": "180g lean beef + rice + turmeric",
+        "wednesday": "3 cups kibble + fish oil (controlled growth)",
+        "thursday": "1 boiled egg + 130g chicken + oats",
+        "friday": "2.5 cups kibble + bone broth",
+        "saturday": "180g lamb + sweet potato",
+        "sunday": "3 cups kibble (strict growth monitoring is crucial)"
+      },
+      "adult": {
+        "monday": "4 cups large-breed active kibble (split 2-3 meals) + 1 boiled egg",
+        "tuesday": "350g lean meat + low-glycemic veggies",
+        "wednesday": "5 cups kibble (feed **elevated**) + Glucosamine/Chondroitin",
+        "thursday": "300g fish + pumpkin puree",
+        "friday": "4 cups kibble + cottage cheese",
+        "saturday": "450g lean beef + brown rice (enforce rest after meal)",
+        "sunday": "5 cups kibble (Bloat risk; high energy requires consistent calories)"
+      },
+      "senior": {
+        "monday": "3 cups senior large-breed kibble + joint support",
+        "tuesday": "250g easily digestible chicken + steamed greens",
+        "wednesday": "4 cups senior kibble + pureed pumpkin",
+        "thursday": "200g white fish + soft rice",
+        "friday": "3 cups senior kibble + bone broth",
+        "saturday": "250g lean meat + sweet potato",
+        "sunday": "4 cups senior kibble (focus on joint and digestive health)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Split daily food intake into 3 small meals to minimize Bloat risk. Strict monitoring of lean body condition."
+      }
+    }
+  },
+  {
+    "name": "german_short-haired_pointer",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2.5 cups large-breed puppy food (split 3 meals) + fish oil",
+        "tuesday": "180g lean meat + rice + turmeric",
+        "wednesday": "3 cups kibble + yogurt (controlled growth)",
+        "thursday": "1 boiled egg + 130g chicken + oats",
+        "friday": "2.5 cups kibble + joint supplement",
+        "saturday": "180g lamb + sweet potato",
+        "sunday": "3 cups kibble (high energy requires nutrient-dense food)"
+      },
+      "adult": {
+        "monday": "3 cups performance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "350g lean protein + brown rice + vegetables",
+        "wednesday": "4 cups kibble (feed elevated) + joint support",
+        "thursday": "300g fish + pumpkin puree",
+        "friday": "3 cups kibble + cottage cheese",
+        "saturday": "400g lean beef + oats (Bloat risk)",
+        "sunday": "4 cups kibble (high caloric intake to fuel extreme exercise)"
+      },
+      "senior": {
+        "monday": "2.5 cups senior kibble + joint support",
+        "tuesday": "250g lean chicken + steamed greens",
+        "wednesday": "3 cups senior kibble + high-fiber grains",
+        "thursday": "200g fish + pumpkin",
+        "friday": "2.5 cups senior kibble + apple slices",
+        "saturday": "250g chicken + rice",
+        "sunday": "3 cups senior kibble (maintain activity to prevent weight gain)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3 small meals daily to mitigate Bloat risk. Ensure consistent high-calorie intake."
+      }
+    }
+  },
+  {
+    "name": "giant_schnauzer",
+    "diet_plan": {
+      "puppy": {
+        "monday": "3 cups large-breed puppy food (split 3 meals) + joint supplement",
+        "tuesday": "200g lean beef + rice + turmeric",
+        "wednesday": "4 cups kibble + fish oil (controlled growth)",
+        "thursday": "1 boiled egg + 150g chicken + oats",
+        "friday": "3 cups kibble + bone broth",
+        "saturday": "200g lamb + sweet potato",
+        "sunday": "4 cups kibble (high Bloat risk, monitor growth rate)"
+      },
+      "adult": {
+        "monday": "4 cups large-breed working dog kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "400g lean meat + low-glycemic veggies",
+        "wednesday": "5 cups kibble (feed **elevated**) + joint support",
+        "thursday": "300g fish + pumpkin puree",
+        "friday": "4 cups kibble + cottage cheese (non-fat)",
+        "saturday": "500g lean beef + brown rice (enforce rest after meal)",
+        "sunday": "5 cups kibble (extreme Bloat risk; feed slowly and rest)"
+      },
+      "senior": {
+        "monday": "3 cups senior large-breed kibble + joint support",
+        "tuesday": "250g easily digestible chicken + steamed greens",
+        "wednesday": "4 cups senior kibble + pureed pumpkin",
+        "thursday": "200g white fish + soft rice",
+        "friday": "3 cups senior kibble + bone broth",
+        "saturday": "250g lean meat + sweet potato",
+        "sunday": "4 cups senior kibble (low-fat, high-fiber focus)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3-4 small meals daily to manage Bloat risk. Ensure diet supports skin and coat health."
+      }
+    }
+  },
+  {
+    "name": "golden_retriever",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2 cups large-breed puppy food (split 3 meals) + joint supplement",
+        "tuesday": "150g lean meat + rice + antioxidants (berries)",
+        "wednesday": "2.5 cups kibble + fish oil (controlled growth)",
+        "thursday": "1 boiled egg + 100g chicken + oats",
+        "friday": "2 cups kibble + bone broth",
+        "saturday": "150g lamb + sweet potato",
+        "sunday": "2.5 cups kibble (diet rich in antioxidants for high cancer risk)"
+      },
+      "adult": {
+        "monday": "3 cups active maintenance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "300g lean protein + brown rice + vegetables",
+        "wednesday": "3.5 cups kibble + joint supplement",
+        "thursday": "250g fish + pumpkin puree",
+        "friday": "3 cups kibble + cottage cheese",
+        "saturday": "350g lean meat + oats (Bloat risk)",
+        "sunday": "3.5 cups kibble (prone to obesity; strict portion control)"
+      },
+      "senior": {
+        "monday": "2 cups senior low-calorie kibble + joint support",
+        "tuesday": "200g lean chicken + steamed greens",
+        "wednesday": "2.5 cups senior kibble + high-antioxidant vegetables",
+        "thursday": "150g fish + pumpkin",
+        "friday": "2 cups senior kibble + apple slices",
+        "saturday": "200g chicken + rice",
+        "sunday": "2.5 cups senior kibble (focus on weight and joint management)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Monitor for sufficient intake during pregnancy. Feed 3 small meals daily."
+      }
+    }
+  },
+  {
+    "name": "gordon_setter",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2.5 cups large-breed puppy food (split 3 meals) + joint supplement",
+        "tuesday": "180g lean meat + rice + turmeric",
+        "wednesday": "3 cups kibble + fish oil (controlled growth)",
+        "thursday": "1 boiled egg + 130g chicken + oats",
+        "friday": "2.5 cups kibble + bone broth",
+        "saturday": "180g lamb + sweet potato",
+        "sunday": "3 cups kibble (strictly monitored growth is critical)"
+      },
+      "adult": {
+        "monday": "3 cups performance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "350g lean protein + brown rice + vegetables",
+        "wednesday": "4 cups kibble + joint support (Bloat risk)",
+        "thursday": "300g fish + pumpkin puree",
+        "friday": "3 cups kibble + cottage cheese",
+        "saturday": "400g lean beef + oats",
+        "sunday": "4 cups kibble (high energy requires consistent calories)"
+      },
+      "senior": {
+        "monday": "2.5 cups senior kibble + joint support",
+        "tuesday": "250g lean chicken + steamed greens",
+        "wednesday": "3 cups senior kibble + high-fiber grains",
+        "thursday": "200g fish + pumpkin",
+        "friday": "2.5 cups senior kibble + apple slices",
+        "saturday": "250g chicken + rice",
+        "sunday": "3 cups senior kibble (needs high fiber)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3 small meals daily to mitigate Bloat risk. Ensure consistent high-calorie intake."
+      }
+    }
+  },
+  {
+    "name": "great_dane",
+    "diet_plan": {
+      "puppy": {
+        "monday": "4 cups giant-breed puppy formula (split 3 meals) + joint supplement",
+        "tuesday": "250g lean beef + rice + turmeric (very slow growth)",
+        "wednesday": "5 cups kibble + fish oil (controlled growth formula)",
+        "thursday": "1 boiled egg + 200g chicken + sweet potato",
+        "friday": "4 cups kibble + bone broth (absolute critical care for growth)",
+        "saturday": "300g lamb + oats",
+        "sunday": "5 cups kibble (avoid overfeeding and rapid growth)"
+      },
+      "adult": {
+        "monday": "7 cups giant-breed kibble (split 2 meals) + Glucosamine/Chondroitin",
+        "tuesday": "600g lean meat (venison/chicken) + low-glycemic veggies",
+        "wednesday": "8 cups kibble (feed **elevated**) + fish oil",
+        "thursday": "500g fish + pumpkin puree",
+        "friday": "7 cups kibble + cottage cheese (non-fat)",
+        "saturday": "750g lean beef + brown rice (enforce strict rest after meal)",
+        "sunday": "8 cups kibble (extreme Bloat risk; feed slowly and rest)"
+      },
+      "senior": {
+        "monday": "5 cups senior giant-breed kibble + joint support",
+        "tuesday": "400g easily digestible chicken + steamed greens",
+        "wednesday": "6 cups senior kibble + pureed pumpkin",
+        "thursday": "300g white fish + soft rice",
+        "friday": "5 cups senior kibble + cardiac supplements",
+        "saturday": "400g lean meat + sweet potato",
+        "sunday": "6 cups senior kibble (cardiac supplements often recommended)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3-4 small, highly digestible meals daily, elevated, and strictly enforce rest to manage extreme Bloat risk."
+      }
+    }
+  },
+  {
+    "name": "great_pyrenees",
+    "diet_plan": {
+      "puppy": {
+        "monday": "4 cups giant-breed puppy formula (split 3 meals) + joint supplement",
+        "tuesday": "250g lean beef + rice + turmeric",
+        "wednesday": "5 cups kibble + fish oil (controlled growth formula)",
+        "thursday": "1 boiled egg + 200g chicken + sweet potato",
+        "friday": "4 cups kibble + bone broth (strict caloric control is essential)",
+        "saturday": "300g lamb + oats",
+        "sunday": "5 cups kibble (avoid excess protein/calcium)"
+      },
+      "adult": {
+        "monday": "5 cups giant-breed maintenance kibble (split 2 meals) + Glucosamine/Chondroitin",
+        "tuesday": "400g lean meat + low-glycemic veggies",
+        "wednesday": "6 cups kibble (feed elevated) + fish oil",
+        "thursday": "300g fish + pumpkin puree",
+        "friday": "5 cups kibble + cottage cheese (non-fat)",
+        "saturday": "500g lean beef + brown rice",
+        "sunday": "6 cups kibble (Bloat risk; lower caloric needs than active giants)"
+      },
+      "senior": {
+        "monday": "4 cups senior giant-breed kibble + joint support",
+        "tuesday": "300g easily digestible chicken + steamed greens",
+        "wednesday": "5 cups senior kibble + pureed pumpkin",
+        "thursday": "250g white fish + soft rice",
+        "friday": "4 cups senior kibble + bone broth",
+        "saturday": "300g lean meat + sweet potato",
+        "sunday": "5 cups senior kibble (avoid excessive protein in older age)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3-4 small meals daily to manage Bloat risk. Ensure easy access to food and water due to size."
+      }
+    }
+  },
+  {
+    "name": "greater_swiss_mountain_dog",
+    "diet_plan": {
+      "puppy": {
+        "monday": "3.5 cups large-breed puppy food (split 3 meals) + joint supplement",
+        "tuesday": "250g lean beef + rice + turmeric",
+        "wednesday": "4.5 cups kibble + fish oil (controlled growth formula)",
+        "thursday": "1 boiled egg + 200g chicken + sweet potato",
+        "friday": "3.5 cups kibble + bone broth",
+        "saturday": "300g lamb + oats",
+        "sunday": "4.5 cups kibble (strict growth monitoring is essential)"
+      },
+      "adult": {
+        "monday": "4 cups large-breed kibble (split 2 meals) + Glucosamine/Chondroitin",
+        "tuesday": "400g lean meat + low-glycemic veggies",
+        "wednesday": "5 cups kibble (feed elevated) + fish oil",
+        "thursday": "300g fish + pumpkin puree",
+        "friday": "4 cups kibble + cottage cheese (non-fat)",
+        "saturday": "500g lean beef + brown rice",
+        "sunday": "5 cups kibble (Bloat risk; feed slowly)"
+      },
+      "senior": {
+        "monday": "3 cups senior large-breed kibble + joint support",
+        "tuesday": "250g easily digestible chicken + steamed greens",
+        "wednesday": "4 cups senior kibble + pureed pumpkin",
+        "thursday": "200g white fish + soft rice",
+        "friday": "3 cups senior kibble + bone broth",
+        "saturday": "250g lean meat + sweet potato",
+        "sunday": "4 cups senior kibble (focus on joint maintenance)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3-4 small meals daily to manage Bloat risk. Ensure sufficient water intake."
+      }
+    }
+  },
+  {
+    "name": "groenendael",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2 cups large-breed puppy food (split 3 meals) + fish oil",
+        "tuesday": "150g lean meat + rice + peas",
+        "wednesday": "2.5 cups kibble + yogurt",
+        "thursday": "1 boiled egg + 100g chicken + sweet potato",
+        "friday": "2 cups kibble + bone broth",
+        "saturday": "150g lamb + oats",
+        "sunday": "2.5 cups kibble (maintain lean body condition)"
+      },
+      "adult": {
+        "monday": "3 cups performance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "300g lean chicken/beef + brown rice + vegetables",
+        "wednesday": "3.5 cups kibble + joint supplement",
+        "thursday": "250g fish + pumpkin puree",
+        "friday": "3 cups kibble + cottage cheese",
+        "saturday": "350g lean meat + sweet potato (high protein/fat for intense activity)",
+        "sunday": "3.5 cups kibble (high caloric density required)"
+      },
+      "senior": {
+        "monday": "2 cups senior low-calorie kibble + joint support",
+        "tuesday": "200g lean chicken + steamed greens",
+        "wednesday": "2.5 cups senior kibble + pureed pumpkin",
+        "thursday": "150g fish + soft grains",
+        "friday": "2 cups senior kibble + apple slices",
+        "saturday": "200g chicken + rice",
+        "sunday": "2.5 cups senior kibble (maintain mental enrichment with food puzzles)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3 small meals daily. Ensure high caloric density due to intense activity level."
+      }
+    }
+  },
+  {
+    "name": "ibizan_hound",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1.5 cups medium-breed puppy food (split 3 meals) + fish oil",
+        "tuesday": "100g lean meat + brown rice + peas",
+        "wednesday": "2 cups kibble + probiotic",
+        "thursday": "1/2 boiled egg + 80g chicken + sweet potato",
+        "friday": "1.5 cups kibble + joint supplement",
+        "saturday": "120g lamb + oats",
+        "sunday": "2 cups kibble (maintain very lean body condition)"
+      },
+      "adult": {
+        "monday": "2 cups performance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "250g lean protein + brown rice + vegetables",
+        "wednesday": "2.5 cups kibble + joint supplement",
+        "thursday": "200g fish + pumpkin puree",
+        "friday": "2 cups kibble + cottage cheese",
+        "saturday": "300g lean meat + sweet potato (needs high protein for muscle and speed)",
+        "sunday": "2.5 cups kibble (sensitive digestive systems)"
+      },
+      "senior": {
+        "monday": "1.5 cups senior low-calorie kibble + joint support",
+        "tuesday": "150g lean chicken + steamed greens",
+        "wednesday": "2 cups senior kibble + high-fiber grains",
+        "thursday": "100g fish + soft grains",
+        "friday": "1.5 cups kibble + pumpkin puree",
+        "saturday": "150g lean meat + rice",
+        "sunday": "2 cups senior kibble (avoid joint stress)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Monitor for anemia. Feed 3 small meals daily."
+      }
+    }
+  },
+  {
+    "name": "irish_setter",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2 cups large-breed puppy food (split 3 meals) + joint supplement",
+        "tuesday": "150g lean meat + rice + turmeric",
+        "wednesday": "2.5 cups kibble + fish oil (controlled growth)",
+        "thursday": "1 boiled egg + 100g chicken + oats",
+        "friday": "2 cups kibble + bone broth",
+        "saturday": "150g lamb + sweet potato",
+        "sunday": "2.5 cups kibble (strictly monitored growth is critical)"
+      },
+      "adult": {
+        "monday": "3 cups performance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "300g lean protein + brown rice + vegetables",
+        "wednesday": "3.5 cups kibble + joint support (Bloat risk)",
+        "thursday": "250g fish + pumpkin puree",
+        "friday": "3 cups kibble + cottage cheese",
+        "saturday": "350g lean meat + oats",
+        "sunday": "3.5 cups kibble (high energy requires consistent calories)"
+      },
+      "senior": {
+        "monday": "2 cups senior kibble + joint support",
+        "tuesday": "200g lean chicken + steamed greens",
+        "wednesday": "2.5 cups senior kibble + pureed pumpkin",
+        "thursday": "150g fish + soft grains",
+        "friday": "2 cups senior kibble + apple slices",
+        "saturday": "200g chicken + rice",
+        "sunday": "2.5 cups senior kibble (low-fat protein sources)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3 small meals daily to mitigate Bloat risk. Ensure consistent high-calorie intake."
+      }
+    }
+  },
+  {
+    "name": "irish_terrier",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1 cup medium-breed puppy food (split 3 meals) + fish oil",
+        "tuesday": "80g lean meat + rice + peas",
+        "wednesday": "1.5 cups kibble + probiotic",
+        "thursday": "1/2 boiled egg + 60g chicken + sweet potato",
+        "friday": "1 cup kibble + bone broth",
+        "saturday": "90g lamb + oats",
+        "sunday": "1.5 cups kibble (focus on lean protein for muscle and coat)"
+      },
+      "adult": {
+        "monday": "1.5 cups maintenance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "150g lean protein + brown rice + vegetables",
+        "wednesday": "2 cups kibble + joint supplement",
+        "thursday": "120g fish + pumpkin puree",
+        "friday": "1.5 cups kibble + cottage cheese",
+        "saturday": "200g lean meat + sweet potato",
+        "sunday": "2 cups kibble (avoid common allergens)"
+      },
+      "senior": {
+        "monday": "1 cup senior kibble + joint support",
+        "tuesday": "100g lean chicken + steamed greens",
+        "wednesday": "1.5 cups senior kibble + high-fiber grains",
+        "thursday": "80g white fish + oats",
+        "friday": "1 cup senior kibble + apple slices",
+        "saturday": "100g lean meat + rice",
+        "sunday": "1.5 cups senior kibble (diet should support skin and coat health)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3 small meals daily. Ensure sufficient intake for high energy."
+      }
+    }
+  },
+  {
+    "name": "irish_water_spaniel",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2 cups large-breed puppy food (split 3 meals) + joint supplement",
+        "tuesday": "150g lean meat + rice + turmeric",
+        "wednesday": "2.5 cups kibble + fish oil (controlled growth)",
+        "thursday": "1 boiled egg + 100g chicken + oats",
+        "friday": "2 cups kibble + bone broth",
+        "saturday": "150g lamb + sweet potato",
+        "sunday": "2.5 cups kibble (controlled growth is key)"
+      },
+      "adult": {
+        "monday": "3 cups performance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "300g lean protein + brown rice + vegetables",
+        "wednesday": "3.5 cups kibble + joint support",
+        "thursday": "250g fish + pumpkin puree",
+        "friday": "3 cups kibble + cottage cheese",
+        "saturday": "350g lean meat + oats",
+        "sunday": "3.5 cups kibble (high energy requires consistent calories)"
+      },
+      "senior": {
+        "monday": "2 cups senior kibble + joint support",
+        "tuesday": "200g lean chicken + steamed greens",
+        "wednesday": "2.5 cups senior kibble + pureed pumpkin",
+        "thursday": "150g fish + soft grains",
+        "friday": "2 cups senior kibble + apple slices",
+        "saturday": "200g chicken + rice",
+        "sunday": "2.5 cups senior kibble (low-fat protein sources)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Monitor for weight loss during nursing. Feed 3 small meals daily."
+      }
+    }
+  },
+  {
+    "name": "irish_wolfhound",
+    "diet_plan": {
+      "puppy": {
+        "monday": "4 cups giant-breed puppy formula (split 3 meals) + joint supplement",
+        "tuesday": "250g lean beef + rice + turmeric (very slow growth)",
+        "wednesday": "5 cups kibble + fish oil (controlled growth formula)",
+        "thursday": "1 boiled egg + 200g chicken + sweet potato",
+        "friday": "4 cups kibble + cardiac support (vet recommended)",
+        "saturday": "300g lamb + oats",
+        "sunday": "5 cups kibble (strict growth monitoring is critical)"
+      },
+      "adult": {
+        "monday": "7 cups giant-breed kibble (split 2 meals) + Glucosamine/Chondroitin",
+        "tuesday": "600g lean meat (venison/chicken) + low-glycemic veggies",
+        "wednesday": "8 cups kibble (feed **elevated**) + cardiac supplements",
+        "thursday": "500g fish + pumpkin puree",
+        "friday": "7 cups kibble + cottage cheese (non-fat)",
+        "saturday": "750g lean beef + brown rice (enforce strict rest after meal)",
+        "sunday": "8 cups kibble (extreme Bloat risk; feed slowly and rest)"
+      },
+      "senior": {
+        "monday": "5 cups senior giant-breed kibble + cardiac/joint support",
+        "tuesday": "400g easily digestible chicken + steamed greens",
+        "wednesday": "6 cups senior kibble + pureed pumpkin",
+        "thursday": "300g white fish + soft rice",
+        "friday": "5 cups senior kibble + bone broth",
+        "saturday": "400g lean meat + sweet potato",
+        "sunday": "6 cups senior kibble (focus on cardiac health and easy digestion)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3-4 small, highly digestible meals daily, elevated, and strictly enforce rest to manage extreme Bloat risk."
+      }
+    }
+  },
+  {
+    "name": "italian_greyhound",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1/4 cup small kibble (split 3-4 meals) + 1 tsp salmon oil",
+        "tuesday": "30g lean protein + soft vegetables",
+        "wednesday": "1/2 cup small kibble + 1 tsp curd",
+        "thursday": "30g white fish + sweet potato puree",
+        "friday": "1/4 cup small kibble + 1/2 boiled egg",
+        "saturday": "30g lean meat + 1 tbsp rice",
+        "sunday": "1/2 cup small kibble (prone to Hypoglycemia if meals are skipped)"
+      },
+      "adult": {
+        "monday": "1/2 cup small breed kibble (split 2 meals) + dental chew",
+        "tuesday": "60g lean chicken + small portion of rice/oats",
+        "wednesday": "3/4 cup kibble + digestive supplement",
+        "thursday": "50g fish + pumpkin puree",
+        "friday": "1/2 cup kibble + small portion of boiled egg",
+        "saturday": "70g lean lamb/turkey + green beans",
+        "sunday": "3/4 cup kibble (needs diet to support strong, lean bones)"
+      },
+      "senior": {
+        "monday": "1/4 cup senior kibble (soaked) + joint supplement",
+        "tuesday": "40g soft-cooked lean meat + broth",
+        "wednesday": "1/2 cup senior kibble + mashed sweet potato",
+        "thursday": "40g white fish + curd",
+        "friday": "1/4 cup senior kibble + steamed carrots",
+        "saturday": "Soft chicken and rice meal (small portion)",
+        "sunday": "1/2 cup senior kibble (dental care is critical)"
+      },
+      "pregnant/nursing": {
+        "diet": "Small, frequent meals of high-calorie puppy food. Monitor for signs of eclampsia and ensure diet provides sufficient calcium and energy."
+      }
+    }
+  },
+  {
+    "name": "japanese_spaniel",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1/4 cup small kibble (split 3 meals) + 1 tsp salmon oil",
+        "tuesday": "30g lean protein + soft vegetables",
+        "wednesday": "1/2 cup small kibble + 1 tsp curd",
+        "thursday": "30g white fish + sweet potato puree",
+        "friday": "1/4 cup small kibble + 1/2 boiled egg",
+        "saturday": "30g lean meat + 1 tbsp rice",
+        "sunday": "1/2 cup small kibble (needs gentle, easily digestible diet)"
+      },
+      "adult": {
+        "monday": "1/2 cup small breed kibble (split 2 meals) + dental chew",
+        "tuesday": "60g lean chicken + small portion of rice/oats",
+        "wednesday": "3/4 cup kibble + digestive supplement",
+        "thursday": "50g fish + pumpkin puree",
+        "friday": "1/2 cup kibble + small portion of boiled egg",
+        "saturday": "70g lean lamb/turkey + green beans",
+        "sunday": "3/4 cup kibble (monitor weight closely)"
+      },
+      "senior": {
+        "monday": "1/4 cup senior kibble (soaked) + joint supplement",
+        "tuesday": "40g soft-cooked lean meat + broth",
+        "wednesday": "1/2 cup senior kibble + mashed sweet potato",
+        "thursday": "40g white fish + curd",
+        "friday": "1/4 cup senior kibble + steamed carrots",
+        "saturday": "Soft chicken and rice meal (small portion)",
+        "sunday": "1/2 cup senior kibble (brachycephalic eating—soft food preferred)"
+      },
+      "pregnant/nursing": {
+        "diet": "Small, frequent meals of high-calorie puppy food. Monitor breathing and heat sensitivity during feeding."
+      }
+    }
+  },
+  {
+    "name": "keeshond",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1.5 cups medium-breed puppy food (split 3 meals) + fish oil",
+        "tuesday": "100g lean meat + brown rice + peas",
+        "wednesday": "2 cups kibble + probiotic",
+        "thursday": "1/2 boiled egg + 80g chicken + sweet potato",
+        "friday": "1.5 cups kibble + bone broth",
+        "saturday": "120g lamb + oats",
+        "sunday": "2 cups kibble (requires sufficient fat for dense coat)"
+      },
+      "adult": {
+        "monday": "2 cups maintenance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "250g lean protein + brown rice + vegetables",
+        "wednesday": "2.5 cups kibble (low-calorie formula) + Omega-3s",
+        "thursday": "200g fish + pumpkin puree",
+        "friday": "2 cups kibble + cottage cheese",
+        "saturday": "300g lean meat + sweet potato (prone to obesity)",
+        "sunday": "2.5 cups kibble (diet should support dense coat)"
+      },
+      "senior": {
+        "monday": "1.5 cups senior low-calorie kibble + joint supplement",
+        "tuesday": "150g lean chicken + steamed greens",
+        "wednesday": "2 cups senior kibble + pureed pumpkin",
+        "thursday": "100g fish + soft grains",
+        "friday": "1.5 cups kibble + apple slices",
+        "saturday": "150g lean meat + rice",
+        "sunday": "2 cups senior kibble (monitor for hypothyroidism)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3 small meals daily. Ensure diet supports skin and coat health."
+      }
+    }
+  },
+  {
+    "name": "kelpie",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1.5 cups medium-breed puppy food (split 3 meals) + fish oil",
+        "tuesday": "100g lean meat + brown rice + peas",
+        "wednesday": "2 cups kibble + probiotic",
+        "thursday": "1/2 boiled egg + 80g chicken + sweet potato",
+        "friday": "1.5 cups kibble + bone broth",
+        "saturday": "120g lamb + oats",
+        "sunday": "2 cups kibble (extreme energy requires high caloric density)"
+      },
+      "adult": {
+        "monday": "2.5 cups performance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "300g lean protein + brown rice + vegetables",
+        "wednesday": "3 cups kibble + joint supplement",
+        "thursday": "250g fish + pumpkin puree",
+        "friday": "2.5 cups kibble + cottage cheese",
+        "saturday": "350g lean meat + sweet potato (high protein/fat required)",
+        "sunday": "3 cups kibble (must maintain lean, athletic body condition)"
+      },
+      "senior": {
+        "monday": "2 cups senior kibble + joint support",
+        "tuesday": "200g lean chicken + steamed greens",
+        "wednesday": "2.5 cups senior kibble + pureed pumpkin",
+        "thursday": "150g fish + soft grains",
+        "friday": "2 cups kibble + apple slices",
+        "saturday": "200g lean meat + rice",
+        "sunday": "2.5 cups senior kibble (requires food that maintains high energy)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Ensure sufficient intake to support extreme energy needs. Feed 3 small meals daily."
+      }
+    }
+  },
+  {
+    "name": "kerry_blue_terrier",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1.5 cups medium-breed puppy food (split 3 meals) + fish oil",
+        "tuesday": "100g lean meat + brown rice + peas",
+        "wednesday": "2 cups kibble + probiotic",
+        "thursday": "1/2 boiled egg + 80g chicken + sweet potato",
+        "friday": "1.5 cups kibble + bone broth",
+        "saturday": "120g lamb + oats",
+        "sunday": "2 cups kibble (focus on lean protein for wiry coat)"
+      },
+      "adult": {
+        "monday": "2 cups active maintenance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "250g lean protein + brown rice + vegetables",
+        "wednesday": "2.5 cups kibble + joint supplement",
+        "thursday": "200g fish + pumpkin puree",
+        "friday": "2 cups kibble + cottage cheese",
+        "saturday": "300g lean meat + sweet potato",
+        "sunday": "2.5 cups kibble (avoid common allergens)"
+      },
+      "senior": {
+        "monday": "1.5 cups senior kibble + joint support",
+        "tuesday": "150g lean chicken + steamed greens",
+        "wednesday": "2 cups senior kibble + pureed pumpkin",
+        "thursday": "100g fish + soft grains",
+        "friday": "1.5 cups kibble + apple slices",
+        "saturday": "150g lean meat + rice",
+        "sunday": "2 cups senior kibble (avoid common allergens)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3 small meals daily. Ensure high protein for muscle and coat."
+      }
+    }
+  },
+  {
+    "name": "komondor",
+    "diet_plan": {
+      "puppy": {
+        "monday": "4 cups giant-breed puppy formula (split 3 meals) + joint supplement",
+        "tuesday": "250g lean beef + rice + turmeric (very slow growth)",
+        "wednesday": "5 cups kibble + fish oil (controlled growth formula)",
+        "thursday": "1 boiled egg + 200g chicken + sweet potato",
+        "friday": "4 cups kibble + bone broth (strict caloric restriction)",
+        "saturday": "300g lamb + oats",
+        "sunday": "5 cups kibble (high Bloat risk, strict growth monitoring)"
+      },
+      "adult": {
+        "monday": "6 cups giant-breed kibble (split 2 meals) + Glucosamine/Chondroitin",
+        "tuesday": "400g lean meat + low-glycemic veggies",
+        "wednesday": "7 cups kibble (feed elevated) + fish oil",
+        "thursday": "300g fish + pumpkin puree",
+        "friday": "6 cups kibble + cottage cheese (non-fat)",
+        "saturday": "500g lean beef + brown rice (enforce rest after meal)",
+        "sunday": "7 cups kibble (Bloat risk; high protein needed to support heavy coat)"
+      },
+      "senior": {
+        "monday": "4 cups senior giant-breed kibble + joint support",
+        "tuesday": "300g easily digestible chicken + steamed greens",
+        "wednesday": "5 cups senior kibble + pureed pumpkin",
+        "thursday": "250g white fish + soft rice",
+        "friday": "4 cups senior kibble + bone broth",
+        "saturday": "300g lean meat + sweet potato",
+        "sunday": "5 cups senior kibble (monitor kidney function due to high protein over time)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3-4 small meals daily to manage Bloat risk. Ensure high protein for coat and milk production."
+      }
+    }
+  },
+  {
+    "name": "kuvasz",
+    "diet_plan": {
+      "puppy": {
+        "monday": "3.5 cups large-breed puppy food (split 3 meals) + joint supplement",
+        "tuesday": "250g lean beef + rice + turmeric",
+        "wednesday": "4.5 cups kibble + fish oil (controlled growth formula)",
+        "thursday": "1 boiled egg + 200g chicken + sweet potato",
+        "friday": "3.5 cups kibble + bone broth",
+        "saturday": "300g lamb + oats",
+        "sunday": "4.5 cups kibble (strict growth monitoring is essential)"
+      },
+      "adult": {
+        "monday": "4 cups giant-breed kibble (split 2 meals) + Glucosamine/Chondroitin",
+        "tuesday": "400g lean meat + low-glycemic veggies",
+        "wednesday": "5 cups kibble (feed elevated) + fish oil",
+        "thursday": "300g fish + pumpkin puree",
+        "friday": "4 cups kibble + cottage cheese (non-fat)",
+        "saturday": "500g lean beef + brown rice",
+        "sunday": "5 cups kibble (Bloat risk; lower caloric needs than active giants)"
+      },
+      "senior": {
+        "monday": "3 cups senior large-breed kibble + joint support",
+        "tuesday": "250g easily digestible chicken + steamed greens",
+        "wednesday": "4 cups senior kibble + pureed pumpkin",
+        "thursday": "200g white fish + soft rice",
+        "friday": "3 cups senior kibble + bone broth",
+        "saturday": "250g lean meat + sweet potato",
+        "sunday": "4 cups senior kibble (focus on joint maintenance)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3-4 small meals daily to manage Bloat risk. Ensure easy access to food due to size."
+      }
+    }
+  },
+  {
+    "name": "labrador_retriever",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2 cups large-breed puppy food (split 3 meals) + joint supplement",
+        "tuesday": "150g lean meat + rice + turmeric",
+        "wednesday": "2.5 cups kibble + fish oil (controlled growth)",
+        "thursday": "1 boiled egg + 100g chicken + oats",
+        "friday": "2 cups kibble + bone broth",
+        "saturday": "150g lamb + sweet potato",
+        "sunday": "2.5 cups kibble (strict portion control essential)"
+      },
+      "adult": {
+        "monday": "3 cups active maintenance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "300g lean protein + brown rice + vegetables",
+        "wednesday": "3.5 cups kibble + joint supplement",
+        "thursday": "250g fish + pumpkin puree",
+        "friday": "3 cups kibble + cottage cheese",
+        "saturday": "350g lean meat + oats (Bloat risk)",
+        "sunday": "3.5 cups kibble (high risk of obesity; measure strictly)"
+      },
+      "senior": {
+        "monday": "2 cups senior low-calorie kibble + joint support",
+        "tuesday": "200g lean chicken + steamed greens",
+        "wednesday": "2.5 cups senior kibble + high-fiber grains",
+        "thursday": "150g fish + pumpkin",
+        "friday": "2 cups senior kibble + apple slices",
+        "saturday": "200g chicken + rice",
+        "sunday": "2.5 cups senior kibble (focus on weight and joint management)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Monitor weight during pregnancy. Feed 3 small meals daily."
+      }
+    }
+  },
+  {
+    "name": "lakeland_terrier",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1 cup small-to-medium puppy food (split 3 meals) + fish oil",
+        "tuesday": "80g lean meat + rice + peas",
+        "wednesday": "1.5 cups kibble + probiotic",
+        "thursday": "1/2 boiled egg + 60g chicken + sweet potato",
+        "friday": "1 cup kibble + bone broth",
+        "saturday": "90g lamb + oats",
+        "sunday": "1.5 cups kibble (needs sufficient calories for high energy)"
+      },
+      "adult": {
+        "monday": "1.5 cups active maintenance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "150g lean protein + brown rice + vegetables",
+        "wednesday": "2 cups kibble + joint supplement",
+        "thursday": "120g fish + pumpkin puree",
+        "friday": "1.5 cups kibble + cottage cheese",
+        "saturday": "200g lean meat + sweet potato",
+        "sunday": "2 cups kibble (needs lean protein to maintain muscle tone)"
+      },
+      "senior": {
+        "monday": "1 cup senior low-calorie kibble + joint supplement",
+        "tuesday": "100g lean chicken + steamed greens",
+        "wednesday": "1.5 cups senior kibble + high-fiber grains",
+        "thursday": "80g white fish + oats",
+        "friday": "1 cup senior kibble + apple slices",
+        "saturday": "100g lean meat + rice",
+        "sunday": "1.5 cups senior kibble (avoid overfeeding)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-calorie puppy food. Small, frequent feedings. Ensure sufficient energy intake."
+      }
+    }
+  },
+  {
+    "name": "leonberg",
+    "diet_plan": {
+      "puppy": {
+        "monday": "4 cups giant-breed puppy formula (split 3 meals) + joint supplement",
+        "tuesday": "250g lean beef + rice + turmeric (very slow growth)",
+        "wednesday": "5 cups kibble + fish oil (controlled growth formula)",
+        "thursday": "1 boiled egg + 200g chicken + sweet potato",
+        "friday": "4 cups kibble + cardiac support (vet recommended)",
+        "saturday": "300g lamb + oats",
+        "sunday": "5 cups kibble (strict caloric restriction)"
+      },
+      "adult": {
+        "monday": "6 cups giant-breed kibble (split 2 meals) + Glucosamine/Chondroitin",
+        "tuesday": "400g lean meat + low-glycemic veggies",
+        "wednesday": "7 cups kibble (feed **elevated**) + fish oil",
+        "thursday": "300g fish + pumpkin puree",
+        "friday": "6 cups kibble + cottage cheese (non-fat)",
+        "saturday": "500g lean beef + brown rice (enforce rest after meal)",
+        "sunday": "7 cups kibble (extreme Bloat risk; feed slowly and rest)"
+      },
+      "senior": {
+        "monday": "4 cups senior giant-breed kibble + joint support",
+        "tuesday": "300g easily digestible chicken + steamed greens",
+        "wednesday": "5 cups senior kibble + pureed pumpkin",
+        "thursday": "250g white fish + soft rice",
+        "friday": "4 cups senior kibble + bone broth",
+        "saturday": "300g lean meat + sweet potato",
+        "sunday": "5 cups senior kibble (focus on low-fat, high-fiber proteins)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3-4 small meals daily to manage Bloat risk. Ensure diet supports coat and joint health."
+      }
+    }
+  },
+  {
+    "name": "lhasa",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1/2 cup small kibble (split 3 meals) + 1 tsp salmon oil",
+        "tuesday": "40g lean chicken + rice + peas",
+        "wednesday": "3/4 cup kibble + probiotic",
+        "thursday": "40g fish + sweet potato puree",
+        "friday": "1/2 cup kibble + 1/2 boiled egg",
+        "saturday": "50g lean lamb + oats",
+        "sunday": "3/4 cup kibble (strict portion control)"
+      },
+      "adult": {
+        "monday": "1 cup maintenance kibble (split 2 meals) + dental chew",
+        "tuesday": "70g lean turkey + sweet potato + green beans",
+        "wednesday": "1.5 cups kibble + joint support",
+        "thursday": "60g fish + rice",
+        "friday": "1 cup kibble + cottage cheese",
+        "saturday": "80g lean beef + carrots",
+        "sunday": "1.5 cups kibble (prone to obesity; measure strictly)"
+      },
+      "senior": {
+        "monday": "3/4 cup senior low-calorie kibble + joint supplement",
+        "tuesday": "50g soft-cooked chicken + broth",
+        "wednesday": "1 cup senior kibble + mashed pumpkin",
+        "thursday": "40g white fish + oats",
+        "friday": "3/4 cup senior kibble + lean meat snack",
+        "saturday": "50g chicken + rice",
+        "sunday": "1 cup senior kibble (dental care is critical)"
+      },
+      "pregnant/nursing": {
+        "diet": "Small, frequent meals of high-calorie puppy food. Monitor for calcium deficiency."
+      }
+    }
+  },
+  {
+    "name": "malamute",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2.5 cups large-breed puppy food (split 3 meals) + fish oil",
+        "tuesday": "180g lean meat + rice + turmeric",
+        "wednesday": "3 cups kibble + yogurt (controlled growth)",
+        "thursday": "1 boiled egg + 130g chicken + oats",
+        "friday": "2.5 cups kibble + joint supplement (high fat/protein for cold tolerance)",
+        "saturday": "180g lamb + sweet potato",
+        "sunday": "3 cups kibble (monitor growth rate)"
+      },
+      "adult": {
+        "monday": "3.5 cups high-fat, high-protein kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "400g lean protein + low-glycemic veggies",
+        "wednesday": "4.5 cups kibble + salmon oil",
+        "thursday": "300g fish + pumpkin puree (historically high-protein diet)",
+        "friday": "3.5 cups kibble + cottage cheese",
+        "saturday": "450g lean beef + brown rice",
+        "sunday": "4.5 cups kibble (high caloric needs; avoid free-feeding)"
+      },
+      "senior": {
+        "monday": "3 cups senior large-breed kibble + joint support",
+        "tuesday": "250g easily digestible chicken + steamed greens",
+        "wednesday": "4 cups senior kibble + pureed pumpkin",
+        "thursday": "200g white fish + soft rice",
+        "friday": "3 cups senior kibble + bone broth",
+        "saturday": "250g lean meat + sweet potato",
+        "sunday": "4 cups senior kibble (focus on joint and coat health)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Needs high fat/protein for extreme energy demands of nursing. Feed 3 small meals daily."
+      }
+    }
+  },
+  {
+    "name": "malinois",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2 cups large-breed puppy food (split 3 meals) + fish oil",
+        "tuesday": "150g lean meat + rice + peas",
+        "wednesday": "2.5 cups kibble + yogurt",
+        "thursday": "1 boiled egg + 100g chicken + sweet potato",
+        "friday": "2 cups kibble + bone broth",
+        "saturday": "150g lamb + oats",
+        "sunday": "2.5 cups kibble (maintain lean body condition)"
+      },
+      "adult": {
+        "monday": "3 cups performance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "300g lean chicken/beef + brown rice + vegetables",
+        "wednesday": "3.5 cups kibble + joint supplement",
+        "thursday": "250g fish + pumpkin puree",
+        "friday": "3 cups kibble + cottage cheese",
+        "saturday": "350g lean meat + sweet potato (high caloric density required)",
+        "sunday": "3.5 cups kibble (extreme energy requires very high caloric intake)"
+      },
+      "senior": {
+        "monday": "2 cups senior low-calorie kibble + joint support",
+        "tuesday": "200g lean chicken + steamed greens",
+        "wednesday": "2.5 cups senior kibble + pureed pumpkin",
+        "thursday": "150g fish + soft grains",
+        "friday": "2 cups senior kibble + apple slices",
+        "saturday": "200g chicken + rice",
+        "sunday": "2.5 cups senior kibble (maintain mental enrichment with food puzzles)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3 small meals daily. Ensure consistent high-calorie intake for extreme activity level."
+      }
+    }
+  },
+  {
+    "name": "maltese_dog",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1/4 cup small kibble (split 3-4 meals) + 1 tsp salmon oil",
+        "tuesday": "30g lean protein + soft vegetables",
+        "wednesday": "1/2 cup small kibble + 1 tsp curd",
+        "thursday": "30g white fish + sweet potato puree",
+        "friday": "1/4 cup small kibble + 1/2 boiled egg",
+        "saturday": "30g lean meat + 1 tbsp rice",
+        "sunday": "1/2 cup small kibble (prone to Hypoglycemia if meals are skipped)"
+      },
+      "adult": {
+        "monday": "1/2 cup small breed kibble (split 2 meals) + dental chew",
+        "tuesday": "60g lean chicken + small portion of rice/oats",
+        "wednesday": "3/4 cup kibble + digestive supplement",
+        "thursday": "50g fish + pumpkin puree",
+        "friday": "1/2 cup kibble + small portion of boiled egg",
+        "saturday": "70g lean lamb/turkey + green beans",
+        "sunday": "3/4 cup kibble (dental health is paramount)"
+      },
+      "senior": {
+        "monday": "1/4 cup senior kibble (soft) + joint supplement",
+        "tuesday": "40g soft-cooked lean meat + broth",
+        "wednesday": "1/2 cup senior kibble + mashed sweet potato",
+        "thursday": "40g white fish + curd",
+        "friday": "1/4 cup senior kibble + steamed carrots",
+        "saturday": "Soft chicken and rice meal (small portion)",
+        "sunday": "1/2 cup senior kibble (diet should support tear-stain reduction)"
+      },
+      "pregnant/nursing": {
+        "diet": "Small, frequent meals of high-calorie puppy food. Monitor for calcium deficiency and Hypoglycemia."
+      }
+    }
+  },
+  {
+    "name": "mexican_hairless",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1 cup medium-breed puppy food (split 3 meals) + fish oil",
+        "tuesday": "80g lean meat + brown rice + peas",
+        "wednesday": "1.5 cups kibble + skin health supplement",
+        "thursday": "1/2 boiled egg + 60g chicken + sweet potato",
+        "friday": "1 cup kibble + bone broth",
+        "saturday": "90g lamb + oats",
+        "sunday": "1.5 cups kibble (needs sufficient fat for healthy skin)"
+      },
+      "adult": {
+        "monday": "1.5 cups maintenance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "150g lean protein + brown rice + vegetables",
+        "wednesday": "2 cups kibble + skin oil supplement",
+        "thursday": "120g fish + pumpkin puree",
+        "friday": "1.5 cups kibble + cottage cheese",
+        "saturday": "200g lean meat + sweet potato (requires higher caloric intake due to heat loss)",
+        "sunday": "2 cups kibble (focus on quality fats for skin health)"
+      },
+      "senior": {
+        "monday": "1 cup senior low-calorie kibble + joint support",
+        "tuesday": "100g lean chicken + steamed greens",
+        "wednesday": "1.5 cups senior kibble + pureed pumpkin",
+        "thursday": "80g white fish + oats",
+        "friday": "1 cup senior kibble + apple slices",
+        "saturday": "100g lean meat + rice",
+        "sunday": "1.5 cups senior kibble (avoid high-fat diets)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-calorie puppy food. Monitor for temperature regulation during feeding. Feed 3 small meals daily."
+      }
+    }
+  },
+  {
+    "name": "miniature_pinscher",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1/2 cup small kibble (split 3 meals) + 1 tsp salmon oil",
+        "tuesday": "40g lean chicken + rice + peas",
+        "wednesday": "3/4 cup kibble + probiotic",
+        "thursday": "40g fish + sweet potato puree",
+        "friday": "1/2 cup kibble + 1/2 boiled egg",
+        "saturday": "50g lean lamb + oats",
+        "sunday": "3/4 cup kibble (requires sufficient calories for high energy)"
+      },
+      "adult": {
+        "monday": "1 cup small breed kibble (split 2 meals) + dental chew",
+        "tuesday": "70g lean chicken + small portion of rice/oats",
+        "wednesday": "1.5 cups kibble + joint support",
+        "thursday": "60g fish + pumpkin puree",
+        "friday": "1 cup kibble + small portion of boiled egg",
+        "saturday": "80g lean lamb/turkey + green beans",
+        "sunday": "1.5 cups kibble (needs lean protein to maintain muscle tone)"
+      },
+      "senior": {
+        "monday": "3/4 cup senior kibble (low calorie) + joint supplement",
+        "tuesday": "50g soft-cooked chicken + broth",
+        "wednesday": "1 cup senior kibble + mashed sweet potato",
+        "thursday": "40g white fish + curd",
+        "friday": "3/4 cup senior kibble + steamed carrots",
+        "saturday": "50g chicken and rice meal",
+        "sunday": "1 cup senior kibble (focus on joint health)"
+      },
+      "pregnant/nursing": {
+        "diet": "Small, frequent meals of high-calorie puppy food. Monitor for energy crashes. Ensure consistent intake."
+      }
+    }
+  },
+  {
+    "name": "miniature_poodle",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1 cup small-breed puppy food (split 3 meals) + 1 tsp salmon oil",
+        "tuesday": "80g lean protein + soft vegetables",
+        "wednesday": "1.5 cups small kibble + 1 tsp curd",
+        "thursday": "80g white fish + sweet potato puree",
+        "friday": "1 cup small kibble + 1 boiled egg",
+        "saturday": "100g lean meat + 2 tbsp rice",
+        "sunday": "1.5 cups small kibble (avoid obesity at all costs)"
+      },
+      "adult": {
+        "monday": "1.5 cups maintenance kibble (split 2 meals) + dental chew",
+        "tuesday": "150g lean chicken + small portion of rice/oats",
+        "wednesday": "2 cups kibble + Omega-3s (for coat)",
+        "thursday": "120g fish + pumpkin puree",
+        "friday": "1.5 cups kibble + cottage cheese",
+        "saturday": "200g lean lamb/turkey + green beans",
+        "sunday": "2 cups kibble (maintain lean body weight)"
+      },
+      "senior": {
+        "monday": "1 cup senior kibble (soaked) + joint supplement",
+        "tuesday": "100g soft-cooked lean meat + broth",
+        "wednesday": "1.5 cups senior kibble + mashed sweet potato",
+        "thursday": "80g white fish + curd",
+        "friday": "1 cup senior kibble + steamed carrots",
+        "saturday": "Soft chicken and rice meal (medium portion)",
+        "sunday": "1.5 cups senior kibble (dental care is crucial)"
+      },
+      "pregnant/nursing": {
+        "diet": "Transition to performance puppy food by the 6th week of pregnancy. Feed small, frequent meals of high-calorie formula."
+      }
+    }
+  },
+  {
+    "name": "miniature_schnauzer",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1 cup small-breed puppy food (split 3 meals) + fish oil",
+        "tuesday": "80g lean meat + brown rice + peas",
+        "wednesday": "1.5 cups kibble + probiotic",
+        "thursday": "1/2 boiled egg + 60g chicken + sweet potato",
+        "friday": "1 cup kibble + bone broth",
+        "saturday": "90g lamb + oats",
+        "sunday": "1.5 cups kibble (low-fat diet often recommended)"
+      },
+      "adult": {
+        "monday": "1.5 cups maintenance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "150g lean protein + brown rice + vegetables",
+        "wednesday": "2 cups kibble (**low-fat formula**) + joint supplement",
+        "thursday": "120g fish + pumpkin puree",
+        "friday": "1.5 cups kibble + low-fat cottage cheese",
+        "saturday": "200g lean meat + sweet potato",
+        "sunday": "2 cups kibble (prone to Pancreatitis—fat content is crucial)"
+      },
+      "senior": {
+        "monday": "1 cup senior low-fat kibble + joint supplement",
+        "tuesday": "100g lean chicken + steamed greens",
+        "wednesday": "1.5 cups senior low-fat kibble + pureed pumpkin",
+        "thursday": "80g white fish + oats",
+        "friday": "1 cup senior kibble + apple slices",
+        "saturday": "100g lean meat + rice",
+        "sunday": "1.5 cups senior kibble (highly sensitive to rich treats/foods)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Maintain low-fat requirement during pregnancy. Feed 3 small meals daily."
+      }
+    }
+  },
+  {
+    "name": "newfoundland",
+    "diet_plan": {
+      "puppy": {
+        "monday": "4 cups giant-breed puppy formula (split 3 meals) + joint supplement",
+        "tuesday": "250g lean beef + rice + turmeric (very slow growth)",
+        "wednesday": "5 cups kibble + cardiac supplement (vet recommended)",
+        "thursday": "1 boiled egg + 200g chicken + sweet potato",
+        "friday": "4 cups kibble + fish oil (controlled growth formula)",
+        "saturday": "300g lamb + oats",
+        "sunday": "5 cups kibble (strict caloric restriction for 18-24 months)"
+      },
+      "adult": {
+        "monday": "6 cups giant-breed kibble (split 2 meals) + Glucosamine/Chondroitin",
+        "tuesday": "400g lean meat + low-glycemic veggies",
+        "wednesday": "7 cups kibble (feed **elevated**) + cardiac supplements",
+        "thursday": "300g fish + pumpkin puree",
+        "friday": "6 cups kibble + cottage cheese (non-fat)",
+        "saturday": "500g lean beef + brown rice (enforce strict rest after meal)",
+        "sunday": "7 cups kibble (Bloat risk; focus on low-fat, joint-support protein)"
+      },
+      "senior": {
+        "monday": "4 cups senior giant-breed kibble + joint support",
+        "tuesday": "300g easily digestible chicken + steamed greens",
+        "wednesday": "5 cups senior kibble + pureed pumpkin",
+        "thursday": "250g white fish + soft rice",
+        "friday": "4 cups senior kibble + bone broth",
+        "saturday": "300g lean meat + sweet potato",
+        "sunday": "5 cups senior kibble (focus on cardiac health and joint maintenance)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3-4 small meals daily to manage Bloat risk. Cardiac supplements may need to be adjusted (vet consult required)."
+      }
+    }
+  },
+  {
+    "name": "norfolk_terrier",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1/2 cup small kibble (split 3 meals) + 1 tsp salmon oil",
+        "tuesday": "40g lean chicken + rice + peas",
+        "wednesday": "3/4 cup kibble + probiotic",
+        "thursday": "40g fish + sweet potato puree",
+        "friday": "1/2 cup kibble + 1/2 boiled egg",
+        "saturday": "50g lean lamb + oats",
+        "sunday": "3/4 cup kibble (requires sufficient calories for high energy)"
+      },
+      "adult": {
+        "monday": "1 cup maintenance kibble (split 2 meals) + dental chew",
+        "tuesday": "70g lean turkey + sweet potato + green beans",
+        "wednesday": "1.5 cups kibble + joint support",
+        "thursday": "60g fish + rice",
+        "friday": "1 cup kibble + cottage cheese",
+        "saturday": "80g lean beef + carrots",
+        "sunday": "1.5 cups kibble (needs lean protein to maintain muscle tone)"
+      },
+      "senior": {
+        "monday": "3/4 cup senior low-calorie kibble + joint supplement",
+        "tuesday": "50g soft-cooked chicken + broth",
+        "wednesday": "1 cup senior kibble + mashed pumpkin",
+        "thursday": "40g white fish + oats",
+        "friday": "3/4 cup senior kibble + lean meat snack",
+        "saturday": "50g chicken + rice",
+        "sunday": "1 cup senior kibble (avoid overfeeding)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-calorie puppy food. Small, frequent feedings. Monitor for calcium deficiency."
+      }
+    }
+  },
+  {
+    "name": "norwegian_elkhound",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2 cups large-breed puppy food (split 3 meals) + fish oil",
+        "tuesday": "150g lean meat + rice + turmeric",
+        "wednesday": "2.5 cups kibble + yogurt (controlled growth)",
+        "thursday": "1 boiled egg + 100g chicken + oats",
+        "friday": "2 cups kibble + bone broth",
+        "saturday": "150g lamb + sweet potato (high fat/protein for cold tolerance)",
+        "sunday": "2.5 cups kibble (high activity requires calorie-dense food)"
+      },
+      "adult": {
+        "monday": "3 cups performance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "300g lean protein + brown rice + vegetables",
+        "wednesday": "3.5 cups kibble + joint supplement",
+        "thursday": "250g fish + pumpkin puree",
+        "friday": "3 cups kibble + cottage cheese",
+        "saturday": "350g lean meat + oats (Bloat risk)",
+        "sunday": "3.5 cups kibble (requires high protein/fat for cold tolerance)"
+      },
+      "senior": {
+        "monday": "2 cups senior kibble + joint support",
+        "tuesday": "200g lean chicken + steamed greens",
+        "wednesday": "2.5 cups senior kibble + pureed pumpkin",
+        "thursday": "150g fish + soft grains",
+        "friday": "2 cups senior kibble + apple slices",
+        "saturday": "200g chicken + rice",
+        "sunday": "2.5 cups senior kibble (avoid high sodium)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Ensure sufficient water intake. Feed 3 small meals daily."
+      }
+    }
+  },
+  {
+    "name": "norwich_terrier",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1/2 cup small kibble (split 3 meals) + 1 tsp salmon oil",
+        "tuesday": "40g lean chicken + rice + peas",
+        "wednesday": "3/4 cup kibble + probiotic",
+        "thursday": "40g fish + sweet potato puree",
+        "friday": "1/2 cup kibble + 1/2 boiled egg",
+        "saturday": "50g lean lamb + oats",
+        "sunday": "3/4 cup kibble (requires sufficient calories for high energy)"
+      },
+      "adult": {
+        "monday": "1 cup maintenance kibble (split 2 meals) + dental chew",
+        "tuesday": "70g lean turkey + sweet potato + green beans",
+        "wednesday": "1.5 cups kibble + joint support",
+        "thursday": "60g fish + rice",
+        "friday": "1 cup kibble + cottage cheese",
+        "saturday": "80g lean beef + carrots",
+        "sunday": "1.5 cups kibble (needs lean protein to maintain muscle tone)"
+      },
+      "senior": {
+        "monday": "3/4 cup senior low-calorie kibble + joint supplement",
+        "tuesday": "50g soft-cooked chicken + broth",
+        "wednesday": "1 cup senior kibble + mashed pumpkin",
+        "thursday": "40g white fish + oats",
+        "friday": "3/4 cup senior kibble + lean meat snack",
+        "saturday": "50g chicken + rice",
+        "sunday": "1 cup senior kibble (avoid overfeeding)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-calorie puppy food. Small, frequent feedings. Monitor for calcium deficiency."
+      }
+    }
+  },
+  {
+    "name": "old_english_sheepdog",
+    "diet_plan": {
+      "puppy": {
+        "monday": "3 cups large-breed puppy food (split 3 meals) + joint supplement",
+        "tuesday": "200g lean meat + rice + turmeric",
+        "wednesday": "4 cups kibble + fish oil (controlled growth)",
+        "thursday": "1 boiled egg + 150g chicken + oats",
+        "friday": "3 cups kibble + bone broth",
+        "saturday": "200g lamb + sweet potato",
+        "sunday": "4 cups kibble (controlled growth is key)"
+      },
+      "adult": {
+        "monday": "4 cups large-breed kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "400g lean protein + brown rice + high-fiber veggies",
+        "wednesday": "5 cups kibble (feed elevated) + salmon oil (for coat)",
+        "thursday": "300g fish + pumpkin puree",
+        "friday": "4 cups kibble + cottage cheese",
+        "saturday": "500g lean meat + oats (Bloat risk)",
+        "sunday": "5 cups kibble (high fiber diet needed for coat health)"
+      },
+      "senior": {
+        "monday": "3 cups senior large-breed kibble + joint support",
+        "tuesday": "250g easily digestible chicken + steamed greens",
+        "wednesday": "4 cups senior kibble + pureed pumpkin",
+        "thursday": "200g white fish + soft rice",
+        "friday": "3 cups senior kibble + bone broth",
+        "saturday": "250g lean meat + sweet potato",
+        "sunday": "4 cups senior kibble (focus on joint maintenance and low-calorie intake)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3 small meals daily to mitigate Bloat risk. Ensure sufficient intake for large litter sizes."
+      }
+    }
+  },
+  {
+    "name": "otterhound",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2.5 cups large-breed puppy food (split 3 meals) + joint supplement",
+        "tuesday": "180g lean meat + rice + turmeric",
+        "wednesday": "3 cups kibble + fish oil (controlled growth)",
+        "thursday": "1 boiled egg + 130g chicken + oats",
+        "friday": "2.5 cups kibble + bone broth",
+        "saturday": "180g lamb + sweet potato",
+        "sunday": "3 cups kibble (controlled growth due to heavy build)"
+      },
+      "adult": {
+        "monday": "3 cups maintenance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "350g lean protein + brown rice + vegetables",
+        "wednesday": "4 cups kibble (feed elevated) + joint support",
+        "thursday": "300g fish + pumpkin puree",
+        "friday": "3 cups kibble + cottage cheese",
+        "saturday": "400g lean meat + oats (Bloat risk)",
+        "sunday": "4 cups kibble (needs high protein/fat for water work)"
+      },
+      "senior": {
+        "monday": "2.5 cups senior large-breed kibble + joint support",
+        "tuesday": "250g easily digestible chicken + steamed greens",
+        "wednesday": "3 cups senior kibble + high-fiber grains",
+        "thursday": "200g white fish + pumpkin",
+        "friday": "2.5 cups senior kibble + apple slices",
+        "saturday": "250g chicken + rice",
+        "sunday": "3 cups senior kibble (needs high fiber)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3 small meals daily to mitigate Bloat risk. Ensure high hydration for water work."
+      }
+    }
+  },
+  {
+    "name": "papillon",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1/4 cup small kibble (split 3-4 meals) + 1 tsp salmon oil",
+        "tuesday": "30g lean protein + soft vegetables",
+        "wednesday": "1/2 cup small kibble + 1 tsp curd",
+        "thursday": "30g white fish + sweet potato puree",
+        "friday": "1/4 cup small kibble + 1/2 boiled egg",
+        "saturday": "30g lean meat + 1 tbsp rice",
+        "sunday": "1/2 cup small kibble (prone to Hypoglycemia if meals are skipped)"
+      },
+      "adult": {
+        "monday": "1/2 cup small breed kibble (split 2 meals) + dental chew",
+        "tuesday": "60g lean chicken + small portion of rice/oats",
+        "wednesday": "3/4 cup kibble + digestive supplement",
+        "thursday": "50g fish + pumpkin puree",
+        "friday": "1/2 cup kibble + small portion of boiled egg",
+        "saturday": "70g lean lamb/turkey + green beans",
+        "sunday": "3/4 cup kibble (highly active—needs nutrient-dense food)"
+      },
+      "senior": {
+        "monday": "1/4 cup senior kibble (soaked) + joint supplement",
+        "tuesday": "40g soft-cooked lean meat + broth",
+        "wednesday": "1/2 cup senior kibble + mashed sweet potato",
+        "thursday": "40g white fish + curd",
+        "friday": "1/4 cup senior kibble + steamed carrots",
+        "saturday": "Soft chicken and rice meal (small portion)",
+        "sunday": "1/2 cup senior kibble (dental care is critical)"
+      },
+      "pregnant/nursing": {
+        "diet": "Small, frequent meals of high-calorie puppy food. Monitor for eclampsia. Ensure diet provides sufficient calcium and energy."
+      }
+    }
+  },
+  {
+    "name": "pekinese",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1/4 cup small kibble (split 3 meals) + 1 tsp salmon oil",
+        "tuesday": "30g lean protein + soft vegetables",
+        "wednesday": "1/2 cup small kibble + 1 tsp curd",
+        "thursday": "30g white fish + sweet potato puree",
+        "friday": "1/4 cup small kibble + 1/2 boiled egg",
+        "saturday": "30g lean meat + 1 tbsp rice",
+        "sunday": "1/2 cup small kibble (needs gentle, easily digestible diet)"
+      },
+      "adult": {
+        "monday": "1/2 cup small breed kibble (split 2 meals) + dental chew",
+        "tuesday": "60g lean chicken + small portion of rice/oats",
+        "wednesday": "3/4 cup kibble + digestive supplement",
+        "thursday": "50g fish + pumpkin puree",
+        "friday": "1/2 cup kibble + small portion of boiled egg",
+        "saturday": "70g lean lamb/turkey + green beans",
+        "sunday": "3/4 cup kibble (prone to obesity; strict portion control)"
+      },
+      "senior": {
+        "monday": "1/4 cup senior kibble (soaked) + joint supplement",
+        "tuesday": "40g soft-cooked lean meat + broth",
+        "wednesday": "1/2 cup senior kibble + mashed sweet potato",
+        "thursday": "40g white fish + curd",
+        "friday": "1/4 cup senior kibble + steamed carrots",
+        "saturday": "Soft chicken and rice meal (small portion)",
+        "sunday": "1/2 cup senior kibble (soft food preferred for brachycephalic eating)"
+      },
+      "pregnant/nursing": {
+        "diet": "Small, frequent meals of high-calorie puppy food. Monitor breathing and temperature closely during feeding."
+      }
+    }
+  },
+  {
+    "name": "pembroke",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1 cup small-to-medium puppy food (split 3 meals) + fish oil",
+        "tuesday": "80g lean meat + rice + peas",
+        "wednesday": "1.5 cups kibble + probiotic",
+        "thursday": "1/2 boiled egg + 60g chicken + sweet potato",
+        "friday": "1 cup kibble + joint supplement",
+        "saturday": "90g lamb + oats",
+        "sunday": "1.5 cups kibble (strict portion control to prevent back stress)"
+      },
+      "adult": {
+        "monday": "1.5 cups maintenance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "150g lean protein + brown rice + vegetables",
+        "wednesday": "2 cups kibble + joint supplement (Glucosamine)",
+        "thursday": "120g fish + pumpkin puree",
+        "friday": "1.5 cups kibble + cottage cheese",
+        "saturday": "200g lean meat + sweet potato",
+        "sunday": "2 cups kibble (must maintain lean weight for IVDD prevention)"
+      },
+      "senior": {
+        "monday": "1 cup senior weight management kibble + joint support",
+        "tuesday": "100g lean chicken + steamed greens",
+        "wednesday": "1.5 cups senior kibble + high-fiber grains",
+        "thursday": "80g white fish + oats",
+        "friday": "1 cup senior kibble + apple slices",
+        "saturday": "100g lean meat + rice",
+        "sunday": "1.5 cups senior kibble (low-impact feeding, bowls on floor)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Monitor for calcium deficiency during nursing. Feed 3 small meals daily."
+      }
+    }
+  },
+  {
+    "name": "pomeranian",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1/4 cup small kibble (split 3-4 meals) + 1 tsp salmon oil",
+        "tuesday": "30g lean protein + soft vegetables",
+        "wednesday": "1/2 cup small kibble + 1 tsp curd",
+        "thursday": "30g white fish + sweet potato puree",
+        "friday": "1/4 cup small kibble + 1/2 boiled egg",
+        "saturday": "30g lean meat + 1 tbsp rice",
+        "sunday": "1/2 cup small kibble (prone to Hypoglycemia if meals are skipped)"
+      },
+      "adult": {
+        "monday": "1/2 cup small breed kibble (split 2 meals) + dental chew",
+        "tuesday": "60g lean chicken + small portion of rice/oats",
+        "wednesday": "3/4 cup kibble + digestive supplement",
+        "thursday": "50g fish + pumpkin puree",
+        "friday": "1/2 cup kibble + small portion of boiled egg",
+        "saturday": "70g lean lamb/turkey + green beans",
+        "sunday": "3/4 cup kibble (focus on coat health/Omega-3s)"
+      },
+      "senior": {
+        "monday": "1/4 cup senior kibble (soaked) + joint supplement",
+        "tuesday": "40g soft-cooked lean meat + broth",
+        "wednesday": "1/2 cup senior kibble + mashed sweet potato",
+        "thursday": "40g white fish + curd",
+        "friday": "1/4 cup senior kibble + steamed carrots",
+        "saturday": "Soft chicken and rice meal (small portion)",
+        "sunday": "1/2 cup senior kibble (dental care is critical)"
+      },
+      "pregnant/nursing": {
+        "diet": "Small, frequent meals of high-calorie puppy food. Monitor for calcium deficiency and Hypoglycemia."
+      }
+    }
+  },
+  {
+    "name": "pug",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1/2 cup small kibble (split 3-4 meals) + 1 tsp salmon oil",
+        "tuesday": "40g lean chicken + rice + peas",
+        "wednesday": "3/4 cup kibble + probiotic",
+        "thursday": "40g fish + sweet potato puree",
+        "friday": "1/2 cup kibble + 1/2 boiled egg",
+        "saturday": "50g lean lamb + oats",
+        "sunday": "3/4 cup kibble (small, easy-to-chew kibble)"
+      },
+      "adult": {
+        "monday": "1 cup maintenance kibble (split 2 meals) + dental chew",
+        "tuesday": "70g lean turkey + sweet potato + green beans",
+        "wednesday": "1.5 cups kibble (low-calorie formula) + wrinkle clean",
+        "thursday": "60g fish + rice",
+        "friday": "1 cup kibble + low-fat cottage cheese",
+        "saturday": "80g lean beef + carrots",
+        "sunday": "1.5 cups kibble (high risk of obesity; measure strictly)"
+      },
+      "senior": {
+        "monday": "3/4 cup senior low-calorie kibble (soaked) + joint supplement",
+        "tuesday": "50g soft-cooked chicken + broth",
+        "wednesday": "1 cup senior kibble + mashed pumpkin",
+        "thursday": "40g white fish + oats",
+        "friday": "3/4 cup senior kibble + lean meat snack",
+        "saturday": "50g chicken + rice",
+        "sunday": "1 cup senior kibble (requires slow, soft feeding)"
+      },
+      "pregnant/nursing": {
+        "diet": "Small, frequent meals of high-calorie puppy food. Monitor breathing and temperature closely during feeding."
+      }
+    }
+  },
+  {
+    "name": "redbone",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2.5 cups large-breed puppy food (split 3 meals) + joint supplement",
+        "tuesday": "180g lean meat + rice + turmeric",
+        "wednesday": "3 cups kibble + yogurt (controlled growth)",
+        "thursday": "1 boiled egg + 130g chicken + oats",
+        "friday": "2.5 cups kibble + fish oil",
+        "saturday": "180g lamb + sweet potato",
+        "sunday": "3 cups kibble (high energy requires sufficient calories)"
+      },
+      "adult": {
+        "monday": "3 cups performance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "350g lean protein + brown rice + vegetables",
+        "wednesday": "4 cups kibble + joint support",
+        "thursday": "300g fish + pumpkin puree",
+        "friday": "3 cups kibble + cottage cheese",
+        "saturday": "400g lean beef + oats (Bloat risk)",
+        "sunday": "4 cups kibble (high caloric intake to fuel extreme exercise)"
+      },
+      "senior": {
+        "monday": "2.5 cups senior kibble + joint support",
+        "tuesday": "250g lean chicken + steamed greens",
+        "wednesday": "3 cups senior kibble + high-fiber grains",
+        "thursday": "200g fish + pumpkin",
+        "friday": "2.5 cups senior kibble + apple slices",
+        "saturday": "250g chicken + rice",
+        "sunday": "3 cups senior kibble (needs high fiber)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3 small meals daily to mitigate Bloat risk. Ensure consistent high-calorie intake."
+      }
+    }
+  },
+  {
+    "name": "rhodesian_ridgeback",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2.5 cups large-breed puppy formula (split 3 meals) + joint supplement",
+        "tuesday": "180g lean meat + rice + turmeric",
+        "wednesday": "3 cups kibble + fish oil (controlled growth)",
+        "thursday": "1 boiled egg + 130g chicken + oats",
+        "friday": "2.5 cups kibble + bone broth",
+        "saturday": "180g lamb + sweet potato",
+        "sunday": "3 cups kibble (strict caloric restriction is vital)"
+      },
+      "adult": {
+        "monday": "3 cups large-breed kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "350g lean protein + brown rice + vegetables",
+        "wednesday": "4 cups kibble (feed **elevated**) + joint support",
+        "thursday": "300g fish + pumpkin puree",
+        "friday": "3 cups kibble + cottage cheese",
+        "saturday": "400g lean beef + oats (Bloat risk)",
+        "sunday": "4 cups kibble (high Bloat risk; feed slowly and rest)"
+      },
+      "senior": {
+        "monday": "2.5 cups senior large-breed kibble + joint support",
+        "tuesday": "250g lean chicken + steamed greens",
+        "wednesday": "3 cups senior kibble + pureed pumpkin",
+        "thursday": "200g white fish + soft rice",
+        "friday": "2.5 cups senior kibble + bone broth",
+        "saturday": "250g lean meat + sweet potato",
+        "sunday": "3 cups senior kibble (high protein to maintain muscle)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3 small meals daily to mitigate Bloat risk. Strict monitoring for Dermoid Sinus post-birth."
+      }
+    }
+  },
+  {
+    "name": "rottweiler",
+    "diet_plan": {
+      "puppy": {
+        "monday": "3 cups large-breed puppy formula (split 3 meals) + cardiac supplement (vet recommended)",
+        "tuesday": "200g lean beef + rice + turmeric",
+        "wednesday": "4 cups kibble + fish oil (controlled growth)",
+        "thursday": "1 boiled egg + 150g chicken + oats",
+        "friday": "3 cups kibble + bone broth",
+        "saturday": "200g lamb + sweet potato",
+        "sunday": "4 cups kibble (cardiac health monitoring is key)"
+      },
+      "adult": {
+        "monday": "4 cups large-breed active kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "400g lean meat + low-glycemic veggies",
+        "wednesday": "5 cups kibble (feed **elevated**) + cardiac supplements (Taurine/L-Carnitine)",
+        "thursday": "300g fish + pumpkin puree",
+        "friday": "4 cups kibble + cottage cheese (non-fat)",
+        "saturday": "500g lean beef + brown rice (enforce rest after meal)",
+        "sunday": "5 cups kibble (high Bloat risk; feed slowly and rest)"
+      },
+      "senior": {
+        "monday": "3 cups senior kibble (cardiac formula if needed) + joint support",
+        "tuesday": "250g easily digestible chicken + steamed greens",
+        "wednesday": "4 cups senior kibble + pureed pumpkin",
+        "thursday": "200g white fish + soft rice",
+        "friday": "3 cups senior kibble + bone broth",
+        "saturday": "250g lean meat + sweet potato",
+        "sunday": "4 cups senior kibble (focus on cardiac and joint health)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Maintain cardiac support supplements under vet guidance. Feed 3-4 small meals daily to manage Bloat risk."
+      }
+    }
+  },
+  {
+    "name": "saint_bernard",
+    "diet_plan": {
+      "puppy": {
+        "monday": "4 cups giant-breed puppy formula (split 3 meals) + joint supplement",
+        "tuesday": "250g lean beef + rice + turmeric (very slow growth)",
+        "wednesday": "5 cups kibble + fish oil (controlled growth formula)",
+        "thursday": "1 boiled egg + 200g chicken + sweet potato",
+        "friday": "4 cups kibble + bone broth (strict caloric restriction)",
+        "saturday": "300g lamb + oats",
+        "sunday": "5 cups kibble (critical to avoid overfeeding and rapid growth)"
+      },
+      "adult": {
+        "monday": "6 cups giant-breed kibble (split 2 meals) + Glucosamine/Chondroitin",
+        "tuesday": "400g lean meat + low-glycemic veggies",
+        "wednesday": "7 cups kibble (feed **elevated**) + fish oil",
+        "thursday": "300g fish + pumpkin puree",
+        "friday": "6 cups kibble + cottage cheese (non-fat)",
+        "saturday": "500g lean beef + brown rice (enforce strict rest after meal)",
+        "sunday": "7 cups kibble (extreme Bloat risk; feed slowly and rest)"
+      },
+      "senior": {
+        "monday": "5 cups senior giant-breed kibble + joint support",
+        "tuesday": "400g easily digestible chicken + steamed greens",
+        "wednesday": "6 cups senior kibble + pureed pumpkin",
+        "thursday": "300g white fish + soft rice",
+        "friday": "5 cups senior kibble + bone broth",
+        "saturday": "400g lean meat + sweet potato",
+        "sunday": "6 cups senior kibble (low-calorie to avoid joint stress)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3-4 small, highly digestible meals daily to mitigate Bloat risk. Monitor for heat sensitivity during feeding."
+      }
+    }
+  },
+  {
+    "name": "saluki",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2 cups large-breed puppy food (split 3 meals) + joint supplement",
+        "tuesday": "150g lean meat + rice + turmeric",
+        "wednesday": "2.5 cups kibble + fish oil (controlled growth)",
+        "thursday": "1 boiled egg + 100g chicken + oats",
+        "friday": "2 cups kibble + bone broth",
+        "saturday": "150g lamb + sweet potato",
+        "sunday": "2.5 cups kibble (maintain very lean body condition)"
+      },
+      "adult": {
+        "monday": "3 cups performance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "300g lean protein + brown rice + vegetables",
+        "wednesday": "3.5 cups kibble + joint support",
+        "thursday": "250g fish + pumpkin puree",
+        "friday": "3 cups kibble + cottage cheese",
+        "saturday": "350g lean meat + oats (Bloat risk)",
+        "sunday": "3.5 cups kibble (needs high protein for muscle and speed)"
+      },
+      "senior": {
+        "monday": "2 cups senior low-calorie kibble + joint support",
+        "tuesday": "200g lean chicken + steamed greens",
+        "wednesday": "2.5 cups senior kibble + pureed pumpkin",
+        "thursday": "150g fish + soft grains",
+        "friday": "2 cups senior kibble + apple slices",
+        "saturday": "200g chicken + rice",
+        "sunday": "2.5 cups senior kibble (sensitive digestive systems)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Monitor iron levels during pregnancy. Feed 3 small meals daily."
+      }
+    }
+  },
+  {
+    "name": "samoyed",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1.5 cups medium-breed puppy food (split 3 meals) + fish oil",
+        "tuesday": "100g lean meat + brown rice + peas",
+        "wednesday": "2 cups kibble + probiotic",
+        "thursday": "1/2 boiled egg + 80g chicken + sweet potato",
+        "friday": "1.5 cups kibble + bone broth",
+        "saturday": "120g lamb + oats",
+        "sunday": "2 cups kibble (requires sufficient fat for dense coat)"
+      },
+      "adult": {
+        "monday": "2 cups maintenance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "250g lean protein + brown rice + vegetables",
+        "wednesday": "2.5 cups kibble (low-calorie formula) + Omega-3s",
+        "thursday": "200g fish + pumpkin puree",
+        "friday": "2 cups kibble + cottage cheese",
+        "saturday": "300g lean meat + sweet potato (prone to obesity)",
+        "sunday": "2.5 cups kibble (diet should support dense coat)"
+      },
+      "senior": {
+        "monday": "1.5 cups senior low-calorie kibble + joint support",
+        "tuesday": "150g lean chicken + steamed greens",
+        "wednesday": "2 cups senior kibble + pureed pumpkin",
+        "thursday": "100g fish + soft grains",
+        "friday": "1.5 cups kibble + apple slices",
+        "saturday": "150g lean meat + rice",
+        "sunday": "2 cups senior kibble (monitor for diabetes)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3 small meals daily. Ensure diet supports skin and coat health."
+      }
+    }
+  },
+  {
+    "name": "schipperke",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1/2 cup small kibble (split 3 meals) + 1 tsp salmon oil",
+        "tuesday": "40g lean chicken + rice + peas",
+        "wednesday": "3/4 cup kibble + probiotic",
+        "thursday": "40g fish + sweet potato puree",
+        "friday": "1/2 cup kibble + 1/2 boiled egg",
+        "saturday": "50g lean lamb + oats",
+        "sunday": "3/4 cup kibble (high energy requires nutrient-dense food)"
+      },
+      "adult": {
+        "monday": "3/4 cup active maintenance kibble (split 2 meals) + dental chew",
+        "tuesday": "70g lean turkey + sweet potato + green beans",
+        "wednesday": "1 cup kibble + joint support",
+        "thursday": "60g fish + rice",
+        "friday": "3/4 cup kibble + cottage cheese",
+        "saturday": "80g lean beef + carrots",
+        "sunday": "1 cup kibble (easily gains weight; measure strictly)"
+      },
+      "senior": {
+        "monday": "1/2 cup senior low-calorie kibble + joint supplement",
+        "tuesday": "40g soft-cooked chicken + broth",
+        "wednesday": "3/4 cup senior kibble + mashed pumpkin",
+        "thursday": "40g white fish + oats",
+        "friday": "1/2 cup senior kibble + lean meat snack",
+        "saturday": "40g chicken + rice",
+        "sunday": "3/4 cup senior kibble (focus on joint health)"
+      },
+      "pregnant/nursing": {
+        "diet": "Small, frequent meals of high-calorie puppy food. Monitor for calcium deficiency."
+      }
+    }
+  },
+  {
+    "name": "scotch_terrier",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1/2 cup small kibble (split 3 meals) + 1 tsp salmon oil",
+        "tuesday": "40g lean chicken + rice + peas",
+        "wednesday": "3/4 cup kibble + probiotic (limited ingredient diet if needed)",
+        "thursday": "40g fish + sweet potato puree",
+        "friday": "1/2 cup kibble + 1/2 boiled egg",
+        "saturday": "50g lean lamb + oats",
+        "sunday": "3/4 cup kibble (prone to allergic sensitivities)"
+      },
+      "adult": {
+        "monday": "1 cup maintenance kibble (split 2 meals) + dental chew",
+        "tuesday": "70g lean turkey + sweet potato + green beans",
+        "wednesday": "1.5 cups kibble + joint support",
+        "thursday": "60g fish + rice",
+        "friday": "1 cup kibble + cottage cheese",
+        "saturday": "80g lean beef + carrots",
+        "sunday": "1.5 cups kibble (avoid overfeeding)"
+      },
+      "senior": {
+        "monday": "3/4 cup senior low-calorie kibble + joint supplement",
+        "tuesday": "50g soft-cooked chicken + broth",
+        "wednesday": "1 cup senior kibble + mashed pumpkin",
+        "thursday": "40g white fish + oats",
+        "friday": "3/4 cup senior kibble + lean meat snack",
+        "saturday": "50g chicken + rice",
+        "sunday": "1 cup senior kibble (monitor for Cushing's Disease/weight)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-calorie puppy food. Small, frequent feedings. Monitor for calcium deficiency."
+      }
+    }
+  },
+  {
+    "name": "scottish_deerhound",
+    "diet_plan": {
+      "puppy": {
+        "monday": "4 cups giant-breed puppy formula (split 3 meals) + joint supplement",
+        "tuesday": "250g lean beef + rice + turmeric (very slow growth)",
+        "wednesday": "5 cups kibble + fish oil (controlled growth formula)",
+        "thursday": "1 boiled egg + 200g chicken + sweet potato",
+        "friday": "4 cups kibble + cardiac support (vet recommended)",
+        "saturday": "300g lamb + oats",
+        "sunday": "5 cups kibble (critical to avoid overfeeding)"
+      },
+      "adult": {
+        "monday": "6 cups giant-breed kibble (split 2 meals) + Glucosamine/Chondroitin",
+        "tuesday": "400g lean meat + low-glycemic veggies",
+        "wednesday": "7 cups kibble (feed **elevated**) + fish oil",
+        "thursday": "300g fish + pumpkin puree",
+        "friday": "6 cups kibble + cottage cheese (non-fat)",
+        "saturday": "500g lean beef + brown rice (enforce strict rest after meal)",
+        "sunday": "7 cups kibble (extreme Bloat risk; feed slowly and rest)"
+      },
+      "senior": {
+        "monday": "5 cups senior giant-breed kibble + cardiac/joint support",
+        "tuesday": "400g easily digestible chicken + steamed greens",
+        "wednesday": "6 cups senior kibble + pureed pumpkin",
+        "thursday": "300g white fish + soft rice",
+        "friday": "5 cups senior kibble + bone broth",
+        "saturday": "400g lean meat + sweet potato",
+        "sunday": "6 cups senior kibble (focus on cardiac health and easy digestion)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3-4 small, highly digestible meals daily, elevated, and strictly enforce rest to manage extreme Bloat risk."
+      }
+    }
+  },
+  {
+    "name": "sealyham_terrier",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1/2 cup small kibble (split 3 meals) + 1 tsp salmon oil",
+        "tuesday": "40g lean chicken + rice + peas",
+        "wednesday": "3/4 cup kibble + probiotic",
+        "thursday": "40g fish + sweet potato puree",
+        "friday": "1/2 cup kibble + 1/2 boiled egg",
+        "saturday": "50g lean lamb + oats",
+        "sunday": "3/4 cup kibble (focus on lean protein for wiry coat)"
+      },
+      "adult": {
+        "monday": "1 cup maintenance kibble (split 2 meals) + dental chew",
+        "tuesday": "70g lean turkey + sweet potato + green beans",
+        "wednesday": "1.5 cups kibble + joint support",
+        "thursday": "60g fish + rice",
+        "friday": "1 cup kibble + cottage cheese",
+        "saturday": "80g lean beef + carrots",
+        "sunday": "1.5 cups kibble (needs lean protein to maintain muscle tone)"
+      },
+      "senior": {
+        "monday": "3/4 cup senior low-calorie kibble + joint supplement",
+        "tuesday": "50g soft-cooked chicken + broth",
+        "wednesday": "1 cup senior kibble + mashed pumpkin",
+        "thursday": "40g white fish + oats",
+        "friday": "3/4 cup senior kibble + lean meat snack",
+        "saturday": "50g chicken + rice",
+        "sunday": "1 cup senior kibble (avoid overfeeding)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-calorie puppy food. Small, frequent feedings. Monitor for calcium deficiency."
+      }
+    }
+  },
+  {
+    "name": "shetland_sheepdog",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1 cup medium-breed puppy food (split 3 meals) + fish oil",
+        "tuesday": "80g lean meat + brown rice + peas",
+        "wednesday": "1.5 cups kibble + probiotic",
+        "thursday": "1/2 boiled egg + 60g chicken + sweet potato",
+        "friday": "1 cup kibble + bone broth",
+        "saturday": "90g lamb + oats",
+        "sunday": "1.5 cups kibble (easily gains weight; strict portion control)"
+      },
+      "adult": {
+        "monday": "1.5 cups maintenance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "150g lean protein + brown rice + vegetables",
+        "wednesday": "2 cups kibble + joint supplement",
+        "thursday": "120g fish + pumpkin puree",
+        "friday": "1.5 cups kibble + cottage cheese",
+        "saturday": "200g lean meat + sweet potato (Omega-3s support coat health)",
+        "sunday": "2 cups kibble (prone to weight gain)"
+      },
+      "senior": {
+        "monday": "1 cup senior low-calorie kibble + joint support",
+        "tuesday": "100g lean chicken + steamed greens",
+        "wednesday": "1.5 cups senior kibble + pureed pumpkin",
+        "thursday": "80g white fish + oats",
+        "friday": "1 cup senior kibble + apple slices",
+        "saturday": "100g lean meat + rice",
+        "sunday": "1.5 cups senior kibble (focus on joint health)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3 small meals daily. Ensure sufficient intake for milk production."
+      }
+    }
+  },
+  {
+    "name": "shih-tzu",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1/4 cup small kibble (split 3 meals) + 1 tsp salmon oil",
+        "tuesday": "30g lean protein + soft vegetables",
+        "wednesday": "1/2 cup small kibble + 1 tsp curd",
+        "thursday": "30g white fish + sweet potato puree",
+        "friday": "1/4 cup small kibble + 1/2 boiled egg",
+        "saturday": "30g lean meat + 1 tbsp rice",
+        "sunday": "1/2 cup small kibble (small, easy-to-chew kibble)"
+      },
+      "adult": {
+        "monday": "1/2 cup small breed kibble (split 2 meals) + dental chew",
+        "tuesday": "60g lean chicken + small portion of rice/oats",
+        "wednesday": "3/4 cup kibble + digestive supplement",
+        "thursday": "50g fish + pumpkin puree",
+        "friday": "1/2 cup kibble + small portion of boiled egg",
+        "saturday": "70g lean lamb/turkey + green beans",
+        "sunday": "3/4 cup kibble (brachycephalic eating—soft food preferred)"
+      },
+      "senior": {
+        "monday": "1/4 cup senior kibble (soaked) + joint supplement",
+        "tuesday": "40g soft-cooked lean meat + broth",
+        "wednesday": "1/2 cup senior kibble + mashed sweet potato",
+        "thursday": "40g white fish + curd",
+        "friday": "1/4 cup senior kibble + steamed carrots",
+        "saturday": "Soft chicken and rice meal (small portion)",
+        "sunday": "1/2 cup senior kibble (dental care is critical)"
+      },
+      "pregnant/nursing": {
+        "diet": "Small, frequent meals of high-calorie puppy food. Monitor breathing and temperature closely during feeding."
+      }
+    }
+  },
+  {
+    "name": "siberian_husky",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2 cups large-breed puppy food (split 3 meals) + zinc supplement",
+        "tuesday": "150g lean meat + rice + turmeric",
+        "wednesday": "2.5 cups kibble + fish oil (controlled growth)",
+        "thursday": "1 boiled egg + 100g chicken + oats",
+        "friday": "2 cups kibble + bone broth (prone to zinc deficiency)",
+        "saturday": "150g lamb + sweet potato",
+        "sunday": "2.5 cups kibble (high energy but efficient metabolism)"
+      },
+      "adult": {
+        "monday": "3 cups performance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "300g lean protein + brown rice + vegetables",
+        "wednesday": "3.5 cups kibble + zinc supplement",
+        "thursday": "250g fish + pumpkin puree",
+        "friday": "3 cups kibble + cottage cheese",
+        "saturday": "350g lean meat + oats (Bloat risk)",
+        "sunday": "3.5 cups kibble (high caloric intake to fuel extreme exercise)"
+      },
+      "senior": {
+        "monday": "2 cups senior kibble + joint support",
+        "tuesday": "200g lean chicken + steamed greens",
+        "wednesday": "2.5 cups senior kibble + pureed pumpkin",
+        "thursday": "150g fish + soft grains",
+        "friday": "2 cups senior kibble + apple slices",
+        "saturday": "200g chicken + rice",
+        "sunday": "2.5 cups senior kibble (focus on coat and joint health)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Ensure constant access to water. Feed 3 small meals daily."
+      }
+    }
+  },
+  {
+    "name": "silky_terrier",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1/2 cup small kibble (split 3 meals) + 1 tsp salmon oil",
+        "tuesday": "40g lean chicken + rice + peas",
+        "wednesday": "3/4 cup kibble + probiotic",
+        "thursday": "40g fish + sweet potato puree",
+        "friday": "1/2 cup kibble + 1/2 boiled egg",
+        "saturday": "50g lean lamb + oats",
+        "sunday": "3/4 cup kibble (needs sufficient fat for silky coat and energy)"
+      },
+      "adult": {
+        "monday": "3/4 cup maintenance kibble (split 2 meals) + dental chew",
+        "tuesday": "70g lean turkey + sweet potato + green beans",
+        "wednesday": "1 cup kibble + joint support",
+        "thursday": "60g fish + rice",
+        "friday": "3/4 cup kibble + cottage cheese",
+        "saturday": "80g lean beef + carrots",
+        "sunday": "1 cup kibble (needs nutrient-dense food)"
+      },
+      "senior": {
+        "monday": "1/2 cup senior low-calorie kibble + joint supplement",
+        "tuesday": "40g soft-cooked chicken + broth",
+        "wednesday": "3/4 cup senior kibble + mashed pumpkin",
+        "thursday": "40g white fish + oats",
+        "friday": "1/2 cup senior kibble + lean meat snack",
+        "saturday": "40g chicken + rice",
+        "sunday": "3/4 cup senior kibble (dental care is critical)"
+      },
+      "pregnant/nursing": {
+        "diet": "Small, frequent meals of high-calorie puppy food. Monitor for calcium deficiency."
+      }
+    }
+  },
+  {
+    "name": "soft-coated_wheaten_terrier",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2 cups medium-breed puppy food (split 3 meals) + fish oil",
+        "tuesday": "150g lean meat + rice + peas",
+        "wednesday": "2.5 cups kibble + probiotic",
+        "thursday": "1 boiled egg + 100g chicken + sweet potato",
+        "friday": "2 cups kibble + bone broth",
+        "saturday": "150g lamb + oats",
+        "sunday": "2.5 cups kibble (high protein required for soft coat)"
+      },
+      "adult": {
+        "monday": "2.5 cups maintenance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "300g lean protein + brown rice + vegetables",
+        "wednesday": "3 cups kibble + joint supplement",
+        "thursday": "250g fish + pumpkin puree",
+        "friday": "2.5 cups kibble + cottage cheese",
+        "saturday": "350g lean meat + sweet potato (specialized low-fat diet may be necessary)",
+        "sunday": "3 cups kibble (prone to PLN/PLE; needs low-fat, highly digestible protein)"
+      },
+      "senior": {
+        "monday": "2 cups specialized senior low-fat kibble + joint support",
+        "tuesday": "200g easily digestible chicken + steamed greens",
+        "wednesday": "2.5 cups kibble + pureed pumpkin",
+        "thursday": "150g white fish + soft grains",
+        "friday": "2 cups kibble + apple slices",
+        "saturday": "200g lean meat + rice",
+        "sunday": "2.5 cups senior kibble (low-fat, high-quality protein focus)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Monitor protein levels carefully. Feed 3 small meals daily."
+      }
+    }
+  },
+  {
+    "name": "staffordshire_bullterrier",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1.5 cups medium-breed puppy food (split 3 meals) + fish oil",
+        "tuesday": "100g lean meat + brown rice + peas",
+        "wednesday": "2 cups kibble + probiotic",
+        "thursday": "1/2 boiled egg + 80g chicken + sweet potato",
+        "friday": "1.5 cups kibble + bone broth",
+        "saturday": "120g lamb + oats",
+        "sunday": "2 cups kibble (focus on lean protein for muscle development)"
+      },
+      "adult": {
+        "monday": "2 cups active maintenance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "250g lean protein + brown rice + vegetables",
+        "wednesday": "2.5 cups kibble + joint supplement",
+        "thursday": "200g fish + pumpkin puree",
+        "friday": "2 cups kibble + cottage cheese (limited ingredient diet if prone to allergies)",
+        "saturday": "300g lean meat + sweet potato",
+        "sunday": "2.5 cups kibble (prone to skin allergies; avoid common fillers)"
+      },
+      "senior": {
+        "monday": "1.5 cups senior low-calorie kibble + joint support",
+        "tuesday": "150g lean chicken + steamed greens",
+        "wednesday": "2 cups senior kibble + high-fiber grains",
+        "thursday": "100g fish + soft grains",
+        "friday": "1.5 cups kibble + pumpkin puree",
+        "saturday": "150g lean meat + rice",
+        "sunday": "2 cups senior kibble (maintain muscle mass with quality protein)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3 small meals daily. Ensure sufficient intake for muscle maintenance."
+      }
+    }
+  },
+  {
+    "name": "standard_poodle",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2.5 cups large-breed puppy kibble (split 3 meals) + joint supplement",
+        "tuesday": "180g lean meat + rice + turmeric",
+        "wednesday": "3 cups kibble + fish oil (controlled growth)",
+        "thursday": "1 boiled egg + 130g chicken + oats",
+        "friday": "2.5 cups kibble + bone broth",
+        "saturday": "180g lamb + sweet potato",
+        "sunday": "3 cups kibble (Bloat risk; feed elevated)"
+      },
+      "adult": {
+        "monday": "3 cups performance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "350g lean protein + brown rice + vegetables",
+        "wednesday": "4 cups kibble (feed **elevated**) + joint support",
+        "thursday": "300g fish + pumpkin puree",
+        "friday": "3 cups kibble + cottage cheese",
+        "saturday": "400g lean meat + oats (Bloat risk)",
+        "sunday": "4 cups kibble (high grooming needs benefit from Omega-3s)"
+      },
+      "senior": {
+        "monday": "2.5 cups senior large-breed kibble + joint support",
+        "tuesday": "250g easily digestible chicken + steamed greens",
+        "wednesday": "3 cups senior kibble + pureed pumpkin",
+        "thursday": "200g white fish + soft rice",
+        "friday": "2.5 cups senior kibble + apple slices",
+        "saturday": "250g chicken + rice",
+        "sunday": "3 cups senior kibble (focus on joint maintenance and low-calorie intake)"
+      },
+      "pregnant/nursing": {
+        "diet": "Strictly feed 3-4 smaller meals per day to reduce Bloat risk. High-calorie puppy food starting week 5. Monitor for fluid retention."
+      }
+    }
+  },
+  {
+    "name": "standard_schnauzer",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2 cups medium-breed puppy food (split 3 meals) + fish oil",
+        "tuesday": "150g lean meat + rice + peas",
+        "wednesday": "2.5 cups kibble + probiotic",
+        "thursday": "1 boiled egg + 100g chicken + sweet potato",
+        "friday": "2 cups kibble + bone broth",
+        "saturday": "150g lamb + oats",
+        "sunday": "2.5 cups kibble (focus on lean protein for wiry coat)"
+      },
+      "adult": {
+        "monday": "2.5 cups active maintenance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "300g lean protein + brown rice + vegetables",
+        "wednesday": "3 cups kibble + joint supplement",
+        "thursday": "250g fish + pumpkin puree",
+        "friday": "2.5 cups kibble + cottage cheese",
+        "saturday": "350g lean meat + sweet potato",
+        "sunday": "3 cups kibble (avoid high-fat diets)"
+      },
+      "senior": {
+        "monday": "2 cups senior low-calorie kibble + joint support",
+        "tuesday": "200g lean chicken + steamed greens",
+        "wednesday": "2.5 cups senior kibble + high-fiber grains",
+        "thursday": "150g fish + soft grains",
+        "friday": "2 cups kibble + apple slices",
+        "saturday": "200g lean meat + rice",
+        "sunday": "2.5 cups senior kibble (add joint supplements)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3 small meals daily. Focus on lean protein intake."
+      }
+    }
+  },
+  {
+    "name": "sussex_spaniel",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1.5 cups medium-breed puppy food (split 3 meals) + fish oil",
+        "tuesday": "100g lean meat + brown rice + peas",
+        "wednesday": "2 cups kibble + probiotic",
+        "thursday": "1/2 boiled egg + 80g chicken + sweet potato",
+        "friday": "1.5 cups kibble + bone broth",
+        "saturday": "120g lamb + oats",
+        "sunday": "2 cups kibble (maintain lean weight due to build)"
+      },
+      "adult": {
+        "monday": "2 cups maintenance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "250g lean protein + brown rice + vegetables",
+        "wednesday": "2.5 cups kibble + joint supplement",
+        "thursday": "200g fish + pumpkin puree",
+        "friday": "2 cups kibble + cottage cheese",
+        "saturday": "300g lean meat + sweet potato",
+        "sunday": "2.5 cups kibble (prone to weight gain; strict portion control)"
+      },
+      "senior": {
+        "monday": "1.5 cups senior low-calorie kibble + joint support",
+        "tuesday": "150g lean chicken + steamed greens",
+        "wednesday": "2 cups senior kibble + high-fiber grains",
+        "thursday": "100g fish + soft grains",
+        "friday": "1.5 cups kibble + pumpkin puree",
+        "saturday": "150g lean meat + rice",
+        "sunday": "2 cups senior kibble (focus on joint support)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3 small meals daily. Ensure sufficient intake."
+      }
+    }
+  },
+  {
+    "name": "tibetan_mastiff",
+    "diet_plan": {
+      "puppy": {
+        "monday": "4 cups giant-breed puppy formula (split 3 meals) + joint supplement",
+        "tuesday": "250g lean beef + rice + turmeric (very slow growth)",
+        "wednesday": "5 cups kibble + fish oil (controlled growth formula)",
+        "thursday": "1 boiled egg + 200g chicken + sweet potato",
+        "friday": "4 cups kibble + bone broth (avoid excess protein/calcium)",
+        "saturday": "300g lamb + oats",
+        "sunday": "5 cups kibble (avoid overfeeding and rapid growth)"
+      },
+      "adult": {
+        "monday": "5 cups giant-breed kibble (split 2 meals) + Glucosamine/Chondroitin",
+        "tuesday": "400g lean meat + low-glycemic veggies",
+        "wednesday": "6 cups kibble (feed elevated) + fish oil",
+        "thursday": "300g fish + pumpkin puree",
+        "friday": "5 cups kibble + cottage cheese (non-fat)",
+        "saturday": "500g lean beef + brown rice",
+        "sunday": "6 cups kibble (lower caloric needs than active giants)"
+      },
+      "senior": {
+        "monday": "4 cups senior giant-breed kibble + joint support",
+        "tuesday": "300g easily digestible chicken + steamed greens",
+        "wednesday": "5 cups senior kibble + pureed pumpkin",
+        "thursday": "250g white fish + soft rice",
+        "friday": "4 cups senior kibble + bone broth",
+        "saturday": "300g lean meat + sweet potato",
+        "sunday": "5 cups senior kibble (focus on joint maintenance)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3-4 small meals daily to manage Bloat risk. Ensure diet supports heavy coat."
+      }
+    }
+  },
+  {
+    "name": "tibetan_terrier",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1.5 cups medium-breed puppy food (split 3 meals) + fish oil",
+        "tuesday": "100g lean meat + brown rice + peas",
+        "wednesday": "2 cups kibble + probiotic (limited ingredient diet if needed)",
+        "thursday": "1/2 boiled egg + 80g chicken + sweet potato",
+        "friday": "1.5 cups kibble + bone broth",
+        "saturday": "120g lamb + oats",
+        "sunday": "2 cups kibble (prone to allergies)"
+      },
+      "adult": {
+        "monday": "2 cups maintenance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "250g lean protein + brown rice + vegetables",
+        "wednesday": "2.5 cups kibble + Omega-3s (for coat health)",
+        "thursday": "200g fish + pumpkin puree",
+        "friday": "2 cups kibble + cottage cheese",
+        "saturday": "300g lean meat + sweet potato",
+        "sunday": "2.5 cups kibble (needs Omega-3s for coat health)"
+      },
+      "senior": {
+        "monday": "1.5 cups senior low-calorie kibble + joint support",
+        "tuesday": "150g lean chicken + steamed greens",
+        "wednesday": "2 cups senior kibble + high-fiber grains",
+        "thursday": "100g fish + soft grains",
+        "friday": "1.5 cups kibble + pumpkin puree",
+        "saturday": "150g lean meat + rice",
+        "sunday": "2 cups senior kibble (focus on joint health)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3 small meals daily. Monitor for sufficient intake."
+      }
+    }
+  },
+  {
+    "name": "toy_poodle",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1/4 cup small kibble + 1 tsp salmon oil (split 3 meals)",
+        "tuesday": "30g lean protein (chicken/turkey) + soft vegetables",
+        "wednesday": "1/2 cup small kibble + 1 tsp curd",
+        "thursday": "30g white fish + sweet potato puree",
+        "friday": "1/4 cup small kibble + 1/2 boiled egg",
+        "saturday": "30g lean meat + 1 tbsp rice",
+        "sunday": "1/2 cup small kibble (split into 3 meals)"
+      },
+      "adult": {
+        "monday": "1/2 cup small breed kibble (split 2 meals) + dental chew",
+        "tuesday": "60g lean chicken + small portion of rice/oats",
+        "wednesday": "3/4 cup kibble + digestive enzyme supplement",
+        "thursday": "50g fish + pumpkin puree",
+        "friday": "1/2 cup kibble + small portion of boiled egg",
+        "saturday": "70g lean lamb/turkey + green beans",
+        "sunday": "3/4 cup kibble (monitor for obesity)"
+      },
+      "senior": {
+        "monday": "1/4 cup senior kibble (soaked) + joint supplement",
+        "tuesday": "40g soft-cooked lean meat + broth",
+        "wednesday": "1/2 cup senior kibble + mashed sweet potato",
+        "thursday": "40g white fish + curd",
+        "friday": "1/4 cup senior kibble + steamed carrots",
+        "saturday": "Soft chicken and rice meal (small portion)",
+        "sunday": "1/2 cup senior kibble + 1/2 boiled egg"
+      },
+      "pregnant/nursing": {
+        "diet": "Calorie intake increased up to 3x during peak nursing. Feed small, nutrient-dense meals frequently (puppy formula) throughout the day to maintain energy and blood sugar."
+      }
+    }
+  },
+  {
+    "name": "toy_terrier",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1/4 cup small kibble (split 3-4 meals) + 1 tsp salmon oil",
+        "tuesday": "30g lean protein + soft vegetables",
+        "wednesday": "1/2 cup small kibble + 1 tsp curd",
+        "thursday": "30g white fish + sweet potato puree",
+        "friday": "1/4 cup small kibble + 1/2 boiled egg",
+        "saturday": "30g lean meat + 1 tbsp rice",
+        "sunday": "1/2 cup small kibble (needs sufficient calories for high energy)"
+      },
+      "adult": {
+        "monday": "1/2 cup small breed kibble (split 2 meals) + dental chew",
+        "tuesday": "60g lean chicken + small portion of rice/oats",
+        "wednesday": "3/4 cup kibble + joint supplement",
+        "thursday": "50g fish + pumpkin puree",
+        "friday": "1/2 cup kibble + small portion of boiled egg",
+        "saturday": "70g lean lamb/turkey + green beans",
+        "sunday": "3/4 cup kibble (needs lean protein to maintain muscle tone)"
+      },
+      "senior": {
+        "monday": "1/4 cup senior kibble (soaked) + joint supplement",
+        "tuesday": "40g soft-cooked lean meat + broth",
+        "wednesday": "1/2 cup senior kibble + mashed sweet potato",
+        "thursday": "40g white fish + curd",
+        "friday": "1/4 cup senior kibble + steamed carrots",
+        "saturday": "Soft chicken and rice meal (small portion)",
+        "sunday": "1/2 cup senior kibble (dental care is critical)"
+      },
+      "pregnant/nursing": {
+        "diet": "Small, frequent meals of high-calorie puppy food. Monitor for energy crashes and Hypoglycemia."
+      }
+    }
+  },
+  {
+    "name": "vizsla",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2 cups large-breed puppy food (split 3 meals) + fish oil",
+        "tuesday": "150g lean meat + rice + turmeric",
+        "wednesday": "2.5 cups kibble + yogurt (controlled growth)",
+        "thursday": "1 boiled egg + 100g chicken + oats",
+        "friday": "2 cups kibble + joint supplement",
+        "saturday": "150g lamb + sweet potato",
+        "sunday": "2.5 cups kibble (high energy requires sufficient calories)"
+      },
+      "adult": {
+        "monday": "3 cups performance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "300g lean protein + brown rice + vegetables",
+        "wednesday": "3.5 cups kibble + joint support",
+        "thursday": "250g fish + pumpkin puree",
+        "friday": "3 cups kibble + cottage cheese",
+        "saturday": "350g lean meat + oats (Bloat risk)",
+        "sunday": "3.5 cups kibble (high caloric intake to fuel extreme exercise)"
+      },
+      "senior": {
+        "monday": "2 cups senior kibble + joint support",
+        "tuesday": "200g lean chicken + steamed greens",
+        "wednesday": "2.5 cups senior kibble + high-fiber grains",
+        "thursday": "150g fish + pumpkin",
+        "friday": "2 cups senior kibble + apple slices",
+        "saturday": "200g chicken + rice",
+        "sunday": "2.5 cups senior kibble (needs high fiber)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3 small meals daily to mitigate Bloat risk. Ensure consistent high-calorie intake."
+      }
+    }
+  },
+  {
+    "name": "walker_hound",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2.5 cups large-breed puppy food (split 3 meals) + joint supplement",
+        "tuesday": "180g lean meat + rice + turmeric",
+        "wednesday": "3 cups kibble + yogurt (controlled growth)",
+        "thursday": "1 boiled egg + 130g chicken + oats",
+        "friday": "2.5 cups kibble + fish oil",
+        "saturday": "180g lamb + sweet potato",
+        "sunday": "3 cups kibble (high energy requires sufficient calories)"
+      },
+      "adult": {
+        "monday": "3 cups performance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "350g lean protein + brown rice + vegetables",
+        "wednesday": "4 cups kibble + joint support",
+        "thursday": "300g fish + pumpkin puree",
+        "friday": "3 cups kibble + cottage cheese",
+        "saturday": "400g lean beef + oats (Bloat risk)",
+        "sunday": "4 cups kibble (high caloric intake to fuel extreme exercise)"
+      },
+      "senior": {
+        "monday": "2.5 cups senior kibble + joint support",
+        "tuesday": "250g lean chicken + steamed greens",
+        "wednesday": "3 cups senior kibble + high-fiber grains",
+        "thursday": "200g fish + pumpkin",
+        "friday": "2.5 cups senior kibble + apple slices",
+        "saturday": "250g chicken + rice",
+        "sunday": "3 cups senior kibble (needs high fiber)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3 small meals daily to mitigate Bloat risk. Ensure consistent high-calorie intake."
+      }
+    }
+  },
+  {
+    "name": "weimaraner",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2.5 cups large-breed puppy food (split 3 meals) + joint supplement",
+        "tuesday": "180g lean meat + rice + turmeric",
+        "wednesday": "3 cups kibble + yogurt (controlled growth)",
+        "thursday": "1 boiled egg + 130g chicken + oats",
+        "friday": "2.5 cups kibble + fish oil",
+        "saturday": "180g lamb + sweet potato",
+        "sunday": "3 cups kibble (strict growth monitoring is crucial)"
+      },
+      "adult": {
+        "monday": "3 cups performance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "350g lean protein + brown rice + vegetables",
+        "wednesday": "4 cups kibble (feed **elevated**) + joint support",
+        "thursday": "300g fish + pumpkin puree",
+        "friday": "3 cups kibble + cottage cheese",
+        "saturday": "400g lean beef + oats (Bloat risk)",
+        "sunday": "4 cups kibble (high Bloat risk; needs high caloric intake)"
+      },
+      "senior": {
+        "monday": "2.5 cups senior kibble + joint support",
+        "tuesday": "250g lean chicken + steamed greens",
+        "wednesday": "3 cups senior kibble + high-fiber grains",
+        "thursday": "200g fish + pumpkin",
+        "friday": "2.5 cups senior kibble + apple slices",
+        "saturday": "250g chicken + rice",
+        "sunday": "3 cups senior kibble (needs high fiber)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3 small meals daily to mitigate Bloat risk. Ensure consistent high-calorie intake."
+      }
+    }
+  },
+  {
+    "name": "welsh_springer_spaniel",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1.5 cups medium-breed puppy food (split 3 meals) + fish oil",
+        "tuesday": "100g lean meat + brown rice + peas",
+        "wednesday": "2 cups kibble + probiotic",
+        "thursday": "1/2 boiled egg + 80g chicken + sweet potato",
+        "friday": "1.5 cups kibble + bone broth",
+        "saturday": "120g lamb + oats",
+        "sunday": "2 cups kibble (high energy requires calorie-dense diet)"
+      },
+      "adult": {
+        "monday": "2 cups active maintenance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "250g lean protein + brown rice + vegetables",
+        "wednesday": "2.5 cups kibble + joint supplement",
+        "thursday": "200g fish + pumpkin puree",
+        "friday": "2 cups kibble + cottage cheese",
+        "saturday": "300g lean meat + sweet potato (fuel for vigorous activity)",
+        "sunday": "2.5 cups kibble (prone to obesity if exercise is insufficient)"
+      },
+      "senior": {
+        "monday": "1.5 cups senior low-calorie kibble + joint support",
+        "tuesday": "150g lean chicken + steamed greens",
+        "wednesday": "2 cups senior kibble + food puzzle",
+        "thursday": "100g fish + soft grains",
+        "friday": "1.5 cups kibble + pumpkin puree",
+        "saturday": "150g lean meat + rice",
+        "sunday": "2 cups senior kibble (avoid high-fat diets)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3 small meals daily. Ensure sufficient intake without causing excessive weight gain."
+      }
+    }
+  },
+  {
+    "name": "west_highland_white_terrier",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1/2 cup small kibble (split 3 meals) + 1 tsp salmon oil",
+        "tuesday": "40g lean chicken + rice + peas",
+        "wednesday": "3/4 cup kibble + probiotic (limited ingredient diet if needed)",
+        "thursday": "40g fish + sweet potato puree",
+        "friday": "1/2 cup kibble + 1/2 boiled egg",
+        "saturday": "50g lean lamb + oats",
+        "sunday": "3/4 cup kibble (prone to skin allergies)"
+      },
+      "adult": {
+        "monday": "1 cup maintenance kibble (split 2 meals) + dental chew",
+        "tuesday": "70g lean turkey + sweet potato + green beans",
+        "wednesday": "1.5 cups kibble + Omega-3s (focus on skin health)",
+        "thursday": "60g fish + rice",
+        "friday": "1 cup kibble + cottage cheese",
+        "saturday": "80g lean beef + carrots",
+        "sunday": "1.5 cups kibble (avoid common allergens)"
+      },
+      "senior": {
+        "monday": "3/4 cup senior low-calorie kibble + joint supplement",
+        "tuesday": "50g soft-cooked chicken + broth",
+        "wednesday": "1 cup senior kibble + mashed pumpkin",
+        "thursday": "40g white fish + oats",
+        "friday": "3/4 cup senior kibble + lean meat snack",
+        "saturday": "50g chicken + rice",
+        "sunday": "1 cup senior kibble (low-calorie formula)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Small, frequent feedings. Monitor for calcium deficiency."
+      }
+    }
+  },
+  {
+    "name": "whippet",
+    "diet_plan": {
+      "puppy": {
+        "monday": "2 cups large-breed puppy food (split 3 meals) + joint supplement",
+        "tuesday": "150g lean meat + rice + turmeric",
+        "wednesday": "2.5 cups kibble + fish oil (controlled growth)",
+        "thursday": "1 boiled egg + 100g chicken + oats",
+        "friday": "2 cups kibble + bone broth",
+        "saturday": "150g lamb + sweet potato",
+        "sunday": "2.5 cups kibble (maintain very lean body condition)"
+      },
+      "adult": {
+        "monday": "3 cups performance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "300g lean protein + brown rice + vegetables",
+        "wednesday": "3.5 cups kibble + joint supplement",
+        "thursday": "250g fish + pumpkin puree",
+        "friday": "3 cups kibble + cottage cheese",
+        "saturday": "350g lean meat + oats (Bloat risk)",
+        "sunday": "3.5 cups kibble (needs high protein for muscle and speed)"
+      },
+      "senior": {
+        "monday": "2 cups senior low-calorie kibble + joint support",
+        "tuesday": "200g lean chicken + steamed greens",
+        "wednesday": "2.5 cups senior kibble + pureed pumpkin",
+        "thursday": "150g fish + soft grains",
+        "friday": "2 cups senior kibble + apple slices",
+        "saturday": "200g chicken + rice",
+        "sunday": "2.5 cups senior kibble (avoid joint stress)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Monitor iron levels during pregnancy. Feed 3 small meals daily."
+      }
+    }
+  },
+  {
+    "name": "wire-haired_fox_terrier",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1.5 cups medium-breed puppy food (split 3 meals) + fish oil",
+        "tuesday": "100g lean meat + brown rice + peas",
+        "wednesday": "2 cups kibble + probiotic",
+        "thursday": "1/2 boiled egg + 80g chicken + sweet potato",
+        "friday": "1.5 cups kibble + bone broth",
+        "saturday": "120g lamb + oats",
+        "sunday": "2 cups kibble (focus on lean protein for wiry coat)"
+      },
+      "adult": {
+        "monday": "2 cups maintenance kibble (split 2 meals) + 1 boiled egg",
+        "tuesday": "250g lean protein + brown rice + vegetables",
+        "wednesday": "2.5 cups kibble + joint supplement",
+        "thursday": "200g fish + pumpkin puree",
+        "friday": "2 cups kibble + cottage cheese",
+        "saturday": "300g lean meat + sweet potato",
+        "sunday": "2.5 cups kibble (avoid common allergens)"
+      },
+      "senior": {
+        "monday": "1.5 cups senior kibble + joint support",
+        "tuesday": "150g lean chicken + steamed greens",
+        "wednesday": "2 cups senior kibble + high-fiber grains",
+        "thursday": "100g fish + soft grains",
+        "friday": "1.5 cups kibble + pumpkin puree",
+        "saturday": "150g lean meat + rice",
+        "sunday": "2 cups senior kibble (diet should support skin and coat health)"
+      },
+      "pregnant/nursing": {
+        "diet": "High-quality puppy food. Feed 3 small meals daily. Ensure sufficient intake for high energy."
+      }
+    }
+  },
+  {
+    "name": "yorkshire_terrier",
+    "diet_plan": {
+      "puppy": {
+        "monday": "1/4 cup small kibble (split 3-4 meals) + 1 tsp salmon oil",
+        "tuesday": "30g lean protein + soft vegetables",
+        "wednesday": "1/2 cup small kibble + 1 tsp curd",
+        "thursday": "30g white fish + sweet potato puree",
+        "friday": "1/4 cup small kibble + 1/2 boiled egg",
+        "saturday": "30g lean meat + 1 tbsp rice",
+        "sunday": "1/2 cup small kibble (prone to Hypoglycemia if meals are skipped)"
+      },
+      "adult": {
+        "monday": "1/2 cup small breed kibble (split 2 meals) + dental chew",
+        "tuesday": "60g lean chicken + small portion of rice/oats",
+        "wednesday": "3/4 cup kibble + digestive supplement",
+        "thursday": "50g fish + pumpkin puree",
+        "friday": "1/2 cup kibble + small portion of boiled egg",
+        "saturday": "70g lean lamb/turkey + green beans",
+        "sunday": "3/4 cup kibble (dental health is paramount)"
+      },
+      "senior": {
+        "monday": "1/4 cup senior kibble (soaked) + joint supplement",
+        "tuesday": "40g soft-cooked lean meat + broth",
+        "wednesday": "1/2 cup senior kibble + mashed sweet potato",
+        "thursday": "40g white fish + curd",
+        "friday": "1/4 cup senior kibble + steamed carrots",
+        "saturday": "Soft chicken and rice meal (small portion)",
+        "sunday": "1/2 cup senior kibble (focus on joint health)"
+      },
+      "pregnant/nursing": {
+        "diet": "Small, frequent meals of high-calorie puppy food. Monitor for energy crashes and Hypoglycemia."
+      }
+    }
+  }
+]

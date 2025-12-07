@@ -1,0 +1,2028 @@
+{
+  "affenpinscher": [
+    {
+      "id": "afp-mini-kibble",
+      "name": "Royal Canin Mini Adult",
+      "price_inr": 899,
+      "image": "https://m.media-amazon.com/images/I/71FOSY6bnkL._AC_SL1500_.jpg",
+      "description": "Small-breed kibble designed for tiny jaws and high metabolism."
+    },
+    {
+      "id": "afp-sensitive-small",
+      "name": "Pedigree PRO Small Breed",
+      "price_inr": 670,
+      "image": "https://m.media-amazon.com/images/I/81kR2-fz85L._AC_SL1500_.jpg",
+      "description": "Balanced nutrition for sensitive digestion in small dogs."
+    }
+  ],
+
+  "afghan_hound": [
+    {
+      "id": "afh-high-energy",
+      "name": "Drools High Energy Adult",
+      "price_inr": 1850,
+      "image": "https://m.media-amazon.com/images/I/71PY8l5hxaL._AC_SL1500_.jpg",
+      "description": "Rich protein formula ideal for active hound breeds."
+    },
+    {
+      "id": "afh-coat-care",
+      "name": "Royal Canin Coat Care",
+      "price_inr": 2400,
+      "image": "https://m.media-amazon.com/images/I/71mP0xSgEIL._AC_SL1500_.jpg",
+      "description": "Supports long silky coat health for glamorous breeds."
+    }
+  ],
+
+  "african_hunting_dog": [
+    {
+      "id": "ahd-performance",
+      "name": "Drools Performance Dog Food",
+      "price_inr": 2150,
+      "image": "https://m.media-amazon.com/images/I/71cmHyW5T7L._AC_SL1500_.jpg",
+      "description": "High endurance working dog formula suitable for active breeds."
+    },
+    {
+      "id": "ahd-high-protein",
+      "name": "Orijen High Protein",
+      "price_inr": 3999,
+      "image": "https://m.media-amazon.com/images/I/71E6tD7cE2L._AC_SL1500_.jpg",
+      "description": "Biologically appropriate high-protein kibble."
+    }
+  ],
+
+  "airedale": [
+    {
+      "id": "airdale-medium-premium",
+      "name": "Royal Canin Medium Adult",
+      "price_inr": 1999,
+      "image": "https://m.media-amazon.com/images/I/71Zx4x0yGCL._AC_SL1500_.jpg",
+      "description": "Ideal kibble for medium active terriers."
+    },
+    {
+      "id": "airdale-protein",
+      "name": "Drools Focus Adult",
+      "price_inr": 1650,
+      "image": "https://m.media-amazon.com/images/I/71+ITyJr8PL._AC_SL1500_.jpg",
+      "description": "Protein-rich diet supporting muscle and coat health."
+    }
+  ],
+
+  "american_staffordshire_terrier": [
+    {
+      "id": "amst-mass-gain",
+      "name": "Taste of the Wild High Prairie",
+      "price_inr": 2800,
+      "image": "https://m.media-amazon.com/images/I/71w5JA7WQeL._AC_SL1500_.jpg",
+      "description": "High-protein grain-free diet suitable for muscular breeds."
+    },
+    {
+      "id": "amst-active",
+      "name": "Drools Power Bites Adult",
+      "price_inr": 1200,
+      "image": "https://m.media-amazon.com/images/I/81i7xZ3FVFL._AC_SL1500_.jpg",
+      "description": "Balanced active-formula kibble for strong terriers."
+    }
+  ],
+
+  "appenzeller": [
+    {
+      "id": "appz-mountain",
+      "name": "Royal Canin Working Dog",
+      "price_inr": 2400,
+      "image": "https://m.media-amazon.com/images/I/71KYvBtAJZL._AC_SL1500_.jpg",
+      "description": "Ideal for energetic mountain working breeds."
+    },
+    {
+      "id": "appz-endurance",
+      "name": "Drools Endurance Adult",
+      "price_inr": 1850,
+      "image": "https://m.media-amazon.com/images/I/71NNZQzWl8L._AC_SL1500_.jpg",
+      "description": "Supports stamina, joint care and muscle strength."
+    }
+  ],
+
+  "australian_terrier": [
+    {
+      "id": "aust-small-premium",
+      "name": "Farmina N&D Mini Adult",
+      "price_inr": 2100,
+      "image": "https://m.media-amazon.com/images/I/71bhEJy+SmL._AC_SL1500_.jpg",
+      "description": "Small-breed high-quality kibble for terriers."
+    },
+    {
+      "id": "aust-balanced",
+      "name": "Pedigree PRO Small Breed Adult",
+      "price_inr": 690,
+      "image": "https://m.media-amazon.com/images/I/81kR2-fz85L._AC_SL1500_.jpg",
+      "description": "Balanced formula for active small terriers."
+    }
+  ],
+
+  "basenji": [
+    {
+      "id": "bas-mini-energy",
+      "name": "Royal Canin Mini Energy",
+      "price_inr": 1799,
+      "image": "https://m.media-amazon.com/images/I/716i5T2rPnL._AC_SL1500_.jpg",
+      "description": "Supports high activity and lean muscles of Basenjis."
+    },
+    {
+      "id": "bas-hypoallergenic",
+      "name": "Hypoallergenic Salmon Formula",
+      "price_inr": 2600,
+      "image": "https://m.media-amazon.com/images/I/81hIBVGcWGL._AC_SL1500_.jpg",
+      "description": "Good for sensitive stomachs and allergies."
+    }
+  ],
+
+  "basset": [
+    {
+      "id": "basset-joint-care",
+      "name": "Royal Canin Joint Care",
+      "price_inr": 2400,
+      "image": "https://m.media-amazon.com/images/I/71rlRVR0fvL._AC_SL1500_.jpg",
+      "description": "Supports joints and mobility for low-slung breeds."
+    },
+    {
+      "id": "basset-medium-adult",
+      "name": "Drools Medium Breed Adult",
+      "price_inr": 1650,
+      "image": "https://m.media-amazon.com/images/I/71gTWdTfLCL._AC_SL1500_.jpg",
+      "description": "Balanced diet for medium-sized scent hounds."
+    }
+  ],
+
+  "beagle": [
+    {
+      "id": "beagle-control",
+      "name": "Royal Canin Beagle Adult",
+      "price_inr": 1999,
+      "image": "https://m.media-amazon.com/images/I/71aCaUTtJeL._AC_SL1500_.jpg",
+      "description": "Breed-specific formula supporting appetite control."
+    },
+    {
+      "id": "beagle-energy",
+      "name": "Pedigree PRO Medium Active",
+      "price_inr": 780,
+      "image": "https://m.media-amazon.com/images/I/71l8xdPulxL._AC_SL1500_.jpg",
+      "description": "Energy-rich kibble for active scent hounds."
+    }
+  ],
+
+  "bedlington_terrier": [
+    {
+      "id": "bedt-protein-light",
+      "name": "Royal Canin Medium Light",
+      "price_inr": 1850,
+      "image": "https://m.media-amazon.com/images/I/71Zx4x0yGCL._AC_SL1500_.jpg",
+      "description": "Lean protein formula ideal for energetic but slim terriers."
+    },
+    {
+      "id": "bedt-sensitive",
+      "name": "Hypoallergenic Turkey & Rice",
+      "price_inr": 2100,
+      "image": "https://m.media-amazon.com/images/I/81hIBVGcWGL._AC_SL1500_.jpg",
+      "description": "Great for skin-sensitive terriers with allergies."
+    }
+  ],
+
+  "bernese_mountain_dog": [
+    {
+      "id": "bmd-large-joint",
+      "name": "Royal Canin Giant Adult",
+      "price_inr": 3200,
+      "image": "https://m.media-amazon.com/images/I/71P0L5qdvNL._AC_SL1500_.jpg",
+      "description": "Supports bone & joint health for giant, heavy breeds."
+    },
+    {
+      "id": "bmd-protein-work",
+      "name": "Drools Working Dog Formula",
+      "price_inr": 2400,
+      "image": "https://m.media-amazon.com/images/I/71NNZQzWl8L._AC_SL1500_.jpg",
+      "description": "High-energy formula suitable for mountain working dogs."
+    }
+  ],
+
+  "black-and-tan_coonhound": [
+    {
+      "id": "btcoon-hound-energy",
+      "name": "Taste of the Wild High Prairie",
+      "price_inr": 2700,
+      "image": "https://m.media-amazon.com/images/I/71w5JA7WQeL._AC_SL1500_.jpg",
+      "description": "High energy for active hunting hound breeds."
+    },
+    {
+      "id": "btcoon-stamina",
+      "name": "Drools Endurance Adult",
+      "price_inr": 1800,
+      "image": "https://m.media-amazon.com/images/I/71NNZQzWl8L._AC_SL1500_.jpg",
+      "description": "Supports stamina during long tracking activities."
+    }
+  ],
+
+  "blenheim_spaniel": [
+    {
+      "id": "blenmini-small-bite",
+      "name": "Royal Canin Mini Adult",
+      "price_inr": 899,
+      "image": "https://m.media-amazon.com/images/I/71FOSY6bnkL._AC_SL1500_.jpg",
+      "description": "Perfect for tiny Spaniels with smaller jaws."
+    },
+    {
+      "id": "blenmini-coat-care",
+      "name": "Farmina N&D Mini Lamb",
+      "price_inr": 1750,
+      "image": "https://m.media-amazon.com/images/I/71bhEJy+SmL._AC_SL1500_.jpg",
+      "description": "Promotes silky coat health for spaniel breeds."
+    }
+  ],
+
+  "bloodhound": [
+    {
+      "id": "bloodhound-energy",
+      "name": "Drools Active Adult",
+      "price_inr": 2000,
+      "image": "https://m.media-amazon.com/images/I/71PY8l5hxaL._AC_SL1500_.jpg",
+      "description": "Rich nutrition for powerful scent-tracking hounds."
+    },
+    {
+      "id": "bloodhound-giant",
+      "name": "Royal Canin Giant Adult",
+      "price_inr": 3100,
+      "image": "https://m.media-amazon.com/images/I/714kG5gBPjL._AC_SL1500_.jpg",
+      "description": "Supports joints & controlled weight for heavy hounds."
+    }
+  ],
+
+  "bluetick": [
+    {
+      "id": "bluetick-endurance",
+      "name": "Drools Endurance High Energy",
+      "price_inr": 1850,
+      "image": "https://m.media-amazon.com/images/I/71NNZQzWl8L._AC_SL1500_.jpg",
+      "description": "Meant for long-running trail hound breeds."
+    },
+    {
+      "id": "bluetick-premium",
+      "name": "Taste of the Wild Pacific Stream",
+      "price_inr": 2800,
+      "image": "https://m.media-amazon.com/images/I/81UezVx39QL._AC_SL1500_.jpg",
+      "description": "High-protein salmon diet for active coats & muscles."
+    }
+  ],
+
+  "border_collie": [
+    {
+      "id": "bc-high-energy",
+      "name": "Royal Canin Medium Active",
+      "price_inr": 2200,
+      "image": "https://m.media-amazon.com/images/I/71Zx4x0yGCL._AC_SL1500_.jpg",
+      "description": "Perfect high-energy formula for extremely active collies."
+    },
+    {
+      "id": "bc-brain-fuel",
+      "name": "Orijen Original",
+      "price_inr": 3800,
+      "image": "https://m.media-amazon.com/images/I/71E6tD7cE2L._AC_SL1500_.jpg",
+      "description": "Very high protein to match Border Collie's working drive."
+    }
+  ],
+
+  "border_terrier": [
+    {
+      "id": "bt-small-terrier",
+      "name": "Farmina N&D Mini Adult",
+      "price_inr": 1750,
+      "image": "https://m.media-amazon.com/images/I/71bhEJy+SmL._AC_SL1500_.jpg",
+      "description": "Small-breed grain-free formula for sturdy terriers."
+    },
+    {
+      "id": "bt-balanced",
+      "name": "Pedigree PRO Small Breed Adult",
+      "price_inr": 690,
+      "image": "https://m.media-amazon.com/images/I/81kR2-fz85L._AC_SL1500_.jpg",
+      "description": "Balanced nutrition for daily terrier activity."
+    }
+  ],
+
+  "borzoi": [
+    {
+      "id": "borzoi-high-energy",
+      "name": "Taste of the Wild High Prairie",
+      "price_inr": 2700,
+      "image": "https://m.media-amazon.com/images/I/71w5JA7WQeL._AC_SL1500_.jpg",
+      "description": "High-calorie diet for tall, athletic sighthounds."
+    },
+    {
+      "id": "borzoi-lean-protein",
+      "name": "Hill's Science Diet Sensitive Stomach & Skin",
+      "price_inr": 2900,
+      "image": "https://m.media-amazon.com/images/I/81llh-n+ctL._AC_SL1500_.jpg",
+      "description": "Gentle on digestion for slender sighthounds."
+    }
+  ],
+
+  "boston_bull": [
+    {
+      "id": "bbull-small-bite",
+      "name": "Royal Canin Bulldog Small Breed",
+      "price_inr": 1800,
+      "image": "https://m.media-amazon.com/images/I/81pUcxMWwOL._AC_SL1500_.jpg",
+      "description": "Specialized kibble shape for flat-faced breeds."
+    },
+    {
+      "id": "bbull-gas-care",
+      "name": "Science Diet Sensitive Stomach",
+      "price_inr": 2600,
+      "image": "https://m.media-amazon.com/images/I/81llh-n+ctL._AC_SL1500_.jpg",
+      "description": "Helps reduce gas & digestive issues in brachycephalic dogs."
+    }
+  ],
+  "bouvier_des_flandres": [
+    {
+      "id": "bdf-working-guardian",
+      "name": "Drools Working Dog Adult",
+      "price_inr": 2400,
+      "image": "https://m.media-amazon.com/images/I/71NNZQzWl8L._AC_SL1500_.jpg",
+      "description": "High-performance food ideal for strong guardian breeds."
+    },
+    {
+      "id": "bdf-joint-care",
+      "name": "Royal Canin Joint Care",
+      "price_inr": 2600,
+      "image": "https://m.media-amazon.com/images/I/71rlRVR0fvL._AC_SL1500_.jpg",
+      "description": "Helps support heavy joints of powerful Bouviers."
+    }
+  ],
+
+  "boxer": [
+    {
+      "id": "boxer-muscle-formula",
+      "name": "Royal Canin Boxer Adult",
+      "price_inr": 2250,
+      "image": "https://m.media-amazon.com/images/I/71nC5EvhczL._AC_SL1500_.jpg",
+      "description": "Breed-specific formula supporting muscles and heart health."
+    },
+    {
+      "id": "boxer-energy",
+      "name": "Taste of the Wild High Prairie",
+      "price_inr": 2700,
+      "image": "https://m.media-amazon.com/images/I/71w5JA7WQeL._AC_SL1500_.jpg",
+      "description": "High-energy diet for highly active boxer dogs."
+    }
+  ],
+
+  "brabancon_griffon": [
+    {
+      "id": "bg-small-premium",
+      "name": "Farmina N&D Mini Adult",
+      "price_inr": 2100,
+      "image": "https://m.media-amazon.com/images/I/71bhEJy+SmL._AC_SL1500_.jpg",
+      "description": "High-quality nutrition for tiny toy breeds."
+    },
+    {
+      "id": "bg-sensitive-small",
+      "name": "Royal Canin Mini Sensitive",
+      "price_inr": 1400,
+      "image": "https://m.media-amazon.com/images/I/716i5T2rPnL._AC_SL1500_.jpg",
+      "description": "Ideal for flat-faced small dogs with sensitive digestion."
+    }
+  ],
+
+  "briard": [
+    {
+      "id": "briard-large-premium",
+      "name": "Royal Canin Large Adult",
+      "price_inr": 2600,
+      "image": "https://m.media-amazon.com/images/I/71P0L5qdvNL._AC_SL1500_.jpg",
+      "description": "Supports strong muscle and bone development in Briards."
+    },
+    {
+      "id": "briard-coat-protein",
+      "name": "Drools Focus Adult",
+      "price_inr": 1650,
+      "image": "https://m.media-amazon.com/images/I/71+ITyJr8PL._AC_SL1500_.jpg",
+      "description": "Protein-rich formula for long-haired working dogs."
+    }
+  ],
+
+  "brittany_spaniel": [
+    {
+      "id": "brittany-energy",
+      "name": "Royal Canin Medium Active",
+      "price_inr": 2200,
+      "image": "https://m.media-amazon.com/images/I/71Zx4x0yGCL._AC_SL1500_.jpg",
+      "description": "Matches high energy needs of fast bird-hunting spaniels."
+    },
+    {
+      "id": "brittany-lean",
+      "name": "Drools Chicken & Egg Adult",
+      "price_inr": 1490,
+      "image": "https://m.media-amazon.com/images/I/71gTWdTfLCL._AC_SL1500_.jpg",
+      "description": "Lean mixture helping maintain ideal athletic shape."
+    }
+  ],
+
+  "bull_mastiff": [
+    {
+      "id": "bmst-joint-large",
+      "name": "Royal Canin Giant Adult",
+      "price_inr": 3200,
+      "image": "https://m.media-amazon.com/images/I/71P0L5qdvNL._AC_SL1500_.jpg",
+      "description": "For massive mastiff breeds requiring joint and bone support."
+    },
+    {
+      "id": "bmst-musclepower",
+      "name": "Drools Power Performance",
+      "price_inr": 2100,
+      "image": "https://m.media-amazon.com/images/I/81aZb8pNP8L._AC_SL1500_.jpg",
+      "description": "High-protein diet ideal for strong guardian breeds."
+    }
+  ],
+
+  "cairn": [
+    {
+      "id": "cairn-mini-premium",
+      "name": "Farmina N&D Mini Adult",
+      "price_inr": 2100,
+      "image": "https://m.media-amazon.com/images/I/71bhEJy+SmL._AC_SL1500_.jpg",
+      "description": "Perfect for small terriers with high energy levels."
+    },
+    {
+      "id": "cairn-standard",
+      "name": "Pedigree PRO Small Breed",
+      "price_inr": 690,
+      "image": "https://m.media-amazon.com/images/I/81kR2-fz85L._AC_SL1500_.jpg",
+      "description": "Balanced nutrition for small-sized terriers."
+    }
+  ],
+
+  "cardigan": [
+    {
+      "id": "cardi-medium-balance",
+      "name": "Royal Canin Medium Adult",
+      "price_inr": 1999,
+      "image": "https://m.media-amazon.com/images/I/71Zx4x0yGCL._AC_SL1500_.jpg",
+      "description": "Supports energy for herding breeds like Cardigans."
+    },
+    {
+      "id": "cardi-joint-care",
+      "name": "Hill’s Science Diet Joint Support",
+      "price_inr": 2800,
+      "image": "https://m.media-amazon.com/images/I/81llh-n+ctL._AC_SL1500_.jpg",
+      "description": "Great for dogs with long bodies and short legs."
+    }
+  ],
+
+  "chesapeake_bay_retriever": [
+    {
+      "id": "cbr-active",
+      "name": "Taste of the Wild Wetlands",
+      "price_inr": 2750,
+      "image": "https://m.media-amazon.com/images/I/81UezVx39QL._AC_SL1500_.jpg",
+      "description": "High-protein diet for water retrievers with strong endurance."
+    },
+    {
+      "id": "cbr-joint",
+      "name": "Royal Canin Large Joint Care",
+      "price_inr": 2750,
+      "image": "https://m.media-amazon.com/images/I/71rlRVR0fvL._AC_SL1500_.jpg",
+      "description": "Supports joints for athletic retrieving breeds."
+    }
+  ],
+
+  "chihuahua": [
+    {
+      "id": "chi-tiny-kibble",
+      "name": "Royal Canin Chihuahua Adult",
+      "price_inr": 920,
+      "image": "https://m.media-amazon.com/images/I/714e28szbmL._AC_SL1500_.jpg",
+      "description": "Tiny kibble tailored to miniature jaws."
+    },
+    {
+      "id": "chi-small-breed",
+      "name": "Farmina N&D Mini Chicken",
+      "price_inr": 1800,
+      "image": "https://m.media-amazon.com/images/I/71bhEJy+SmL._AC_SL1500_.jpg",
+      "description": "High-quality nutrient-dense kibble for tiny toy breeds."
+    }
+  ],
+  "chow": [
+    {
+      "id": "chow-sensitive",
+      "name": "Hill's Science Diet Sensitive Stomach & Skin",
+      "price_inr": 2900,
+      "image": "https://m.media-amazon.com/images/I/81llh-n+ctL._AC_SL1500_.jpg",
+      "description": "Ideal for Chow Chows with sensitive digestion and thick coat care."
+    },
+    {
+      "id": "chow-large-adult",
+      "name": "Royal Canin Large Adult",
+      "price_inr": 2600,
+      "image": "https://m.media-amazon.com/images/I/71P0L5qdvNL._AC_SL1500_.jpg",
+      "description": "Balanced diet for large, sturdy breeds like the Chow Chow."
+    }
+  ],
+
+  "clumber": [
+    {
+      "id": "clumber-weight-control",
+      "name": "Royal Canin Light Weight Care",
+      "price_inr": 2400,
+      "image": "https://m.media-amazon.com/images/I/71rlRVR0fvL._AC_SL1500_.jpg",
+      "description": "Helps prevent obesity in slower, gentle spaniels like Clumbers."
+    },
+    {
+      "id": "clumber-senior",
+      "name": "Hill's Large Breed Senior",
+      "price_inr": 3100,
+      "image": "https://m.media-amazon.com/images/I/81llh-n+ctL._AC_SL1500_.jpg",
+      "description": "Supports joints and mobility in older Clumber Spaniels."
+    }
+  ],
+
+  "cocker_spaniel": [
+    {
+      "id": "cocker-coat-health",
+      "name": "Royal Canin Cocker Adult",
+      "price_inr": 2150,
+      "image": "https://m.media-amazon.com/images/I/71K7YgawlsL._AC_SL1500_.jpg",
+      "description": "Supports coat shine and ear health for cockers."
+    },
+    {
+      "id": "cocker-active",
+      "name": "Drools Focus Adult",
+      "price_inr": 1650,
+      "image": "https://m.media-amazon.com/images/I/71+ITyJr8PL._AC_SL1500_.jpg",
+      "description": "High-protein formula ideal for energetic working spaniels."
+    }
+  ],
+
+  "collie": [
+    {
+      "id": "collie-brain-eye",
+      "name": "Orijen Original",
+      "price_inr": 3800,
+      "image": "https://m.media-amazon.com/images/I/71E6tD7cE2L._AC_SL1500_.jpg",
+      "description": "Nutrient-dense formula supporting brain and eye health."
+    },
+    {
+      "id": "collie-shedding-control",
+      "name": "Royal Canin Shedding Control",
+      "price_inr": 2500,
+      "image": "https://m.media-amazon.com/images/I/71mP0xSgEIL._AC_SL1500_.jpg",
+      "description": "Promotes skin and coat care for heavy-shedding breeds."
+    }
+  ],
+
+  "curly-coated_retriever": [
+    {
+      "id": "curly-high-protein",
+      "name": "Taste of the Wild Pacific Stream",
+      "price_inr": 2800,
+      "image": "https://m.media-amazon.com/images/I/81UezVx39QL._AC_SL1500_.jpg",
+      "description": "High-protein diet ideal for athletic retrieving breeds."
+    },
+    {
+      "id": "curly-coat-nutrition",
+      "name": "Royal Canin Coat Care",
+      "price_inr": 2400,
+      "image": "https://m.media-amazon.com/images/I/71mP0xSgEIL._AC_SL1500_.jpg",
+      "description": "Supports healthy curls and coat structure."
+    }
+  ],
+
+  "dandie_dinmont": [
+    {
+      "id": "dandie-small-senior",
+      "name": "Royal Canin Mini Senior",
+      "price_inr": 950,
+      "image": "https://m.media-amazon.com/images/I/71cbXbyZ9yL._AC_SL1500_.jpg",
+      "description": "Perfect for aging small terrier breeds."
+    },
+    {
+      "id": "dandie-sensitive",
+      "name": "Farmina N&D Mini Lamb",
+      "price_inr": 1850,
+      "image": "https://m.media-amazon.com/images/I/71bhEJy+SmL._AC_SL1500_.jpg",
+      "description": "Gentle food for terriers with sensitive digestion."
+    }
+  ],
+
+  "dhole": [
+    {
+      "id": "dhole-high-protein",
+      "name": "Orijen Six Fish",
+      "price_inr": 4200,
+      "image": "https://m.media-amazon.com/images/I/71E6tD7cE2L._AC_SL1500_.jpg",
+      "description": "High-protein kibble similar to natural prey-based diet."
+    },
+    {
+      "id": "dhole-endurance",
+      "name": "Drools Performance Dog Food",
+      "price_inr": 2300,
+      "image": "https://m.media-amazon.com/images/I/71NNZQzWl8L._AC_SL1500_.jpg",
+      "description": "Suitable for high-endurance, pack-running dogs."
+    }
+  ],
+
+  "dingo": [
+    {
+      "id": "dingo-natural",
+      "name": "Orijen Regional Red",
+      "price_inr": 3990,
+      "image": "https://m.media-amazon.com/images/I/71E6tD7cE2L._AC_SL1500_.jpg",
+      "description": "Biologically appropriate high-meat formula."
+    },
+    {
+      "id": "dingo-active",
+      "name": "Taste of the Wild High Prairie",
+      "price_inr": 2700,
+      "image": "https://m.media-amazon.com/images/I/71w5JA7WQeL._AC_SL1500_.jpg",
+      "description": "High-energy kibble for active, free-roaming dog types."
+    }
+  ],
+
+  "doberman": [
+    {
+      "id": "doberman-muscle",
+      "name": "Royal Canin Maxi Adult",
+      "price_inr": 2600,
+      "image": "https://m.media-amazon.com/images/I/71P0L5qdvNL._AC_SL1500_.jpg",
+      "description": "Supports athletic build and heart health in Dobermans."
+    },
+    {
+      "id": "doberman-active",
+      "name": "Drools Focus Ultra Performance",
+      "price_inr": 2100,
+      "image": "https://m.media-amazon.com/images/I/81aZb8pNP8L._AC_SL1500_.jpg",
+      "description": "High-energy mix for fast, strong working Dobermans."
+    }
+  ],
+
+  "english_foxhound": [
+    {
+      "id": "efh-hunting-energy",
+      "name": "Drools Endurance",
+      "price_inr": 1850,
+      "image": "https://m.media-amazon.com/images/I/71NNZQzWl8L._AC_SL1500_.jpg",
+      "description": "Fast-running scent hound formula for stamina support."
+    },
+    {
+      "id": "efh-lean-protein",
+      "name": "Taste of the Wild Canyon River",
+      "price_inr": 2600,
+      "image": "https://m.media-amazon.com/images/I/81UezVx39QL._AC_SL1500_.jpg",
+      "description": "Lean, grain-free protein for high-endurance hounds."
+    }
+  ],
+
+  "english_setter": [
+    {
+      "id": "engset-active",
+      "name": "Royal Canin Medium Active",
+      "price_inr": 2100,
+      "image": "https://m.media-amazon.com/images/I/71Zx4x0yGCL._AC_SL1500_.jpg",
+      "description": "Perfect for energetic working setters with high stamina needs."
+    },
+    {
+      "id": "engset-lean",
+      "name": "Taste of the Wild Wetlands",
+      "price_inr": 2750,
+      "image": "https://m.media-amazon.com/images/I/81UezVx39QL._AC_SL1500_.jpg",
+      "description": "High protein diet supporting lean muscle and long coat health."
+    }
+  ],
+
+  "english_springer": [
+    {
+      "id": "engspr-active",
+      "name": "Drools Focus Adult",
+      "price_inr": 1650,
+      "image": "https://m.media-amazon.com/images/I/71+ITyJr8PL._AC_SL1500_.jpg",
+      "description": "High-energy formula for active bird-hunting springers."
+    },
+    {
+      "id": "engspr-coat",
+      "name": "Royal Canin Coat Care",
+      "price_inr": 2400,
+      "image": "https://m.media-amazon.com/images/I/71mP0xSgEIL._AC_SL1500_.jpg",
+      "description": "Promotes a healthy, glossy coat for long-haired spaniels."
+    }
+  ],
+
+  "entlebucher": [
+    {
+      "id": "entle-working-dog",
+      "name": "Drools Working Dog Formula",
+      "price_inr": 2250,
+      "image": "https://m.media-amazon.com/images/I/71NNZQzWl8L._AC_SL1500_.jpg",
+      "description": "Specifically suited for hardworking shepherd breeds."
+    },
+    {
+      "id": "entle-active",
+      "name": "Royal Canin Large Adult",
+      "price_inr": 2600,
+      "image": "https://m.media-amazon.com/images/I/71P0L5qdvNL._AC_SL1500_.jpg",
+      "description": "Supports mobility and bone health for medium-large working dogs."
+    }
+  ],
+
+  "eskimo_dog": [
+    {
+      "id": "eskimo-high-protein",
+      "name": "Orijen Six Fish",
+      "price_inr": 4200,
+      "image": "https://m.media-amazon.com/images/I/71E6tD7cE2L._AC_SL1500_.jpg",
+      "description": "Ultra-high protein suitable for arctic working breeds."
+    },
+    {
+      "id": "eskimo-energy",
+      "name": "Drools Endurance",
+      "price_inr": 1850,
+      "image": "https://m.media-amazon.com/images/I/71NNZQzWl8L._AC_SL1500_.jpg",
+      "description": "High-calorie diet for active sled-dog type breeds."
+    }
+  ],
+
+  "flat-coated_retriever": [
+    {
+      "id": "fcr-coat-health",
+      "name": "Royal Canin Coat Care",
+      "price_inr": 2400,
+      "image": "https://m.media-amazon.com/images/I/71mP0xSgEIL._AC_SL1500_.jpg",
+      "description": "Maintains the shiny, long coat of flat-coated retrievers."
+    },
+    {
+      "id": "fcr-high-protein",
+      "name": "Taste of the Wild High Prairie",
+      "price_inr": 2700,
+      "image": "https://m.media-amazon.com/images/I/71w5JA7WQeL._AC_SL1500_.jpg",
+      "description": "Supports high energy for retrieving and training."
+    }
+  ],
+
+  "french_bulldog": [
+    {
+      "id": "french-bully-special",
+      "name": "Royal Canin French Bulldog Adult",
+      "price_inr": 2200,
+      "image": "https://m.media-amazon.com/images/I/71B8SbrEtJL._AC_SL1500_.jpg",
+      "description": "Special kibble for the Frenchie jaw and muscle maintenance."
+    },
+    {
+      "id": "french-sensitive",
+      "name": "Science Diet Sensitive Stomach",
+      "price_inr": 2600,
+      "image": "https://m.media-amazon.com/images/I/81llh-n+ctL._AC_SL1500_.jpg",
+      "description": "Reduces gas, supports digestion for brachycephalic breeds."
+    }
+  ],
+
+  "german_shepherd": [
+    {
+      "id": "gsd-large-joint",
+      "name": "Royal Canin German Shepherd Adult",
+      "price_inr": 2500,
+      "image": "https://m.media-amazon.com/images/I/71c9H5K56WL._AC_SL1500_.jpg",
+      "description": "Breed-specific kibble promoting joint, bone, and coat health."
+    },
+    {
+      "id": "gsd-performance",
+      "name": "Drools Power Performance",
+      "price_inr": 2100,
+      "image": "https://m.media-amazon.com/images/I/81aZb8pNP8L._AC_SL1500_.jpg",
+      "description": "High-protein formula for strong, working GSDs."
+    }
+  ],
+
+  "german_short-haired_pointer": [
+    {
+      "id": "gsp-field-energy",
+      "name": "Taste of the Wild Wetlands",
+      "price_inr": 2750,
+      "image": "https://m.media-amazon.com/images/I/81UezVx39QL._AC_SL1500_.jpg",
+      "description": "Supports fast, high-endurance working field dogs."
+    },
+    {
+      "id": "gsp-muscle",
+      "name": "Drools Focus Adult",
+      "price_inr": 1650,
+      "image": "https://m.media-amazon.com/images/I/71+ITyJr8PL._AC_SL1500_.jpg",
+      "description": "Lean muscle-support formula for athletic gun dogs."
+    }
+  ],
+
+  "giant_schnauzer": [
+    {
+      "id": "gschnauzer-large-active",
+      "name": "Royal Canin Maxi Active",
+      "price_inr": 2600,
+      "image": "https://m.media-amazon.com/images/I/71P0L5qdvNL._AC_SL1500_.jpg",
+      "description": "Supports strong muscles and stamina in giant working breeds."
+    },
+    {
+      "id": "gschnauzer-high-protein",
+      "name": "Orijen Original",
+      "price_inr": 3800,
+      "image": "https://m.media-amazon.com/images/I/71E6tD7cE2L._AC_SL1500_.jpg",
+      "description": "Ultra-rich protein for protective and highly active dogs."
+    }
+  ],
+  
+  "gordon_setter": [
+    {
+      "id": "gordon-high-energy",
+      "name": "Taste of the Wild High Prairie",
+      "price_inr": 2750,
+      "image": "https://m.media-amazon.com/images/I/71w5JA7WQeL._AC_SL1500_.jpg",
+      "description": "Fuel for high-endurance bird-hunting setters."
+    },
+    {
+      "id": "gordon-muscle-support",
+      "name": "Royal Canin Medium Active",
+      "price_inr": 2100,
+      "image": "https://m.media-amazon.com/images/I/71Zx4x0yGCL._AC_SL1500_.jpg",
+      "description": "Supports stamina and lean muscle during long hunts."
+    }
+  ],
+
+  "great_dane": [
+    {
+      "id": "gdane-giant-adult",
+      "name": "Royal Canin Giant Adult",
+      "price_inr": 3200,
+      "image": "https://m.media-amazon.com/images/I/71P0L5qdvNL._AC_SL1500_.jpg",
+      "description": "Designed for bone & joint support in giant breeds."
+    },
+    {
+      "id": "gdane-jointcare",
+      "name": "Hill's Science Diet Large Breed",
+      "price_inr": 3100,
+      "image": "https://m.media-amazon.com/images/I/81llh-n+ctL._AC_SL1500_.jpg",
+      "description": "Keeps joints, heart and digestion healthy in Danes."
+    }
+  ],
+
+  "great_pyrenees": [
+    {
+      "id": "gpyrene-large-guardian",
+      "name": "Drools Working Dog Adult",
+      "price_inr": 2250,
+      "image": "https://m.media-amazon.com/images/I/71NNZQzWl8L._AC_SL1500_.jpg",
+      "description": "Perfect for livestock guardian breeds needing sustained energy."
+    },
+    {
+      "id": "gpyrene-joint-coat",
+      "name": "Royal Canin Large Coat Care",
+      "price_inr": 2600,
+      "image": "https://m.media-amazon.com/images/I/71mP0xSgEIL._AC_SL1500_.jpg",
+      "description": "Great for long double coats and skin health."
+    }
+  ],
+
+  "greater_swiss_mountain_dog": [
+    {
+      "id": "gswiss-working",
+      "name": "Drools Performance Dog Food",
+      "price_inr": 2100,
+      "image": "https://m.media-amazon.com/images/I/81aZb8pNP8L._AC_SL1500_.jpg",
+      "description": "High-protein formula ideal for cart-pulling working breeds."
+    },
+    {
+      "id": "gswiss-giant",
+      "name": "Royal Canin Giant Adult",
+      "price_inr": 3200,
+      "image": "https://m.media-amazon.com/images/I/71P0L5qdvNL._AC_SL1500_.jpg",
+      "description": "Supports heavy joints and strong bone mass."
+    }
+  ],
+
+  "groenendael": [
+    {
+      "id": "groen-active",
+      "name": "Royal Canin Medium Active",
+      "price_inr": 2100,
+      "image": "https://m.media-amazon.com/images/I/71Zx4x0yGCL._AC_SL1500_.jpg",
+      "description": "Fuel for intense herding and agility-driven Belgian Shepherds."
+    },
+    {
+      "id": "groen-coat",
+      "name": "Taste of the Wild Pacific Stream",
+      "price_inr": 2800,
+      "image": "https://m.media-amazon.com/images/I/81UezVx39QL._AC_SL1500_.jpg",
+      "description": "Promotes shiny coat and sustained energy for working dogs."
+    }
+  ],
+
+  "ibizan_hound": [
+    {
+      "id": "ibizan-lean-energy",
+      "name": "Orijen Original",
+      "price_inr": 3800,
+      "image": "https://m.media-amazon.com/images/I/71E6tD7cE2L._AC_SL1500_.jpg",
+      "description": "High-protein food fitting for slim, agile sighthounds."
+    },
+    {
+      "id": "ibizan-lightweight",
+      "name": "Royal Canin Medium Digestive Care",
+      "price_inr": 2300,
+      "image": "https://m.media-amazon.com/images/I/71mP0xSgEIL._AC_SL1500_.jpg",
+      "description": "Easy digestion formula for sensitive, active hounds."
+    }
+  ],
+
+  "irish_setter": [
+    {
+      "id": "irishsetter-high-energy",
+      "name": "Taste of the Wild Wetlands",
+      "price_inr": 2700,
+      "image": "https://m.media-amazon.com/images/I/81UezVx39QL._AC_SL1500_.jpg",
+      "description": "Premium nutrition for fast, high-stamina setters."
+    },
+    {
+      "id": "irishsetter-coat",
+      "name": "Royal Canin Coat Care",
+      "price_inr": 2400,
+      "image": "https://m.media-amazon.com/images/I/71mP0xSgEIL._AC_SL1500_.jpg",
+      "description": "Supports glossy red coat typical of Irish Setters."
+    }
+  ],
+
+  "irish_terrier": [
+    {
+      "id": "irterrier-terrier-active",
+      "name": "Pedigree PRO Small & Medium Active",
+      "price_inr": 720,
+      "image": "https://m.media-amazon.com/images/I/81kR2-fz85L._AC_SL1500_.jpg",
+      "description": "Supports the fiery energy of active terriers."
+    },
+    {
+      "id": "irterrier-sensitive",
+      "name": "Farmina N&D Low Grain Lamb",
+      "price_inr": 1900,
+      "image": "https://m.media-amazon.com/images/I/71bhEJy+SmL._AC_SL1500_.jpg",
+      "description": "Good for terriers with sensitive skin and digestion."
+    }
+  ],
+
+  "irish_water_spaniel": [
+    {
+      "id": "iwspaniel-energy",
+      "name": "Royal Canin Medium Active",
+      "price_inr": 2100,
+      "image": "https://m.media-amazon.com/images/I/71Zx4x0yGCL._AC_SL1500_.jpg",
+      "description": "Supports strong retrieving stamina in water dogs."
+    },
+    {
+      "id": "iwspaniel-coat",
+      "name": "Taste of the Wild Pacific Stream",
+      "price_inr": 2800,
+      "image": "https://m.media-amazon.com/images/I/81UezVx39QL._AC_SL1500_.jpg",
+      "description": "Improves coat health and moisture balance for curly coats."
+    }
+  ],
+
+  "irish_wolfhound": [
+    {
+      "id": "iwolfhound-giant",
+      "name": "Royal Canin Giant Adult",
+      "price_inr": 3200,
+      "image": "https://m.media-amazon.com/images/I/71P0L5qdvNL._AC_SL1500_.jpg",
+      "description": "One of the best formulas for massive, gentle giant breeds."
+    },
+    {
+      "id": "iwolfhound-jointcare",
+      "name": "Hill’s Science Diet Large Breed Joint Support",
+      "price_inr": 3050,
+      "image": "https://m.media-amazon.com/images/I/81llh-n+ctL._AC_SL1500_.jpg",
+      "description": "Protects massive joints and supports bone strength."
+    }
+  ],
+  
+  "italian_greyhound": [
+    {
+      "id": "italiangrey-lean",
+      "name": "Orijen Original",
+      "price_inr": 3800,
+      "image": "https://m.media-amazon.com/images/I/71E6tD7cE2L._AC_SL1500_.jpg",
+      "description": "High-protein diet supporting lean, agile sighthounds."
+    },
+    {
+      "id": "italiangrey-sensitive",
+      "name": "Royal Canin Digestive Care",
+      "price_inr": 2300,
+      "image": "https://m.media-amazon.com/images/I/71mP0xSgEIL._AC_SL1500_.jpg",
+      "description": "Gentle on sensitive stomachs typical of small sighthounds."
+    }
+  ],
+
+  "japanese_spaniel": [
+    {
+      "id": "jspaniel-small-bite",
+      "name": "Royal Canin Mini Adult",
+      "price_inr": 899,
+      "image": "https://m.media-amazon.com/images/I/71FOSY6bnkL._AC_SL1500_.jpg",
+      "description": "Designed for tiny jaws and elegant toy breeds."
+    },
+    {
+      "id": "jspaniel-coatcare",
+      "name": "Farmina N&D Mini Lamb",
+      "price_inr": 1850,
+      "image": "https://m.media-amazon.com/images/I/71bhEJy+SmL._AC_SL1500_.jpg",
+      "description": "Supports silky coat and healthy skin for delicate toy spaniels."
+    }
+  ],
+
+  "keeshond": [
+    {
+      "id": "keeshond-coat",
+      "name": "Royal Canin Coat Care",
+      "price_inr": 2400,
+      "image": "https://m.media-amazon.com/images/I/71mP0xSgEIL._AC_SL1500_.jpg",
+      "description": "Promotes thick double-coat health of Keeshonden."
+    },
+    {
+      "id": "keeshond-balanced",
+      "name": "Taste of the Wild Pacific Stream",
+      "price_inr": 2800,
+      "image": "https://m.media-amazon.com/images/I/81UezVx39QL._AC_SL1500_.jpg",
+      "description": "Grain-free fish diet for skin and coat support."
+    }
+  ],
+
+  "kelpie": [
+    {
+      "id": "kelpie-active",
+      "name": "Drools Active Adult",
+      "price_inr": 1700,
+      "image": "https://m.media-amazon.com/images/I/71PY8l5hxaL._AC_SL1500_.jpg",
+      "description": "High-energy formula for highly athletic herding dogs."
+    },
+    {
+      "id": "kelpie-premium",
+      "name": "Orijen Regional Red",
+      "price_inr": 3990,
+      "image": "https://m.media-amazon.com/images/I/71E6tD7cE2L._AC_SL1500_.jpg",
+      "description": "A premium protein-rich working dog food."
+    }
+  ],
+
+  "kerry_blue_terrier": [
+    {
+      "id": "kerry-active",
+      "name": "Pedigree PRO Medium Active",
+      "price_inr": 780,
+      "image": "https://m.media-amazon.com/images/I/81kR2-fz85L._AC_SL1500_.jpg",
+      "description": "Supports the energetic temperament of Kerry Blues."
+    },
+    {
+      "id": "kerry-coat",
+      "name": "Royal Canin Coat Care",
+      "price_inr": 2400,
+      "image": "https://m.media-amazon.com/images/I/71mP0xSgEIL._AC_SL1500_.jpg",
+      "description": "Maintains their characteristic wavy blue coat."
+    }
+  ],
+
+  "komondor": [
+    {
+      "id": "komon-guardian",
+      "name": "Drools Performance Working Dog",
+      "price_inr": 2400,
+      "image": "https://m.media-amazon.com/images/I/81aZb8pNP8L._AC_SL1500_.jpg",
+      "description": "High endurance formula for livestock guardian breeds."
+    },
+    {
+      "id": "komon-large-joint",
+      "name": "Royal Canin Giant Adult",
+      "price_inr": 3200,
+      "image": "https://m.media-amazon.com/images/I/71P0L5qdvNL._AC_SL1500_.jpg",
+      "description": "Supports heavy joints under thick corded coats."
+    }
+  ],
+
+  "kuvasz": [
+    {
+      "id": "kuvasz-guardian",
+      "name": "Drools Working Dog Adult",
+      "price_inr": 2250,
+      "image": "https://m.media-amazon.com/images/I/71NNZQzWl8L._AC_SL1500_.jpg",
+      "description": "Perfect for strong, vigilant livestock guardian breeds."
+    },
+    {
+      "id": "kuvasz-large-adult",
+      "name": "Royal Canin Large Joint Care",
+      "price_inr": 2600,
+      "image": "https://m.media-amazon.com/images/I/71rlRVR0fvL._AC_SL1500_.jpg",
+      "description": "Joint-supporting diet for large, heavy Hungarian dogs."
+    }
+  ],
+
+  "labrador_retriever": [
+    {
+      "id": "lab-active",
+      "name": "Royal Canin Labrador Adult",
+      "price_inr": 2200,
+      "image": "https://m.media-amazon.com/images/I/71URaVTwZSL._AC_SL1500_.jpg",
+      "description": "Controls appetite and maintains healthy weight in Labs."
+    },
+    {
+      "id": "lab-energy",
+      "name": "Taste of the Wild Wetlands",
+      "price_inr": 2750,
+      "image": "https://m.media-amazon.com/images/I/81UezVx39QL._AC_SL1500_.jpg",
+      "description": "High-protein formula suitable for sporty, energetic Labradors."
+    }
+  ],
+
+  "lakeland_terrier": [
+    {
+      "id": "lakeland-terrier-active",
+      "name": "Pedigree PRO Small & Medium Active",
+      "price_inr": 720,
+      "image": "https://m.media-amazon.com/images/I/81kR2-fz85L._AC_SL1500_.jpg",
+      "description": "High-energy nutrition for lively terriers."
+    },
+    {
+      "id": "lakeland-terrier-coat",
+      "name": "Farmina N&D Mini Lamb",
+      "price_inr": 1850,
+      "image": "https://m.media-amazon.com/images/I/71bhEJy+SmL._AC_SL1500_.jpg",
+      "description": "Supports coat texture and skin health in terrier breeds."
+    }
+  ],
+
+  "leonberg": [
+    {
+      "id": "leonberg-giant-adult",
+      "name": "Royal Canin Giant Adult",
+      "price_inr": 3200,
+      "image": "https://m.media-amazon.com/images/I/71P0L5qdvNL._AC_SL1500_.jpg",
+      "description": "Essential for massive Leonbergers needing bone & joint support."
+    },
+    {
+      "id": "leonberg-muscle",
+      "name": "Drools Power Performance",
+      "price_inr": 2100,
+      "image": "https://m.media-amazon.com/images/I/81aZb8pNP8L._AC_SL1500_.jpg",
+      "description": "High-protein mix for muscle and strength maintenance."
+    }
+  ],
+  
+  "lhasa": [
+    {
+      "id": "lhasa-coat-skin",
+      "name": "Royal Canin Shih Tzu / Lhasa Coat Care",
+      "price_inr": 1900,
+      "image": "https://m.media-amazon.com/images/I/71mP0xSgEIL._AC_SL1500_.jpg",
+      "description": "Enhances long coat health and prevents hair fall in Lhasa Apsos."
+    },
+    {
+      "id": "lhasa-sensitive",
+      "name": "Farmina N&D Mini Lamb",
+      "price_inr": 1850,
+      "image": "https://m.media-amazon.com/images/I/71bhEJy+SmL._AC_SL1500_.jpg",
+      "description": "Perfect for Lhasas with sensitive stomach and skin."
+    }
+  ],
+
+  "malamute": [
+    {
+      "id": "malamute-energy",
+      "name": "Drools Endurance Adult",
+      "price_inr": 1850,
+      "image": "https://m.media-amazon.com/images/I/71NNZQzWl8L._AC_SL1500_.jpg",
+      "description": "High-energy food for powerful sled-dog breeds."
+    },
+    {
+      "id": "malamute-coat",
+      "name": "Taste of the Wild Pacific Stream",
+      "price_inr": 2800,
+      "image": "https://m.media-amazon.com/images/I/81UezVx39QL._AC_SL1500_.jpg",
+      "description": "Promotes double-coat shine and healthy skin."
+    }
+  ],
+
+  "malinois": [
+    {
+      "id": "malinois-performance",
+      "name": "Drools Power Performance",
+      "price_inr": 2100,
+      "image": "https://m.media-amazon.com/images/I/81aZb8pNP8L._AC_SL1500_.jpg",
+      "description": "High-protein formula for K9-level working Malinois."
+    },
+    {
+      "id": "malinois-premium",
+      "name": "Orijen Regional Red",
+      "price_inr": 3990,
+      "image": "https://m.media-amazon.com/images/I/71E6tD7cE2L._AC_SL1500_.jpg",
+      "description": "Supports intense training, agility, and muscle definition."
+    }
+  ],
+
+  "maltese_dog": [
+    {
+      "id": "maltese-coat",
+      "name": "Royal Canin Maltese Adult",
+      "price_inr": 1850,
+      "image": "https://m.media-amazon.com/images/I/71-0r4rRhVL._AC_SL1500_.jpg",
+      "description": "Maintains long silky coat and improves tear staining."
+    },
+    {
+      "id": "maltese-sensitive",
+      "name": "Farmina N&D Mini Cod & Pumpkin",
+      "price_inr": 1950,
+      "image": "https://m.media-amazon.com/images/I/71bhEJy+SmL._AC_SL1500_.jpg",
+      "description": "Gentle, hypoallergenic diet for delicate toy breeds."
+    }
+  ],
+
+  "mexican_hairless": [
+    {
+      "id": "mexhairless-skinhealth",
+      "name": "Hill’s Science Diet Sensitive Skin",
+      "price_inr": 2800,
+      "image": "https://m.media-amazon.com/images/I/81llh-n+ctL._AC_SL1500_.jpg",
+      "description": "Boosts skin barrier function in hairless breeds."
+    },
+    {
+      "id": "mexhairless-digestive",
+      "name": "Royal Canin Digestive Care",
+      "price_inr": 2300,
+      "image": "https://m.media-amazon.com/images/I/71mP0xSgEIL._AC_SL1500_.jpg",
+      "description": "Improves digestion and nutrient absorption for sensitive stomachs."
+    }
+  ],
+
+  "miniature_pinscher": [
+    {
+      "id": "minpin-small-bite",
+      "name": "Royal Canin Mini Adult",
+      "price_inr": 899,
+      "image": "https://m.media-amazon.com/images/I/71FOSY6bnkL._AC_SL1500_.jpg",
+      "description": "Ideal kibble size for small yet energetic Min Pins."
+    },
+    {
+      "id": "minpin-active",
+      "name": "Pedigree PRO Small Breed Active",
+      "price_inr": 690,
+      "image": "https://m.media-amazon.com/images/I/81kR2-fz85L._AC_SL1500_.jpg",
+      "description": "Supports the fast metabolism of active small breeds."
+    }
+  ],
+
+  "miniature_poodle": [
+    {
+      "id": "minpoodle-brain-coat",
+      "name": "Royal Canin Poodle Adult",
+      "price_inr": 1900,
+      "image": "https://m.media-amazon.com/images/I/71pZKHYt7HL._AC_SL1500_.jpg",
+      "description": "Promotes coat health and supports cognitive function."
+    },
+    {
+      "id": "minpoodle-sensitive",
+      "name": "Farmina N&D Mini Chicken",
+      "price_inr": 1800,
+      "image": "https://m.media-amazon.com/images/I/71bhEJy+SmL._AC_SL1500_.jpg",
+      "description": "Gentle on digestion for miniature breeds."
+    }
+  ],
+
+  "miniature_schnauzer": [
+    {
+      "id": "minschnauzer-metabolism",
+      "name": "Royal Canin Mini Schnauzer Adult",
+      "price_inr": 1850,
+      "image": "https://m.media-amazon.com/images/I/716GvzNhjJL._AC_SL1500_.jpg",
+      "description": "Controls weight and prevents urinary crystal buildup."
+    },
+    {
+      "id": "minschnauzer-protein",
+      "name": "Farmina N&D Mini Adult",
+      "price_inr": 1850,
+      "image": "https://m.media-amazon.com/images/I/71bhEJy+SmL._AC_SL1500_.jpg",
+      "description": "Supports muscle health in energetic small terriers."
+    }
+  ],
+
+  "newfoundland": [
+    {
+      "id": "newf-giant",
+      "name": "Royal Canin Giant Adult",
+      "price_inr": 3200,
+      "image": "https://m.media-amazon.com/images/I/71P0L5qdvNL._AC_SL1500_.jpg",
+      "description": "Perfect for extremely large dogs with heavy joints."
+    },
+    {
+      "id": "newf-coat-skin",
+      "name": "Taste of the Wild Pacific Stream",
+      "price_inr": 2800,
+      "image": "https://m.media-amazon.com/images/I/81UezVx39QL._AC_SL1500_.jpg",
+      "description": "Improves thick coat shine and supports cardiac health."
+    }
+  ],
+
+  "norfolk_terrier": [
+    {
+      "id": "norfolk-small-breed",
+      "name": "Royal Canin Mini Adult",
+      "price_inr": 899,
+      "image": "https://m.media-amazon.com/images/I/71FOSY6bnkL._AC_SL1500_.jpg",
+      "description": "Small kibble perfect for tiny terrier mouths."
+    },
+    {
+      "id": "norfolk-terrier-energy",
+      "name": "Pedigree PRO Small Breed Active",
+      "price_inr": 690,
+      "image": "https://m.media-amazon.com/images/I/81kR2-fz85L._AC_SL1500_.jpg",
+      "description": "Fuel for the lively temperament of Norfolk Terriers."
+    }
+  ],
+  
+  "norwegian_elkhound": [
+    {
+      "id": "nelkhound-endurance",
+      "name": "Drools Endurance Adult",
+      "price_inr": 1850,
+      "image": "https://m.media-amazon.com/images/I/71NNZQzWl8L._AC_SL1500_.jpg",
+      "description": "High-stamina food for hunting and tracking breeds like Elkhounds."
+    },
+    {
+      "id": "nelkhound-coat",
+      "name": "Taste of the Wild Pacific Stream",
+      "price_inr": 2800,
+      "image": "https://m.media-amazon.com/images/I/81UezVx39QL._AC_SL1500_.jpg",
+      "description": "Improves coat shine and skin health for thick double coats."
+    }
+  ],
+
+  "norwich_terrier": [
+    {
+      "id": "norwich-small-bite",
+      "name": "Royal Canin Mini Adult",
+      "price_inr": 899,
+      "image": "https://m.media-amazon.com/images/I/71FOSY6bnkL._AC_SL1500_.jpg",
+      "description": "Perfect bite size for tiny terriers."
+    },
+    {
+      "id": "norwich-energy",
+      "name": "Pedigree PRO Small Breed Active",
+      "price_inr": 690,
+      "image": "https://m.media-amazon.com/images/I/81kR2-fz85L._AC_SL1500_.jpg",
+      "description": "Supports lively and energetic small terriers."
+    }
+  ],
+
+  "old_english_sheepdog": [
+    {
+      "id": "oes-coatcare",
+      "name": "Royal Canin Coat Care",
+      "price_inr": 2400,
+      "image": "https://m.media-amazon.com/images/I/71mP0xSgEIL._AC_SL1500_.jpg",
+      "description": "Improves long, dense coat health in shaggy sheepdogs."
+    },
+    {
+      "id": "oes-large-breed",
+      "name": "Royal Canin Large Adult",
+      "price_inr": 2600,
+      "image": "https://m.media-amazon.com/images/I/71P0L5qdvNL._AC_SL1500_.jpg",
+      "description": "Supports strong muscles and bone structure."
+    }
+  ],
+
+  "otterhound": [
+    {
+      "id": "otterhound-high-protein",
+      "name": "Taste of the Wild Wetlands",
+      "price_inr": 2750,
+      "image": "https://m.media-amazon.com/images/I/81UezVx39QL._AC_SL1500_.jpg",
+      "description": "High-protein formula for scent-driven hunting dogs."
+    },
+    {
+      "id": "otterhound-active",
+      "name": "Drools Active Adult",
+      "price_inr": 1700,
+      "image": "https://m.media-amazon.com/images/I/71PY8l5hxaL._AC_SL1500_.jpg",
+      "description": "Boosts stamina for long outdoor tracking."
+    }
+  ],
+
+  "papillon": [
+    {
+      "id": "papillon-mini-kibble",
+      "name": "Royal Canin Mini Adult",
+      "price_inr": 899,
+      "image": "https://m.media-amazon.com/images/I/71FOSY6bnkL._AC_SL1500_.jpg",
+      "description": "Ideal kibble for toy breeds with delicate jaws."
+    },
+    {
+      "id": "papillon-coat",
+      "name": "Farmina N&D Mini Chicken",
+      "price_inr": 1800,
+      "image": "https://m.media-amazon.com/images/I/71bhEJy+SmL._AC_SL1500_.jpg",
+      "description": "Supports silky coat and high metabolism of Papillons."
+    }
+  ],
+
+  "pekinese": [
+    {
+      "id": "pekinese-brachy",
+      "name": "Royal Canin Pug / Brachycephalic",
+      "price_inr": 1900,
+      "image": "https://m.media-amazon.com/images/I/71qEUhWukHL._AC_SL1500_.jpg",
+      "description": "Special kibble shape for flat-faced toy breeds."
+    },
+    {
+      "id": "pekinese-sensitive",
+      "name": "Science Diet Sensitive Stomach",
+      "price_inr": 2600,
+      "image": "https://m.media-amazon.com/images/I/81llh-n+ctL._AC_SL1500_.jpg",
+      "description": "Great for picky eaters and digestive issues."
+    }
+  ],
+
+  "pembroke": [
+    {
+      "id": "pembroke-joint",
+      "name": "Royal Canin Joint Care",
+      "price_inr": 2400,
+      "image": "https://m.media-amazon.com/images/I/71rlRVR0fvL._AC_SL1500_.jpg",
+      "description": "Supports long-backed breeds like Pembroke Corgis."
+    },
+    {
+      "id": "pembroke-active",
+      "name": "Taste of the Wild Pacific Stream",
+      "price_inr": 2800,
+      "image": "https://m.media-amazon.com/images/I/81UezVx39QL._AC_SL1500_.jpg",
+      "description": "Great for energetic herding dogs."
+    }
+  ],
+
+  "pomeranian": [
+    {
+      "id": "pom-small-bite",
+      "name": "Royal Canin Mini Adult",
+      "price_inr": 899,
+      "image": "https://m.media-amazon.com/images/I/71FOSY6bnkL._AC_SL1500_.jpg",
+      "description": "Perfect for tiny jaws and fluffy coats."
+    },
+    {
+      "id": "pom-coatcare",
+      "name": "Farmina N&D Pumpkin Mini",
+      "price_inr": 1950,
+      "image": "https://m.media-amazon.com/images/I/71bhEJy+SmL._AC_SL1500_.jpg",
+      "description": "Boosts coat health and reduces tear staining."
+    }
+  ],
+
+  "pug": [
+    {
+      "id": "pug-brachy",
+      "name": "Royal Canin Pug Adult",
+      "price_inr": 1850,
+      "image": "https://m.media-amazon.com/images/I/71qEUhWukHL._AC_SL1500_.jpg",
+      "description": "Specially made kibble for flat-faced dogs."
+    },
+    {
+      "id": "pug-sensitive",
+      "name": "Hill’s Science Diet Sensitive Stomach",
+      "price_inr": 2800,
+      "image": "https://m.media-amazon.com/images/I/81llh-n+ctL._AC_SL1500_.jpg",
+      "description": "Reduces gas and digestive discomfort."
+    }
+  ],
+
+  "redbone": [
+    {
+      "id": "redbone-hound",
+      "name": "Drools Active Adult",
+      "price_inr": 1700,
+      "image": "https://m.media-amazon.com/images/I/71PY8l5hxaL._AC_SL1500_.jpg",
+      "description": "High-stamina nutrition for hunting hounds."
+    },
+    {
+      "id": "redbone-high-protein",
+      "name": "Taste of the Wild High Prairie",
+      "price_inr": 2700,
+      "image": "https://m.media-amazon.com/images/I/71w5JA7WQeL._AC_SL1500_.jpg",
+      "description": "Supports long tracking sessions and muscle strength."
+    }
+  ],
+  
+  "rhodesian_ridgeback": [
+    {
+      "id": "ridgeback-athletic",
+      "name": "Taste of the Wild High Prairie",
+      "price_inr": 2700,
+      "image": "https://m.media-amazon.com/images/I/71w5JA7WQeL._AC_SL1500_.jpg",
+      "description": "High-energy diet for athletic ridgebacks used for endurance running."
+    },
+    {
+      "id": "ridgeback-muscle",
+      "name": "Drools Focus Adult",
+      "price_inr": 1650,
+      "image": "https://m.media-amazon.com/images/I/71+ITyJr8PL._AC_SL1500_.jpg",
+      "description": "Supports muscle strength and athletic performance."
+    }
+  ],
+
+  "rottweiler": [
+    {
+      "id": "rottweiler-muscle",
+      "name": "Royal Canin Rottweiler Adult",
+      "price_inr": 2500,
+      "image": "https://m.media-amazon.com/images/I/71vJXglYt7L._AC_SL1500_.jpg",
+      "description": "Breed-specific food targeting muscle growth and joint health."
+    },
+    {
+      "id": "rottweiler-power",
+      "name": "Drools Power Performance",
+      "price_inr": 2100,
+      "image": "https://m.media-amazon.com/images/I/81aZb8pNP8L._AC_SL1500_.jpg",
+      "description": "High-protein formula for strong working dogs."
+    }
+  ],
+
+  "saint_bernard": [
+    {
+      "id": "stb-giant-adult",
+      "name": "Royal Canin Giant Adult",
+      "price_inr": 3200,
+      "image": "https://m.media-amazon.com/images/I/71P0L5qdvNL._AC_SL1500_.jpg",
+      "description": "Supports massive joints and bone weight in giant breeds."
+    },
+    {
+      "id": "stb-coat",
+      "name": "Taste of the Wild Sierra Mountain",
+      "price_inr": 2600,
+      "image": "https://m.media-amazon.com/images/I/81UezVx39QL._AC_SL1500_.jpg",
+      "description": "Helps maintain fluffy coat health."
+    }
+  ],
+
+  "saluki": [
+    {
+      "id": "saluki-lean-protein",
+      "name": "Orijen Original",
+      "price_inr": 3800,
+      "image": "https://m.media-amazon.com/images/I/71E6tD7cE2L._AC_SL1500_.jpg",
+      "description": "Perfect lean diet for extremely fast and agile sighthounds."
+    },
+    {
+      "id": "saluki-digestive",
+      "name": "Royal Canin Digestive Care",
+      "price_inr": 2300,
+      "image": "https://m.media-amazon.com/images/I/71mP0xSgEIL._AC_SL1500_.jpg",
+      "description": "Gentle on sensitive stomachs typical of sighthounds."
+    }
+  ],
+
+  "samoyed": [
+    {
+      "id": "samoyed-coatcare",
+      "name": "Taste of the Wild Pacific Stream",
+      "price_inr": 2800,
+      "image": "https://m.media-amazon.com/images/I/81UezVx39QL._AC_SL1500_.jpg",
+      "description": "Keeps dense double-coats shiny and reduces shedding."
+    },
+    {
+      "id": "samoyed-energy",
+      "name": "Drools Endurance",
+      "price_inr": 1850,
+      "image": "https://m.media-amazon.com/images/I/71NNZQzWl8L._AC_SL1500_.jpg",
+      "description": "Fuel for cold-weather working breeds."
+    }
+  ],
+
+  "schipperke": [
+    {
+      "id": "schipperke-small-bite",
+      "name": "Royal Canin Mini Adult",
+      "price_inr": 899,
+      "image": "https://m.media-amazon.com/images/I/71FOSY6bnkL._AC_SL1500_.jpg",
+      "description": "Small kibble perfect for small Belgian watchdogs."
+    },
+    {
+      "id": "schipperke-energy",
+      "name": "Pedigree PRO Small Active",
+      "price_inr": 690,
+      "image": "https://m.media-amazon.com/images/I/81kR2-fz85L._AC_SL1500_.jpg",
+      "description": "Supports high-energy temperament."
+    }
+  ],
+
+  "scotch_terrier": [
+    {
+      "id": "scotchterrier-mini",
+      "name": "Royal Canin Mini Light",
+      "price_inr": 950,
+      "image": "https://m.media-amazon.com/images/I/71cbXbyZ9yL._AC_SL1500_.jpg",
+      "description": "Helps maintain healthy weight in stocky terriers."
+    },
+    {
+      "id": "scotchterrier-protein",
+      "name": "Farmina N&D Mini Lamb",
+      "price_inr": 1850,
+      "image": "https://m.media-amazon.com/images/I/71bhEJy+SmL._AC_SL1500_.jpg",
+      "description": "Supports muscle and coat of sturdy terriers."
+    }
+  ],
+
+  "scottish_deerhound": [
+    {
+      "id": "sdeerhound-lean-energy",
+      "name": "Taste of the Wild High Prairie",
+      "price_inr": 2700,
+      "image": "https://m.media-amazon.com/images/I/71w5JA7WQeL._AC_SL1500_.jpg",
+      "description": "Fuel for extremely fast giant sighthounds."
+    },
+    {
+      "id": "sdeerhound-digestive",
+      "name": "Royal Canin Large Digestive Care",
+      "price_inr": 2500,
+      "image": "https://m.media-amazon.com/images/I/71mP0xSgEIL._AC_SL1500_.jpg",
+      "description": "Helps relieve bloat sensitivity common in deep-chested breeds."
+    }
+  ],
+
+  "sealyham_terrier": [
+    {
+      "id": "sealyham-terrier",
+      "name": "Pedigree PRO Small Breed Adult",
+      "price_inr": 690,
+      "image": "https://m.media-amazon.com/images/I/81kR2-fz85L._AC_SL1500_.jpg",
+      "description": "Balanced diet for compact, spirited terriers."
+    },
+    {
+      "id": "sealyham-coat",
+      "name": "Farmina N&D Mini Chicken",
+      "price_inr": 1800,
+      "image": "https://m.media-amazon.com/images/I/71bhEJy+SmL._AC_SL1500_.jpg",
+      "description": "Improves coat texture and shine."
+    }
+  ],
+
+  "shetland_sheepdog": [
+    {
+      "id": "sheltie-coatcare",
+      "name": "Royal Canin Coat Care",
+      "price_inr": 2400,
+      "image": "https://m.media-amazon.com/images/I/71mP0xSgEIL._AC_SL1500_.jpg",
+      "description": "Supports long double-coat shine in Shelties."
+    },
+    {
+      "id": "sheltie-active",
+      "name": "Taste of the Wild Pacific Stream",
+      "price_inr": 2800,
+      "image": "https://m.media-amazon.com/images/I/81UezVx39QL._AC_SL1500_.jpg",
+      "description": "Perfect fuel for agility and herding activity."
+    }
+  ],
+  
+  "shih-tzu": [
+    {
+      "id": "shihtzu-coat",
+      "name": "Royal Canin Shih Tzu Adult",
+      "price_inr": 1850,
+      "image": "https://m.media-amazon.com/images/I/71-0r4rRhVL._AC_SL1500_.jpg",
+      "description": "Supports long coat health and reduces tear staining."
+    },
+    {
+      "id": "shihtzu-sensitive",
+      "name": "Farmina N&D Mini Lamb",
+      "price_inr": 1850,
+      "image": "https://m.media-amazon.com/images/I/71bhEJy+SmL._AC_SL1500_.jpg",
+      "description": "Gentle diet ideal for sensitive Shih-Tzus."
+    }
+  ],
+
+  "siberian_husky": [
+    {
+      "id": "husky-endurance",
+      "name": "Taste of the Wild High Prairie",
+      "price_inr": 2700,
+      "image": "https://m.media-amazon.com/images/I/71w5JA7WQeL._AC_SL1500_.jpg",
+      "description": "High-energy formula for sled dogs with extreme endurance needs."
+    },
+    {
+      "id": "husky-coatcare",
+      "name": "Royal Canin Medium Adult",
+      "price_inr": 1900,
+      "image": "https://m.media-amazon.com/images/I/71pZKHYt7HL._AC_SL1500_.jpg",
+      "description": "Promotes double-coat health and digestion."
+    }
+  ],
+
+  "silky_terrier": [
+    {
+      "id": "silky-coat",
+      "name": "Farmina N&D Mini Cod & Pumpkin",
+      "price_inr": 1950,
+      "image": "https://m.media-amazon.com/images/I/71bhEJy+SmL._AC_SL1500_.jpg",
+      "description": "Nutrient-rich formula to maintain silky terrier coats."
+    },
+    {
+      "id": "silky-small-bite",
+      "name": "Royal Canin Mini Adult",
+      "price_inr": 899,
+      "image": "https://m.media-amazon.com/images/I/71FOSY6bnkL._AC_SL1500_.jpg",
+      "description": "Perfect bite size for small terrier mouths."
+    }
+  ],
+
+  "soft-coated_wheaten_terrier": [
+    {
+      "id": "wheaten-sensitive",
+      "name": "Royal Canin Digestive Care",
+      "price_inr": 2300,
+      "image": "https://m.media-amazon.com/images/I/71mP0xSgEIL._AC_SL1500_.jpg",
+      "description": "Ideal for terriers prone to digestive issues."
+    },
+    {
+      "id": "wheaten-coat",
+      "name": "Taste of the Wild Sierra Mountain",
+      "price_inr": 2600,
+      "image": "https://m.media-amazon.com/images/I/81UezVx39QL._AC_SL1500_.jpg",
+      "description": "Promotes soft coat texture typical of Wheatens."
+    }
+  ],
+
+  "staffordshire_bullterrier": [
+    {
+      "id": "staffy-muscle",
+      "name": "Drools Power Performance",
+      "price_inr": 2100,
+      "image": "https://m.media-amazon.com/images/I/81aZb8pNP8L._AC_SL1500_.jpg",
+      "description": "Helps maintain strong muscle mass in Staffies."
+    },
+    {
+      "id": "staffy-balanced",
+      "name": "Royal Canin Medium Adult",
+      "price_inr": 1900,
+      "image": "https://m.media-amazon.com/images/I/71pZKHYt7HL._AC_SL1500_.jpg",
+      "description": "Balanced nutrition for active medium-sized terriers."
+    }
+  ],
+
+  "standard_poodle": [
+    {
+      "id": "stdpoodle-brain-coat",
+      "name": "Royal Canin Poodle Adult",
+      "price_inr": 2100,
+      "image": "https://m.media-amazon.com/images/I/71pZKHYt7HL._AC_SL1500_.jpg",
+      "description": "Boosts coat texture and cognitive health in intelligent poodles."
+    },
+    {
+      "id": "stdpoodle-digestive",
+      "name": "Farmina N&D Adult Medium",
+      "price_inr": 2200,
+      "image": "https://m.media-amazon.com/images/I/71bhEJy+SmL._AC_SL1500_.jpg",
+      "description": "Great for digestion and joint function."
+    }
+  ],
+
+  "standard_schnauzer": [
+    {
+      "id": "stdschnauzer-muscle",
+      "name": "Taste of the Wild High Prairie",
+      "price_inr": 2700,
+      "image": "https://m.media-amazon.com/images/I/71w5JA7WQeL._AC_SL1500_.jpg",
+      "description": "Supports high activity and strong muscle maintenance."
+    },
+    {
+      "id": "stdschnauzer-balanced",
+      "name": "Royal Canin Medium Adult",
+      "price_inr": 1900,
+      "image": "https://m.media-amazon.com/images/I/71pZKHYt7HL._AC_SL1500_.jpg",
+      "description": "Balanced diet for medium-sized working dogs."
+    }
+  ],
+
+  "sussex_spaniel": [
+    {
+      "id": "sussex-coated",
+      "name": "Royal Canin Coat Care",
+      "price_inr": 2400,
+      "image": "https://m.media-amazon.com/images/I/71mP0xSgEIL._AC_SL1500_.jpg",
+      "description": "Maintains the long, thick coat of Sussex Spaniels."
+    },
+    {
+      "id": "sussex-digestive",
+      "name": "Hill’s Science Diet Sensitive Stomach",
+      "price_inr": 2800,
+      "image": "https://m.media-amazon.com/images/I/81llh-n+ctL._AC_SL1500_.jpg",
+      "description": "Great for spaniels prone to digestive problems."
+    }
+  ],
+
+  "tibetan_mastiff": [
+    {
+      "id": "tmastiff-giant-power",
+      "name": "Royal Canin Giant Adult",
+      "price_inr": 3200,
+      "image": "https://m.media-amazon.com/images/I/71P0L5qdvNL._AC_SL1500_.jpg",
+      "description": "Supports massive size, bone strength, and joint health."
+    },
+    {
+      "id": "tmastiff-protein",
+      "name": "Drools Power Performance",
+      "price_inr": 2100,
+      "image": "https://m.media-amazon.com/images/I/81aZb8pNP8L._AC_SL1500_.jpg",
+      "description": "High-protein formula for strong guardian dogs."
+    }
+  ],
+
+  "tibetan_terrier": [
+    {
+      "id": "tibetan-terrier-coat",
+      "name": "Farmina N&D Medium Coat Care",
+      "price_inr": 2000,
+      "image": "https://m.media-amazon.com/images/I/71bhEJy+SmL._AC_SL1500_.jpg",
+      "description": "Supports the long thick coat of Tibetan Terriers."
+    },
+    {
+      "id": "tibetan-terrier-digestive",
+      "name": "Royal Canin Digestive Care",
+      "price_inr": 2300,
+      "image": "https://m.media-amazon.com/images/I/71mP0xSgEIL._AC_SL1500_.jpg",
+      "description": "Gentle formula for sensitive digestion."
+    }
+  ],
+  
+  "toy_poodle": [
+    {
+      "id": "toypoodle-coatcare",
+      "name": "Royal Canin Poodle Adult Mini",
+      "price_inr": 1800,
+      "image": "https://m.media-amazon.com/images/I/71pZKHYt7HL._AC_SL1500_.jpg",
+      "description": "Enhances curly coat texture and supports brain health."
+    },
+    {
+      "id": "toypoodle-sensitive",
+      "name": "Farmina N&D Mini Lamb",
+      "price_inr": 1850,
+      "image": "https://m.media-amazon.com/images/I/71bhEJy+SmL._AC_SL1500_.jpg",
+      "description": "Gentle formula for miniature dogs with sensitive digestion."
+    }
+  ],
+
+  "toy_terrier": [
+    {
+      "id": "toyterrier-smallbite",
+      "name": "Royal Canin Mini Adult",
+      "price_inr": 899,
+      "image": "https://m.media-amazon.com/images/I/71FOSY6bnkL._AC_SL1500_.jpg",
+      "description": "Tiny kibble designed perfectly for toy-sized terriers."
+    },
+    {
+      "id": "toyterrier-energy",
+      "name": "Pedigree PRO Small Breed Active",
+      "price_inr": 690,
+      "image": "https://m.media-amazon.com/images/I/81kR2-fz85L._AC_SL1500_.jpg",
+      "description": "Supports active metabolism in small terrier breeds."
+    }
+  ],
+
+  "vizsla": [
+    {
+      "id": "vizsla-athletic",
+      "name": "Taste of the Wild High Prairie",
+      "price_inr": 2700,
+      "image": "https://m.media-amazon.com/images/I/71w5JA7WQeL._AC_SL1500_.jpg",
+      "description": "High-energy food ideal for extremely active gundogs like Vizslas."
+    },
+    {
+      "id": "vizsla-lean-muscle",
+      "name": "Drools Focus Adult",
+      "price_inr": 1650,
+      "image": "https://m.media-amazon.com/images/I/71+ITyJr8PL._AC_SL1500_.jpg",
+      "description": "Maintains lean muscle structure for high-intensity dogs."
+    }
+  ],
+
+  "walker_hound": [
+    {
+      "id": "walkerhound-hunting",
+      "name": "Drools Active Adult",
+      "price_inr": 1700,
+      "image": "https://m.media-amazon.com/images/I/71PY8l5hxaL._AC_SL1500_.jpg",
+      "description": "Fuel for tracking hounds with high endurance needs."
+    },
+    {
+      "id": "walkerhound-protein",
+      "name": "Taste of the Wild Wetlands",
+      "price_inr": 2750,
+      "image": "https://m.media-amazon.com/images/I/81UezVx39QL._AC_SL1500_.jpg",
+      "description": "Maintains energy and stamina during long hunts."
+    }
+  ],
+
+  "weimaraner": [
+    {
+      "id": "weimaraner-athletic",
+      "name": "Orijen Original",
+      "price_inr": 3800,
+      "image": "https://m.media-amazon.com/images/I/71E6tD7cE2L._AC_SL1500_.jpg",
+      "description": "Premium protein diet for fast, active Weimaraners."
+    },
+    {
+      "id": "weimaraner-digestive",
+      "name": "Royal Canin Large Digestive Care",
+      "price_inr": 2500,
+      "image": "https://m.media-amazon.com/images/I/71mP0xSgEIL._AC_SL1500_.jpg",
+      "description": "Reduces stomach sensitivity common in deep-chested breeds."
+    }
+  ],
+
+  "welsh_springer_spaniel": [
+    {
+      "id": "welshspringer-coat",
+      "name": "Royal Canin Medium Adult",
+      "price_inr": 1900,
+      "image": "https://m.media-amazon.com/images/I/71pZKHYt7HL._AC_SL1500_.jpg",
+      "description": "Supports coat shine and energetic activity levels."
+    },
+    {
+      "id": "welshspringer-digestive",
+      "name": "Science Diet Sensitive Stomach",
+      "price_inr": 2600,
+      "image": "https://m.media-amazon.com/images/I/81llh-n+ctL._AC_SL1500_.jpg",
+      "description": "Perfect for spaniels prone to digestive issues."
+    }
+  ],
+
+  "west_highland_white_terrier": [
+    {
+      "id": "westie-skin",
+      "name": "Royal Canin West Highland Terrier Adult",
+      "price_inr": 1850,
+      "image": "https://m.media-amazon.com/images/I/81sFuPu6pQL._AC_SL1500_.jpg",
+      "description": "Especially formulated for Westies with sensitive skin."
+    },
+    {
+      "id": "westie-coat",
+      "name": "Farmina N&D Mini Cod & Pumpkin",
+      "price_inr": 1950,
+      "image": "https://m.media-amazon.com/images/I/71bhEJy+SmL._AC_SL1500_.jpg",
+      "description": "Boosts coat whiteness and texture."
+    }
+  ],
+
+  "whippet": [
+    {
+      "id": "whippet-lean",
+      "name": "Orijen Six Fish",
+      "price_inr": 3950,
+      "image": "https://m.media-amazon.com/images/I/71E6tD7cE2L._AC_SL1500_.jpg",
+      "description": "Supports lean muscle and high-speed sighthound performance."
+    },
+    {
+      "id": "whippet-light",
+      "name": "Royal Canin Digestive Care",
+      "price_inr": 2300,
+      "image": "https://m.media-amazon.com/images/I/71mP0xSgEIL._AC_SL1500_.jpg",
+      "description": "Gentle on stomachs and helps maintain an ideal lean physique."
+    }
+  ],
+
+  "wire-haired_fox_terrier": [
+    {
+      "id": "whfox-terrier",
+      "name": "Pedigree PRO Small & Medium Active",
+      "price_inr": 780,
+      "image": "https://m.media-amazon.com/images/I/81kR2-fz85L._AC_SL1500_.jpg",
+      "description": "Meets the energy needs of athletic fox terriers."
+    },
+    {
+      "id": "whfox-terrier-coat",
+      "name": "Farmina N&D Lamb Mini",
+      "price_inr": 1850,
+      "image": "https://m.media-amazon.com/images/I/71bhEJy+SmL._AC_SL1500_.jpg",
+      "description": "Supports wire coat texture and healthy skin."
+    }
+  ],
+
+  "yorkshire_terrier": [
+    {
+      "id": "yorkie-coat",
+      "name": "Royal Canin Yorkshire Terrier Adult",
+      "price_inr": 1850,
+      "image": "https://m.media-amazon.com/images/I/71n6LqF9JlL._AC_SL1500_.jpg",
+      "description": "Enhances long silky coats and reduces tartar buildup."
+    },
+    {
+      "id": "yorkie-sensitive",
+      "name": "Farmina N&D Mini Chicken",
+      "price_inr": 1850,
+      "image": "https://m.media-amazon.com/images/I/71bhEJy+SmL._AC_SL1500_.jpg",
+      "description": "Great for Yorkies with sensitive digestion."
+    }
+  ]
+}
+
+
+
+
+
+
